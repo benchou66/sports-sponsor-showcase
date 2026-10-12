@@ -1,11 +1,17 @@
 # -*- coding: utf-8 -*-
 """Build the static showcase site from the scraped JSON.
-Usage: py -I -X utf8 scripts/build.py <sponsor_data.json> <raw_img_dir> <enrich_dir> <site_out_dir>
+Usage: py -I -X utf8 scripts/build.py <sponsor_data.json> <raw_img_dir> <enrich_dir> <site_out_dir> [data_out_dir]
+
+If data_out_dir is given, the original (full-size) images are expected under
+<data_out_dir>/images_original/<id>/<original filename> and a localized copy of the
+scraped JSON (all image fields pointing at local files) is written to
+<data_out_dir>/sponsor_data.json.
 """
 import sys, os, re, json, html, glob, random, datetime
 from PIL import Image, ImageOps
 
 SRC_JSON, RAW_IMG, ENRICH_DIR, OUT = sys.argv[1:5]
+DATA_OUT = sys.argv[5] if len(sys.argv) > 5 else ""
 SCRAPE_DATE = "2026-10-12"
 SOURCE_SITE = "https://sponsor.sports.gov.tw/"
 SOURCE_NAME = "體育署 體育運動捐贈媒合平臺"
@@ -91,19 +97,29 @@ for r in records:
     idir = os.path.join(OUT, "img", str(rid)); os.makedirs(idir, exist_ok=True)
     r["img"] = {"cover": "", "cover_sm": "", "story": [], "plan": [], "photos": []}
     counters = {"story": 0, "plan": 0, "photo": 0}
+    # map original url -> {web: site path, original: local original path}
+    local_map = {}
     for im in r.get("images", []):
         if not im.get("file"): continue
         src = os.path.join(RAW_IMG, im["file"])
+        orig_rel = f"data/images_original/{im['file']}"
+        if DATA_OUT and not os.path.exists(os.path.join(DATA_OUT, "images_original", im["file"])):
+            orig_rel = ""  # original copy missing locally
+        web = ""
         if im["role"] == "cover":
-            if optimize(src, os.path.join(idir, "cover.jpg"), 1600): r["img"]["cover"] = f"img/{rid}/cover.jpg"
+            if optimize(src, os.path.join(idir, "cover.jpg"), 1600): r["img"]["cover"] = web = f"img/{rid}/cover.jpg"
             if optimize(src, os.path.join(idir, "cover_sm.jpg"), 720, 80): r["img"]["cover_sm"] = f"img/{rid}/cover_sm.jpg"
         else:
             role = im["role"]; counters[role] += 1
             fn = f"{role}-{counters[role]}.jpg"
             if optimize(src, os.path.join(idir, fn), 1400):
-                r["img"]["photos" if role == "photo" else role].append(f"img/{rid}/{fn}")
+                web = f"img/{rid}/{fn}"
+                r["img"]["photos" if role == "photo" else role].append(web)
+        local_map[im["url"]] = {"web": web, "original": orig_rel}
+        im["web_file"] = web; im["original_file"] = orig_rel
     if not r["img"]["cover"] and r["img"]["photos"]:
         r["img"]["cover"] = r["img"]["photos"][0]; r["img"]["cover_sm"] = r["img"]["photos"][0]
+    r["_local_map"] = local_map
 
 records.sort(key=lambda r: -r["score"])
 sports = sorted({r["sport"] for r in records}, key=lambda s: -sum(1 for r in records if r["sport"] == s))
@@ -560,11 +576,33 @@ with open(os.path.join(OUT, "assets", "detail.js"), "w", encoding="utf-8") as f:
 with open(os.path.join(OUT, "index.html"), "w", encoding="utf-8") as f: f.write(render_index())
 for r in records:
     with open(os.path.join(OUT, "p", f"{r['id']}.html"), "w", encoding="utf-8") as f: f.write(render_detail(r))
-# site data export (clean, without raw tokens)
-export = []
-for r in records:
-    e = {k: v for k, v in r.items() if k not in ("token", "cover_list", "need_flags_list", "order", "images", "score")}
-    export.append(e)
-with open(os.path.join(OUT, "data", "athletes.json") if os.path.isdir(os.path.join(OUT, "data")) else os.path.join(OUT, "athletes.json"), "w", encoding="utf-8") as f:
-    json.dump(export, f, ensure_ascii=False, indent=1)
+# ---------- data exports: every image field points at a LOCAL file ----------
+IMG_FIELDS = ("cover", "story_images", "plan_images", "photos")
+def localized(r, kind):
+    """kind = 'web' (paths relative to site/) or 'original' (paths relative to repo root)."""
+    m = r["_local_map"]
+    def loc(u):
+        hit = m.get(u, {})
+        return hit.get(kind) or hit.get("web") or ""
+    e = {k: v for k, v in r.items() if k not in ("token", "cover_list", "need_flags_list", "order", "images", "score", "_local_map", "img")}
+    e["cover"] = loc(r.get("cover") or r.get("cover_list"))
+    e["cover_thumb"] = r["img"]["cover_sm"] if kind == "web" else ""
+    e["story_images"] = [p for p in (loc(u) for u in r.get("story_images", [])) if p]
+    e["plan_images"] = [p for p in (loc(u) for u in r.get("plan_images", [])) if p]
+    e["photos"] = [p for p in (loc(u) for u in r.get("photos", [])) if p]
+    e["images"] = [{"role": im["role"], "file": (im.get("original_file") if kind == "original" else im.get("web_file")) or im.get("web_file", ""),
+                    "web_file": im.get("web_file", ""), "original_file": im.get("original_file", ""),
+                    "original_url": im["url"]} for im in r.get("images", []) if im.get("web_file") or im.get("original_file")]
+    if kind == "web":
+        e["cover_thumb"] = r["img"]["cover_sm"]
+    return e
+
+with open(os.path.join(OUT, "athletes.json"), "w", encoding="utf-8") as f:
+    json.dump([localized(r, "web") for r in records], f, ensure_ascii=False, indent=1)
+if DATA_OUT:
+    os.makedirs(DATA_OUT, exist_ok=True)
+    with open(os.path.join(DATA_OUT, "sponsor_data.json"), "w", encoding="utf-8") as f:
+        json.dump([localized(r, "original") for r in records], f, ensure_ascii=False, indent=1)
+    missing = sum(1 for r in records for im in r.get("images", []) if not im.get("original_file"))
+    print("localized data ->", DATA_OUT, "(images without local original copy:", missing, ")")
 print("built", len(records), "pages ->", OUT)

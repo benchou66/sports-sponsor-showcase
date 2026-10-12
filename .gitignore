@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 desktop.ini
+# 原始解析度圖檔（1.6 GB）只存本機，不進 git；網站用的壓縮版在 site/img/
+data/images_original/

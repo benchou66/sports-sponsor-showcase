@@ -13,8 +13,9 @@
 | `site/p/<id>.html` | 每位運動員／團隊一頁（9 大區塊，見下） |
 | `site/img/<id>/` | 壓縮後的圖片（封面 1600px、卡片 720px、故事／照片 1400px） |
 | `site/assets/` | 共用 CSS / JS |
-| `site/athletes.json` | 整理後的結構化資料（給其他系統用） |
-| `data/sponsor_data.json` | 原始抓取結果（含圖片對照表、官方頁面網址） |
+| `site/athletes.json` | 整理後的結構化資料（給其他系統用）；所有圖片欄位都是 `img/<id>/…` 本機路徑 |
+| `data/sponsor_data.json` | 完整抓取結果；所有圖片欄位都是 `data/images_original/<id>/<原檔名>` 本機路徑，每張圖的 `original_url` 只作來源註記 |
+| `data/images_original/<id>/` | 官網原始解析度圖檔（1,056 張、1.6 GB，檔名維持官網原名）。只存本機與 OneDrive，不進 git |
 | `data/enrich/` | 網路搜尋補充的媒體報導／社群連結（含出處） |
 | `scripts/scrape.py` | 抓取程式 |
 | `scripts/build.py` | 網站產生器 |
@@ -39,8 +40,10 @@
 
 ```bash
 py -I -X utf8 scripts/scrape.py <listing.html> <out_dir> <raw_detail_dir> <raw_img_dir>
-py -I -X utf8 scripts/build.py data/sponsor_data.json <raw_img_dir> data/enrich site
+py -I -X utf8 scripts/build.py <scrape_out>/sponsor_data.json data/images_original data/enrich site data
 ```
+
+第 5 個參數 `data` 會把圖片欄位改成本機路徑後輸出 `data/sponsor_data.json`。
 
 listing.html 為 https://sponsor.sports.gov.tw/Home/ApplySearch 的原始 HTML。
 
