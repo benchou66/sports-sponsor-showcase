@@ -2,14 +2,70 @@
  {
   "id": 3481,
   "name": "駱柏丞",
-  "links": [],
-  "notes": "搜尋未找到可確認為該自由車選手（高雄市文山高中）的報導或社群頁面，故不收錄。"
+  "links": [
+   {
+    "title": "高雄市文山高中駱柏丞在自由車賽混合團體計時賽中勇奪銀牌。（高雄市教育局）",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5245278",
+    "source": "official",
+    "outlet": "sports.ltn.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "Unix氣壓式按摩器：自由車混合團體計時賽銀牌選手｜駱柏丞",
+    "url": "https://www.facebook.com/unixairsmart/posts/1491169003034001/",
+    "source": "facebook",
+    "outlet": "Facebook（Unix氣壓式按摩器）",
+    "date": "2025-12-12",
+    "summary": "贊助商貼文介紹駱柏丞在第三屆巴林青年亞運自由車混合團體計時賽與隊友奪銀。",
+    "http_status": 400
+   },
+   {
+    "title": "Taiwan Cycling Union 車手頁：駱柏丞（文山高中自由車隊）",
+    "url": "https://www.tsu.com.tw/rider/detail/TCU-jp4leytlwkax2yr6",
+    "source": "other",
+    "outlet": "Taiwan Cycling Union",
+    "date": "",
+    "summary": "臺灣自由車聯盟網站的駱柏丞車手資料頁，列出2023、2024年賽事積分與成績。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋未找到可確認為該自由車選手（高雄市文山高中）的報導或社群頁面，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3694,
   "name": "陳柏毓",
-  "links": [],
-  "notes": "同名者多：搜尋結果幾乎都是旅美棒球投手陳柏毓，與本筆視障保齡球選手無關，全部不收錄。"
+  "links": [
+   {
+    "title": "陳柏毓-視障保齡球選手的粉絲專頁",
+    "url": "https://www.facebook.com/profile.php?id=61573328353672",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "球齡2年就站上全國舞台 視障按摩師陳柏毓帕拉保齡球奪季軍",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5338325",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2026-02-10",
+    "summary": "視障按摩師陳柏毓球齡僅兩年，在115年全國會長盃帕拉保齡球錦標賽獲第3名。",
+    "http_status": 200
+   },
+   {
+    "title": "視障朋友陳柏毓 勇奪「115年全國會長盃帕拉保齡球錦標賽」季軍",
+    "url": "https://tw.news.yahoo.com/%E8%A6%96%E9%9A%9C%E6%9C%8B%E5%8F%8B%E9%99%B3%E6%9F%8F%E6%AF%93-%E5%8B%87%E5%A5%AA-115%E5%B9%B4%E5%85%A8%E5%9C%8B%E6%9C%83%E9%95%B7%E7%9B%83%E5%B8%95%E6%8B%89%E4%BF%9D%E9%BD%A1%E7%90%83%E9%8C%A6%E6%A8%99%E8%B3%BD-%E5%AD%A3%E8%BB%8D-074555059.html",
+    "source": "news",
+    "outlet": "台灣好新聞（Yahoo奇摩新聞）",
+    "date": "2026-02-09",
+    "summary": "擁抱生命行善協會支持的視障選手陳柏毓在全國會長盃帕拉保齡球錦標賽奪季軍。",
+    "http_status": 200
+   }
+  ],
+  "notes": "同名者多：搜尋結果幾乎都是旅美棒球投手陳柏毓，與本筆視障保齡球選手無關，全部不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3585,
@@ -23,9 +79,18 @@
     "date": "2024-08-12",
     "summary": "報導高雄市光華國小男籃在國小籃球夏季聯賽（EBS 2024）複賽挺過腸胃炎、擊敗苗栗大同國小闖進八強。",
     "http_status": 200
+   },
+   {
+    "title": "高市光華、花縣明廉今對決爭五年級乙組王座",
+    "url": "https://www.mdnkids.com/content.asp?Link_String_=243L00000PWWEFH",
+    "source": "official",
+    "outlet": "mdnkids.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "搜尋結果中有屏東縣、新北市同名光華國小，已排除；僅保留明確為高雄市光華國小的報導。"
+  "notes": "搜尋結果中有屏東縣、新北市同名光華國小，已排除；僅保留明確為高雄市光華國小的報導。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3340,
@@ -66,9 +131,18 @@
     "date": "",
     "summary": "水上國中籃球後援會的 Facebook 粉絲專頁（體育聯盟類別，內容較少）。",
     "http_status": 400
+   },
+   {
+    "title": "嘉義縣立水上國中籃球隊",
+    "url": "https://www.instagram.com/basketballlab1314/reel/DIKvpCLz34m/?locale=de",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": ""
+  "notes": " ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3365,
@@ -82,9 +156,45 @@
     "date": "",
     "summary": "花蓮縣立國風國中（該籃球隊所屬學校）的官方 Facebook 專頁，非籃球隊專屬頁面。",
     "http_status": 400
+   },
+   {
+    "title": "JHBL國中籃球聯賽 國風男籃進軍總決賽女籃平隊史佳績",
+    "url": "https://taiwaninstantnews.com/2026/04/12/jhbl%E5%9C%8B%E4%B8%AD%E7%B1%83%E7%90%83%E8%81%AF%E8%B3%BD-%E5%9C%8B%E9%A2%A8%E7%94%B7%E7%B1%83%E9%80%B2%E8%BB%8D%E7%B8%BD%E6%B1%BA%E8%B3%BD%E5%A5%B3%E7%B1%83%E5%B9%B3%E9%9A%8A%E5%8F%B2%E4%BD%B3/",
+    "source": "news",
+    "outlet": "台灣即時新聞",
+    "date": "2026-04-12",
+    "summary": "國風國中男籃在114學年度JHBL甲級12強複賽5戰全勝晉級全國8強，女籃平隊史最佳。",
+    "http_status": 200
+   },
+   {
+    "title": "南竿鄉長盃籃球賽 花蓮國風國中展現進攻火力",
+    "url": "https://www.matsu-news.gov.tw/news/article/242570",
+    "source": "news",
+    "outlet": "馬祖日報",
+    "date": "2026-07-09",
+    "summary": "國風國中籃球隊首度赴離島參賽，在2026南竿鄉長盃以56比27擊敗木柵國中。",
+    "http_status": 200
+   },
+   {
+    "title": "國風男籃進軍JHBL國中籃球聯賽總決賽 女籃平隊史佳績",
+    "url": "https://www.hsnews.com.tw/education-and-culture/guo-feng-nan-lan-jinjhbl-guo-zhong-lan-qiu-lian-sai-jun-zong-jue-sai-nu-lan-ping-dui-shi-jia-ji.html",
+    "source": "news",
+    "outlet": "hsnews.com.tw",
+    "date": "2026-04-12",
+    "summary": "報導花蓮國風國中男籃晉級JHBL全國8強、女籃並列隊史最佳第12名。",
+    "http_status": 200
+   },
+   {
+    "title": "U18育創盃國際籃球邀請賽：國中組參賽隊伍-花蓮縣國風國中",
+    "url": "https://www.facebook.com/100084289145477/posts/1013266704826292/",
+    "source": "facebook",
+    "outlet": "Facebook（U18育創盃）",
+    "date": "",
+    "summary": "賽事主辦方介紹國風國中籃球隊為東部代表性JHBL勁旅，球風以快速反擊著稱。",
+    "http_status": 400
    }
   ],
-  "notes": "搜尋找不到籃球隊專屬報導或社群頁，僅保留所屬學校官方 FB 專頁。"
+  "notes": "搜尋找不到籃球隊專屬報導或社群頁，僅保留所屬學校官方 FB 專頁。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3426,
@@ -132,8 +242,81 @@
  {
   "id": 3396,
   "name": "張宸",
-  "links": [],
-  "notes": "同名者多，搜尋結果皆為中國大陸或其他球員，沒有可佐證的足球／大阪興國／UPSL 資料，故不收錄。"
+  "links": [
+   {
+    "title": "113年U-17男子潛力代表隊參與2025 U17亞洲盃資格賽名單",
+    "url": "https://www.ctfa.com.tw/representative/u-17/7792-113-u-17-2025-u17.html",
+    "source": "official",
+    "outlet": "ctfa.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "中華U17持續備戰亞洲盃資格賽 教頭讚子弟兵：防守可期待、板凳深度佳",
+    "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%8F%AFu17%E6%8C%81%E7%BA%8C%E5%82%99%E6%88%B0%E4%BA%9E%E6%B4%B2%E7%9B%83%E8%B3%87%E6%A0%BC%E8%B3%BD-%E6%95%99%E9%A0%AD%E8%AE%9A%E5%AD%90%E5%BC%9F%E5%85%B5-%E9%98%B2%E5%AE%88%E5%8F%AF%E6%9C%9F%E5%BE%85-%E6%9D%BF%E5%87%B3%E6%B7%B1%E5%BA%A6%E4%BD%B3-124643568.html",
+    "source": "official",
+    "outlet": "tw.sports.yahoo.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "中華U17結束鹿兒島移訓 陳春智盛讚子弟兵表現",
+    "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%8F%AFu17%E7%B5%90%E6%9D%9F%E9%B9%BF%E5%85%92%E5%B3%B6%E7%A7%BB%E8%A8%93-%E9%99%B3%E6%98%A5%E6%99%BA%E7%9B%9B%E8%AE%9A%E5%AD%90%E5%BC%9F%E5%85%B5%E8%A1%A8%E7%8F%BE-053721733.html",
+    "source": "official",
+    "outlet": "tw.sports.yahoo.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "奧運等級的盟多跑道 讓選手不同凡響 163人次破大會紀錄",
+    "url": "https://social.hsinchu.gov.tw/News_Content.aspx?n=187&s=222821",
+    "source": "official",
+    "outlet": "social.hsinchu.gov.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "亞洲體育顧問 Athletic Consultants Asia：高中生學生運動員Oscar Chang隨隊挑戰NCAA DII隊伍",
+    "url": "https://www.facebook.com/61573586215815/posts/122178293840786207/",
+    "source": "facebook",
+    "outlet": "Facebook（亞洲體育顧問）",
+    "date": "2026-03-07",
+    "summary": "Combine Academy男子足球員張宸（Oscar Chang）隨隊客場挑戰NCAA二級的North Greenville University。",
+    "http_status": 400
+   },
+   {
+    "title": "Athletic Consultants Asia：【Combine Academy 體育學院】Men's Soccer 2025年秋季賽程 張宸 Oscar Chang",
+    "url": "https://www.facebook.com/AthleticConsultantsAsia/posts/1241402534451710/",
+    "source": "facebook",
+    "outlet": "Facebook（Athletic Consultants Asia）",
+    "date": "2025-08-29",
+    "summary": "介紹美國Combine Academy足球校隊中場球員張宸在2025年秋季賽季前友誼賽的表現。",
+    "http_status": 400
+   },
+   {
+    "title": "athleticconsultantsasia Instagram：【Combine Academy 體育學院】男子足球員張宸 Oscar Chang 客場挑戰",
+    "url": "https://www.instagram.com/p/DVY5kuuk5Y3/",
+    "source": "instagram",
+    "outlet": "Instagram（Athletic Consultants Asia）",
+    "date": "2026-03-02",
+    "summary": "Instagram貼文介紹就讀美國Combine Academy、擔任校隊中場核心的張宸即將出戰客場比賽。",
+    "http_status": 200
+   },
+   {
+    "title": "恭喜本校畢業生 張宸 同學入選中華U-17代表隊",
+    "url": "https://dxes.hcc.edu.tw/p/404-1122-461206.php?Lang=zh-tw",
+    "source": "official",
+    "outlet": "新竹縣竹北市東興國小",
+    "date": "",
+    "summary": "東興國小公告恭賀畢業生張宸入選中華U-17代表隊。",
+    "http_status": 200
+   }
+  ],
+  "notes": "同名者多，搜尋結果皆為中國大陸或其他球員，沒有可佐證的足球／大阪興國／UPSL 資料，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3376,
@@ -156,15 +339,97 @@
     "date": "",
     "summary": "花蓮縣化仁國中（足球隊所屬學校）的官方 Facebook 專頁，非足球隊專屬頁面。",
     "http_status": 400
+   },
+   {
+    "title": "化仁國中足球隊粉絲專頁",
+    "url": "https://www.facebook.com/profile.php?id=100064448362053&locale=zh_TW",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "instagram粉絲專頁",
+    "url": "https://www.instagram.com/hrjh_football?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "回歸甲組-重返榮耀",
+    "url": "https://www.instagram.com/p/DIU_jJmy19J/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "2026年6月聯合報報導的化仁國中為棒球隊，非足球隊，已排除。"
+  "notes": "2026年6月聯合報報導的化仁國中為棒球隊，非足球隊，已排除。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3566,
   "name": "新北市自強國中女子足球隊",
-  "links": [],
-  "notes": "搜尋結果皆為新北市自強國小女足（另一支隊伍），未見自強國中女足的獨立報導或社群頁，故不收錄。"
+  "links": [
+   {
+    "title": "自強國中女足重新組隊全員小國一　草地轉戰室內適應中拚中學五人制",
+    "url": "https://gogoal.com.tw/archives/43380",
+    "source": "official",
+    "outlet": "gogoal.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "新北市自強國小女子足球隊 獲芬蘭赫爾辛基盃U12冠軍",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/4375177",
+    "source": "official",
+    "outlet": "sports.ltn.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "新北市自強國中足球隊 Facebook",
+    "url": "https://www.facebook.com/people/%E6%96%B0%E5%8C%97%E5%B8%82%E8%87%AA%E5%BC%B7%E5%9C%8B%E4%B8%AD%E8%B6%B3%E7%90%83%E9%9A%8A/100057200419460/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "新北市自強國中足球隊的Facebook粉絲專頁。",
+    "http_status": 400
+   },
+   {
+    "title": "新北市自強國中女子足球隊（@zcjhgirl2023）Instagram",
+    "url": "https://www.instagram.com/zcjhgirl2023/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "新北市自強國中女子足球隊的Instagram帳號，持續招生中。",
+    "http_status": 200
+   },
+   {
+    "title": "【學務處】狂賀!!本校女子足球隊勇奪114學年度中等學校足球聯賽11人制 全國亞軍!!!",
+    "url": "https://www.zcjh.ntpc.edu.tw/p/406-1000-13671,r55.php?Lang=zh-tw",
+    "source": "official",
+    "outlet": "新北市立自強國中",
+    "date": "",
+    "summary": "自強國中學務處公告女子足球隊勇奪114學年度中等學校足球聯賽11人制全國亞軍。",
+    "http_status": 200
+   },
+   {
+    "title": "接見新北市自強國小女子足球隊　總統：透過足球運動帶領臺灣走向世界　是最好的體育外交",
+    "url": "https://www.president.gov.tw/News/27813",
+    "source": "official",
+    "outlet": "president.gov.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋結果皆為新北市自強國小女足（另一支隊伍），未見自強國中女足的獨立報導或社群頁，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3596,
@@ -205,9 +470,54 @@
     "date": "2024-02-25",
     "summary": "回顧創立於1963年的大同足球隊歷史，並提及其2022年改名為台灣石虎隊。",
     "http_status": 200
+   },
+   {
+    "title": "臺灣石虎睽違一年重返北田 677人進場觀賽破企甲單場紀錄",
+    "url": "https://tw.sports.yahoo.com/news/%E8%87%BA%E7%81%A3%E7%9F%B3%E8%99%8E%E7%9D%BD%E9%81%95-%E5%B9%B4%E9%87%8D%E8%BF%94%E5%8C%97%E7%94%B0-677%E4%BA%BA%E9%80%B2%E5%A0%B4%E8%A7%80%E8%B3%BD%E7%A0%B4%E4%BC%81%E7%94%B2%E5%96%AE%E5%A0%B4%E7%B4%80%E9%8C%84-010000698.html",
+    "source": "official",
+    "outlet": "tw.sports.yahoo.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "臺灣石虎「Only ONE」主場吸逾500人助威 賞衛冕軍首敗！盼引企業資金到位",
+    "url": "https://tw.sports.yahoo.com/news/%E8%87%BA%E7%81%A3%E7%9F%B3%E8%99%8E-only-one-%E4%B8%BB%E5%A0%B4%E5%90%B8%E9%80%BE500%E4%BA%BA%E5%8A%A9%E5%A8%81-%E8%B3%9E%E8%A1%9B%E5%86%95%E8%BB%8D%E9%A6%96%E6%95%97-043000762.html",
+    "source": "official",
+    "outlet": "tw.sports.yahoo.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "國寶級足球隊重生 大同變身台灣石虎",
+    "url": "https://www.chinatimes.com/realtimenews/20220114005156-260403?chdtv",
+    "source": "official",
+    "outlet": "chinatimes.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "「大同足球隊」強勢回歸 盼催生台灣職足聯盟",
+    "url": "https://www.cna.com.tw/news/aspt/202506290221.aspx",
+    "source": "official",
+    "outlet": "cna.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "足球》睽違4年大同重返臺灣足壇 誓言挑戰企甲首冠",
+    "url": "https://tsna.com/article/108986",
+    "source": "official",
+    "outlet": "tsna.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "大同足球隊已改組更名為臺灣石虎足球隊；私立大同高中足球隊為另一隊，已排除。"
+  "notes": "大同足球隊已改組更名為臺灣石虎足球隊；私立大同高中足球隊為另一隊，已排除。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3652,
@@ -221,9 +531,36 @@
     "date": "",
     "summary": "藍鵲足球俱樂部的 Facebook 專頁，宗旨為推展足球向下紮根，並曾與東岸飛豹舉辦友誼賽。",
     "http_status": 400
+   },
+   {
+    "title": "勁球網採訪-取代責備的加油聲！藍鵲奪114小學生足球賽跨域組季軍　家長應援團：要讓孩子知道我們並肩作戰",
+    "url": "https://gogoal.com.tw/archives/82275",
+    "source": "official",
+    "outlet": "gogoal.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "運動部全民署丨小學生足球賽丨跨域組熱血回憶",
+    "url": "https://www.facebook.com/share/v/1E7JHHC7Jx/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "藍鵲足球俱樂部臉書Facebook",
+    "url": "https://www.facebook.com/share/1DU41j5PXy/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
    }
   ],
-  "notes": "名稱與項目吻合，但搜尋摘要未明確寫出所在地（宜蘭），僅依名稱與足球項目保留。"
+  "notes": "名稱與項目吻合，但搜尋摘要未明確寫出所在地（宜蘭），僅依名稱與足球項目保留。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3486,
@@ -253,8 +590,45 @@
  {
   "id": 3487,
   "name": "半線蒼鷹足球俱樂部",
-  "links": [],
-  "notes": "一般搜尋找不到相關報導；針對 FB/IG 的第二輪搜尋因搜尋額度用盡未能執行。"
+  "links": [
+   {
+    "title": "半線蒼鷹足球俱樂部臉書專頁",
+    "url": "https://www.facebook.com/babuzafc",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "半線蒼鷹足球俱樂部IG專頁",
+    "url": "https://www.instagram.com/babuzafootballclub/",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "半線蒼鷹足球俱樂部 - 維基百科",
+    "url": "https://zh.wikipedia.org/zh-tw/%E5%8D%8A%E7%B7%9A%E8%92%BC%E9%B7%B9%E8%B6%B3%E7%90%83%E4%BF%B1%E6%A8%82%E9%83%A8",
+    "source": "other",
+    "outlet": "維基百科",
+    "date": "",
+    "summary": "半線蒼鷹（Babuza FC）為2019年成立的彰化縣足球俱樂部，2026年首度取得台灣乙級足球聯賽資格。",
+    "http_status": 200
+   },
+   {
+    "title": "半線蒼鷹足球俱樂部：半線蒼鷹 BABUZA FC｜挑戰 2026/27 台灣乙級足球聯賽",
+    "url": "https://www.facebook.com/babuzafc/posts/1473111414833854/",
+    "source": "facebook",
+    "outlet": "Facebook（半線蒼鷹足球俱樂部）",
+    "date": "",
+    "summary": "俱樂部宣布正式踏上2026/27台灣乙級足球聯賽征途。",
+    "http_status": 400
+   }
+  ],
+  "notes": "一般搜尋找不到相關報導；針對 FB/IG 的第二輪搜尋因搜尋額度用盡未能執行。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3510,
@@ -268,9 +642,36 @@
     "date": "2021-02-19",
     "summary": "報導台東豐田國中足球隊奪全國冠軍後，縣府規劃興建標準足球場與學生宿舍。",
     "http_status": 200
+   },
+   {
+    "title": "豐田國中足球隊粉絲專頁",
+    "url": "https://www.facebook.com/ftjh.footballteam/about",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "豐田國中築夢樓啟用",
+    "url": "https://www.facebook.com/share/p/1LsBjourgq/",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "國泰世華-大樹計畫",
+    "url": "https://youtu.be/XOst8oasgZw?si=R6iIRjNH2YcpKXRo",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "同縣的豐里國小、豐田國小為不同學校，相關報導已排除；FB/IG 專頁搜尋因搜尋額度用盡未能執行。"
+  "notes": "同縣的豐里國小、豐田國小為不同學校，相關報導已排除；FB/IG 專頁搜尋因搜尋額度用盡未能執行。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3619,
@@ -322,7 +723,7 @@
     "http_status": 200
    }
   ],
-  "notes": "FB 與 IG 網址來自維基百科頁面（搜尋結果）的外部連結，非直接由搜尋引擎回傳。"
+  "notes": "FB 與 IG 網址來自維基百科頁面（搜尋結果）的外部連結，非直接由搜尋引擎回傳。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3471,
@@ -336,33 +737,234 @@
     "date": "2026-05-08",
     "summary": "報導和潤企業連續兩年贊助國立體育大學射箭隊，用於國手培育與訓練設備升級。",
     "http_status": 200
+   },
+   {
+    "title": "一起幫選手集氣，讓他們感受到滿滿的力量吧～Go Go",
+    "url": "https://www.facebook.com/share/v/1Bfv9WHAkw/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
    }
   ],
-  "notes": "FB/IG/YouTube 專頁搜尋因搜尋額度用盡未能執行。"
+  "notes": "FB/IG/YouTube 專頁搜尋因搜尋額度用盡未能執行。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3410,
   "name": "中信金融管理學院射箭隊",
   "links": [],
-  "notes": "搜尋只找到該校運動產業學程資料，未見射箭隊報導；FB/IG 搜尋因搜尋額度用盡未能執行。"
+  "notes": "搜尋只找到該校運動產業學程資料，未見射箭隊報導；FB/IG 搜尋因搜尋額度用盡未能執行。 ｜第二輪（2026-10-12）搜尋僅見中金院一般校園新聞與他校射箭隊，無射箭隊專屬頁面。"
  },
  {
   "id": 3586,
   "name": "鄭自強",
-  "links": [],
-  "notes": "同名者可能多，搜尋結果無任何與該射箭選手相符的報導（有一則為姓名相近的鄭祥輝，已排除），故不收錄。"
+  "links": [
+   {
+    "title": "沒有掌聲的奧運 身障運動平權失衡",
+    "url": "https://shuj.shu.edu.tw/blog/2023/03/26/%E6%B2%92%E6%9C%89%E6%8E%8C%E8%81%B2%E7%9A%84%E5%A5%A7%E9%81%8B-%E8%BA%AB%E9%9A%9C%E9%81%8B%E5%8B%95%E5%B9%B3%E6%AC%8A%E5%A4%B1%E8%A1%A1/",
+    "source": "official",
+    "outlet": "shuj.shu.edu.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "身障射箭運動員國手親身經歷 激勵慈科大原民生",
+    "url": "https://www.tcnews.com.tw/education/item/17941.html",
+    "source": "official",
+    "outlet": "tcnews.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "輪轉一片天：鄭自強的生命故事",
+    "url": "https://www.books.com.tw/products/0010699970",
+    "source": "official",
+    "outlet": "books.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "輪椅舞者　鄭自強：唯有堅定前行不能輸",
+    "url": "https://www.merit-times.com/news/48115",
+    "source": "official",
+    "outlet": "merit-times.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "太時髦！新北身障者時尚秀12/14登場 形象照搶先亮相",
+    "url": "https://www.cna.com.tw/postwrite/chi/421177",
+    "source": "official",
+    "outlet": "cna.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "鄭自強馬少 Facebook 粉絲專頁",
+    "url": "https://www.facebook.com/aking0416/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "鄭自強（馬少）的粉絲專頁，逾一萬名粉絲追蹤。",
+    "http_status": 400
+   },
+   {
+    "title": "馬少 Facebook 影片：一步一步累積、一天一天進步 #2028洛杉磯帕運 #帕拉射箭 #輪椅運動員",
+    "url": "https://www.facebook.com/aking.cheng/videos/806867645713116/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "鄭自強分享以2028洛杉磯帕運為目標的帕拉射箭訓練日常。",
+    "http_status": 200
+   },
+   {
+    "title": "生命鬥士走進校園 輪椅舞者鄭自強分享逆境翻轉人生",
+    "url": "https://www.cna.com.tw/postwrite/chi/434124",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2026-05-21",
+    "summary": "雲林科技大學邀請輪椅舞者暨生命教育講師鄭自強演講，分享逆境翻轉的生命歷程。",
+    "http_status": 200
+   },
+   {
+    "title": "突破框架！新北推全台首創「無礙」時尚秀 30位身障者、導盲犬登上伸展台",
+    "url": "https://www.ntpc.gov.tw/ch/home.jsp?id=28&dataserno=202512140005",
+    "source": "official",
+    "outlet": "ntpc.gov.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   }
+  ],
+  "notes": "同名者可能多，搜尋結果無任何與該射箭選手相符的報導（有一則為姓名相近的鄭祥輝，已排除），故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3268,
   "name": "孕育射箭國手的搖籃-桃園市大竹國小",
-  "links": [],
-  "notes": "搜尋結果未出現大竹國小射箭隊的相關報導（僅見桌球計畫與租屋廣告），故不收錄。"
+  "links": [
+   {
+    "title": "尋找台灣神射手！ 射箭國手選拔賽 青年菁英選手齊聚《企業贊助》",
+    "url": "https://youtu.be/FBJH7U5QwYA?si=WOWqpzdtDavcbwQq",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "兆豐銀行舉辦「全國射箭菁英邀請賽」 培育金牌選手為國爭光《企業贊助》",
+    "url": "https://youtu.be/P2nZVplqGD4?si=SrNqXtFojdhj-qfs",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "聯詠長期贊助之富禮射箭隊感謝影片《企業贊助》",
+    "url": "https://youtu.be/l09bPOB2Oks?si=tUjtG77PqsAvdG9n",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "恭喜射箭隊參加「新竹市115年度市長盃射箭錦標賽」成績優異【桃園市大竹國小】",
+    "url": "http://www.dces.tyc.edu.tw/info.php?a=6a597964cd24c",
+    "source": "official",
+    "outlet": "桃園市大竹國小",
+    "date": "",
+    "summary": "大竹國小公告射箭隊在新竹市115年度市長盃射箭錦標賽成績優異，感謝李婉儀教練與劉炳宏老師指導。",
+    "http_status": 200
+   },
+   {
+    "title": "桃市大竹射箭隊 返校練拉弓放箭",
+    "url": "https://www.mdnkids.com/content.asp?sn=3433",
+    "source": "news",
+    "outlet": "國語日報",
+    "date": "2021-08-19",
+    "summary": "大竹國小射箭隊學生返校在李婉儀教練指導下練習，射箭是該校特色課程。",
+    "http_status": 200
+   },
+   {
+    "title": "大竹國小射箭隊 Facebook",
+    "url": "https://www.facebook.com/pages/%E5%A4%A7%E7%AB%B9%E5%9C%8B%E5%B0%8F%E5%B0%84%E7%AE%AD%E9%9A%8A/313217292120601/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "大竹國小射箭隊的Facebook專頁。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋結果未出現大竹國小射箭隊的相關報導（僅見桌球計畫與租屋廣告），故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3427,
   "name": "國立中正大學射箭隊",
-  "links": [],
-  "notes": "搜尋結果僅顯示中正大學為賽事場地或承辦單位，沒有校隊本身的報導，故不收錄；FB/IG 搜尋因搜尋額度用盡未能執行。"
+  "links": [
+   {
+    "title": "Instagram",
+    "url": "https://www.instagram.com/archery.ccu?igsh=MWI4bjB2OWZkdGVraw==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "Facebook",
+    "url": "https://www.facebook.com/archery.ccu",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "弦起中正：國立中正大學射箭隊（中正e報）",
+    "url": "https://enews.ccu.edu.tw/p/405-1089-90639,c4092.php?Lang=zh-tw",
+    "source": "official",
+    "outlet": "國立中正大學 中正e報",
+    "date": "2026-06-01",
+    "summary": "中正e報專題，介紹射箭隊近年在全大運與國際賽的表現。",
+    "http_status": 200
+   },
+   {
+    "title": "弦起中正：國立中正大學射箭隊（影片）",
+    "url": "https://www.youtube.com/watch?v=-f9jRVwV268",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "",
+    "summary": "中正e報製作的中正大學射箭隊專題影片。",
+    "http_status": 200
+   },
+   {
+    "title": "國立中正大學 正典射箭隊：113全國大專校院運動會 精彩瞬間",
+    "url": "https://www.facebook.com/archery.ccu/posts/913708167224788/",
+    "source": "facebook",
+    "outlet": "Facebook（正典射箭隊）",
+    "date": "",
+    "summary": "正典射箭隊粉絲專頁分享113年全大運射箭賽場精彩瞬間。",
+    "http_status": 400
+   },
+   {
+    "title": "弦起中正：國立中正大學射箭隊",
+    "url": "https://www.peopo.org/news/847038",
+    "source": "news",
+    "outlet": "PeoPo公民新聞",
+    "date": "2026-06-01",
+    "summary": "公民新聞專題介紹中正大學射箭隊的戰績、反曲弓與複合弓差異及選手心理訓練。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋結果僅顯示中正大學為賽事場地或承辦單位，沒有校隊本身的報導，故不收錄；FB/IG 搜尋因搜尋額度用盡未能執行。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3589,
@@ -376,15 +978,115 @@
     "date": "2025-08-28",
     "summary": "報導海山高中男子手球隊在2025年巴黎國際手球分齡賽奪得U16男子組冠軍。",
     "http_status": 200
+   },
+   {
+    "title": "新北市立海山高中手球代表隊",
+    "url": "https://www.facebook.com/share/1DzuEpvJhN/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "新北海山鯊魚",
+    "url": "https://www.instagram.com/hshs.sharks.handballteam?igsh=MWpsc3Bsc2J3cHR6NA==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "FB/IG/YouTube 專頁搜尋因搜尋額度用盡未能執行。"
+  "notes": "FB/IG/YouTube 專頁搜尋因搜尋額度用盡未能執行。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3584,
   "name": "中華民國身障棒壘球國際賽代表隊",
-  "links": [],
-  "notes": "搜尋結果中的報導經開啟確認後均與身障棒壘球協會無關，故不收錄。"
+  "links": [
+   {
+    "title": "身障棒壘球協會官方網站",
+    "url": "https://www.ctbsad.org.tw/",
+    "source": "official",
+    "outlet": "ctbsad.org.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "身障棒壘球協會FB粉絲專頁",
+    "url": "https://www.facebook.com/CTBSAD/",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "身障棒壘球協會IG",
+    "url": "https://www.instagram.com/ctbsadct/",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "身障棒壘球協會youtube頻道",
+    "url": "https://www.youtube.com/@CTBSAD",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "身心障礙組-國際賽｜社團法人中華民國身障棒壘球協會",
+    "url": "https://www.ctbsad.org.tw/disability-division-international-events/",
+    "source": "official",
+    "outlet": "中華民國身障棒壘球協會",
+    "date": "",
+    "summary": "協會官網介紹日本每四年舉辦的世界身體障害者野球大會，以及2026年第六屆組隊參賽計畫。",
+    "http_status": 200
+   },
+   {
+    "title": "身障棒球》福岡世界賽台灣代表隊開訓 總教練楊騏嘉：我們不是去觀光的！",
+    "url": "https://tw.sports.yahoo.com/news/%E8%BA%AB%E9%9A%9C%E6%A3%92%E7%90%83-%E7%A6%8F%E5%B2%A1%E4%B8%96%E7%95%8C%E8%B3%BD%E5%8F%B0%E7%81%A3%E4%BB%A3%E8%A1%A8%E9%9A%8A%E9%96%8B%E8%A8%93-%E7%B8%BD%E6%95%99%E7%B7%B4%E6%A5%8A%E9%A8%8F%E5%98%89-%E6%88%91%E5%80%91%E4%B8%8D%E6%98%AF%E5%8E%BB%E8%A7%80%E5%85%89%E7%9A%84-062016726.html",
+    "source": "news",
+    "outlet": "Yahoo奇摩運動",
+    "date": "2026-08-23",
+    "summary": "身障棒協公開徵選的台灣代表隊展開三個月集訓，備戰2026年11月福岡世界身障棒球賽。",
+    "http_status": 200
+   },
+   {
+    "title": "身障棒球／福岡世界賽中華隊開訓 總教練楊騏嘉：我們不是去觀光的",
+    "url": "https://udn.com/news/story/7001/9709610",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-08-23",
+    "summary": "中華民國身障棒壘球協會組成的代表隊在新北開訓，目標打進福岡世界賽決賽。",
+    "http_status": 200
+   },
+   {
+    "title": "世界身障棒球賽》台灣隊今開訓 前職棒投手賴有亮入選18人名單",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5549412",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2026-08-23",
+    "summary": "身障棒協遴選的18人代表隊舉行開訓典禮，前職棒投手賴有亮入選。",
+    "http_status": 200
+   },
+   {
+    "title": "社團法人中華民國身障棒壘球協會：【挺進世界盃｜大代表者(領隊)的話】",
+    "url": "https://www.facebook.com/CTBSAD/posts/642943241198007/",
+    "source": "facebook",
+    "outlet": "Facebook（身障棒壘球協會）",
+    "date": "2023-07-02",
+    "summary": "協會粉絲專頁分享赴日參加世界身障棒球賽的領隊感言。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋結果中的報導經開啟確認後均與身障棒壘球協會無關，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3555,
@@ -407,15 +1109,106 @@
     "date": "2025-12-21",
     "summary": "報導新北市福營國中在台北城市盃以5比4險勝北市陽明，拿下本屆首勝。",
     "http_status": 200
+   },
+   {
+    "title": "「永不放棄 • 福營棒球 x 品格 x 成長」粉絲團",
+    "url": "https://www.facebook.com/FuYingGuoZhongBangQiuDui/",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "「不是只有打球，還要懂修球：福營棒球隊的感恩教育」",
+    "url": "https://242.tw/2024/05/17/%E7%A6%8F%E7%87%9F%E5%9C%8B%E4%B8%AD%E6%A3%92%E7%90%83%E9%9A%8A-%E4%BF%AE%E5%BE%A9%E6%AF%80%E6%90%8D%E6%A3%92%E7%90%83/",
+    "source": "official",
+    "outlet": "242.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "「奪魁新北、進軍國賽！福營國中棒球隊再寫歷史」",
+    "url": "https://242.tw/2024/11/24/%E5%89%8D%E9%80%B2%E5%9C%8B%E8%B3%BD%E7%A6%8F%E7%87%9F%E6%A3%92%E7%90%83%E9%9A%8A-%E5%A5%AA%E6%96%B0%E5%8C%97%E5%86%A0%E8%BB%8D/",
+    "source": "official",
+    "outlet": "242.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "「棒球夢與學業並行──福營國中李玟勳赴日逐夢前的完美告白」",
+    "url": "https://sports.ettoday.net/news/2005590",
+    "source": "official",
+    "outlet": "sports.ettoday.net（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "「學生球隊職業魂！福營國中改造地下室、打造夢幻練習殿堂」",
+    "url": "https://sports.ettoday.net/news/1587449",
+    "source": "official",
+    "outlet": "sports.ettoday.net（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": ""
+  "notes": " ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3484,
   "name": "臺南市國立北門農工棒球隊",
-  "links": [],
-  "notes": "搜尋結果未出現北門農工棒球隊的相關報導，故不收錄。"
+  "links": [
+   {
+    "title": "國立北門農工棒球隊網站",
+    "url": "https://www.facebook.com/share/1SvvtBFeda/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "臺南市北門農工青棒隊 - 台灣棒球維基館",
+    "url": "https://twbsball.dils.tku.edu.tw/index.php/%E8%87%BA%E5%8D%97%E5%B8%82%E5%8C%97%E9%96%80%E8%BE%B2%E5%B7%A5%E9%9D%92%E6%A3%92%E9%9A%8A",
+    "source": "other",
+    "outlet": "台灣棒球維基館",
+    "date": "",
+    "summary": "台灣棒球維基館的北門農工青棒隊條目，記錄2014年草創、2018年正式成軍與歷年參賽名單。",
+    "http_status": 200
+   },
+   {
+    "title": "PMAI 北門農工棒球社（@pmai_baseball）Instagram",
+    "url": "https://www.instagram.com/pmai_baseball/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "北門農工棒球社的Instagram帳號。",
+    "http_status": 200
+   },
+   {
+    "title": "PMAI Baseball Team（北門農工棒球隊）Facebook",
+    "url": "https://www.facebook.com/people/PMAI-Baseball-Team-%E5%8C%97%E9%96%80%E8%BE%B2%E5%B7%A5%E6%A3%92%E7%90%83%E9%9A%8A/61574082786609/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "北門農工棒球隊的Facebook專頁，介紹球隊2014年草創、2018年由梁琮琪與陳信裕老師協助正式成軍。",
+    "http_status": 400
+   },
+   {
+    "title": "北門農工棒球社 Facebook",
+    "url": "https://www.facebook.com/p/%E5%8C%97%E9%96%80%E8%BE%B2%E5%B7%A5%E6%A3%92%E7%90%83%E7%A4%BE-100063847993675/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "北門農工棒球社（PMAI棒球社）的Facebook專頁。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋結果未出現北門農工棒球隊的相關報導，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3524,
@@ -438,14 +1231,60 @@
     "date": "2025-01-10",
     "summary": "報導輔仁大學棒球隊以5比4擊敗文化大學、晉級大專棒球聯賽四強。",
     "http_status": 200
+   },
+   {
+    "title": "輔仁大學棒球隊粉絲專頁",
+    "url": "https://www.facebook.com/fjubaseball?locale=zh_TW",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
    }
   ],
-  "notes": "FB/IG 專頁搜尋因搜尋額度用盡未能執行。"
+  "notes": "FB/IG 專頁搜尋因搜尋額度用盡未能執行。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3259,
   "name": "宜蘭縣立三星國民中學棒球隊",
-  "links": [],
-  "notes": "搜尋結果多為三星國小棒球隊，與國中隊不同，已排除。"
+  "links": [
+   {
+    "title": "宜蘭縣三星國中棒球隊 Facebook",
+    "url": "https://www.facebook.com/people/%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%B8%89%E6%98%9F%E5%9C%8B%E4%B8%AD%E6%A3%92%E7%90%83%E9%9A%8A/61572147387689/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "宜蘭縣三星國中棒球隊的Facebook粉絲專頁。",
+    "http_status": 400
+   },
+   {
+    "title": "三星國中棒球隊（@sanshingbaseball）Instagram",
+    "url": "https://www.instagram.com/sanshingbaseball/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "三星國中棒球隊的Instagram帳號。",
+    "http_status": 200
+   },
+   {
+    "title": "三星國中棒球隊簡介",
+    "url": "https://www.ssjh.ilc.edu.tw/2014/09/09/%E4%B8%89%E6%98%9F%E5%9C%8B%E4%B8%AD%E6%A3%92%E7%90%83%E9%9A%8A%E7%B0%A1%E4%BB%8B/",
+    "source": "official",
+    "outlet": "宜蘭縣立三星國中",
+    "date": "2014-09-09",
+    "summary": "校方網頁介紹棒球隊自民國80年成立以來的發展與歷年比賽成績。",
+    "http_status": 200
+   },
+   {
+    "title": "宜蘭縣三星國中青少棒隊 - 台灣棒球維基館",
+    "url": "https://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%B8%89%E6%98%9F%E5%9C%8B%E4%B8%AD%E9%9D%92%E5%B0%91%E6%A3%92%E9%9A%8A",
+    "source": "other",
+    "outlet": "台灣棒球維基館",
+    "date": "",
+    "summary": "台灣棒球維基館的三星國中青少棒隊條目，記錄隊史、畢業校友職棒球員與歷年參賽名單。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋結果多為三星國小棒球隊，與國中隊不同，已排除。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  }
 ]

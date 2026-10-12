@@ -47,14 +47,97 @@
     "date": "2026-07-13",
     "summary": "報導姚廷蓁等攀岩選手抗議未獲派隊參加名古屋亞運。",
     "http_status": 200
+   },
+   {
+    "title": "OUTSiDERs 戶外風格誌－人物專訪",
+    "url": "https://www.outsiders.com.tw/post/36350",
+    "source": "official",
+    "outlet": "outsiders.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "UP Sports 運動員人物專訪",
+    "url": "https://www.upsports.tw/blog/posts/interview-20",
+    "source": "official",
+    "outlet": "upsports.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
-  ]
+  ],
+  "notes": " ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3521,
   "name": "北梅國中運動代表隊",
-  "links": [],
-  "notes": "搜尋「北梅國中 角力」未找到可確認的相關報導或官方頁面"
+  "links": [
+   {
+    "title": "YM教練 yumin_tr.cc  [FB]",
+    "url": "https://www.facebook.com/share/1BDxj3qwj2/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "YM教練 yumin_tr.cc  [IG]",
+    "url": "https://www.instagram.com/yumin_tr.cc?igsh=dDQ4MTM5ZG5penI%3D&utm_source=qr",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "北梅國中角力隊獲贈新設備 訓練安全再升級",
+    "url": "https://news.ipcf.org.tw/203875",
+    "source": "news",
+    "outlet": "原視新聞網 TITV",
+    "date": "2026-06-10",
+    "summary": "南投國姓鄉北梅國中角力隊獲贈比賽等級角力墊，取代多年來使用的一般軟墊。",
+    "http_status": 200
+   },
+   {
+    "title": "全聯佩樺基金會補助50萬予北梅國中 打造更安全的角力學習環境",
+    "url": "https://www.cna.com.tw/business/chinese/437181",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2026-06-24",
+    "summary": "全聯佩樺圓夢社會福利基金會補助50萬元，協助深耕角力34年的北梅國中建置專業角力墊。",
+    "http_status": 200
+   },
+   {
+    "title": "北梅國中獲贈新角力墊 偏鄉孩子訓練更安全",
+    "url": "https://n.yam.com/Article/20260605259507",
+    "source": "news",
+    "outlet": "客家電視台（蕃新聞）",
+    "date": "2026-06-05",
+    "summary": "客家電視台報導北梅國中角力隊獲企業基金會「愛心育苗圓夢計畫」支持，打造正規角力墊。",
+    "http_status": 200
+   },
+   {
+    "title": "客家新聞 Hakka News Facebook 影片：南投縣國姓鄉北梅國中深耕角力運動超過34年",
+    "url": "https://www.facebook.com/HakkaNews2003/videos/4441061839497744/",
+    "source": "facebook",
+    "outlet": "Facebook（客家新聞）",
+    "date": "",
+    "summary": "客家新聞影片報導北梅國中角力隊獲贈符合比賽規格的全新角力墊。",
+    "http_status": 200
+   },
+   {
+    "title": "2025/04/23 北梅國中—摔出屬於他們的夢想故事",
+    "url": "http://www.dajia.org.tw/RWD01/OnePage.aspx?tid=8&id=994",
+    "source": "other",
+    "outlet": "中華大家功德會",
+    "date": "2025-04-23",
+    "summary": "中華大家功德會「夢想+」計畫分享，北梅國中角力隊在114年全中運希羅式角力奪一金一銀二銅。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋「北梅國中 角力」未找到可確認的相關報導或官方頁面 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3454,
@@ -68,21 +151,85 @@
     "date": "2021-07-28",
     "summary": "報導提到陳玟卉的弟弟陳玟霖是壁球國手。",
     "http_status": 200
+   },
+   {
+    "title": "2025年第16屆東亞壁球錦標賽國家代表隊參賽紀錄",
+    "url": "https://www.squash.org.tw/news_info/12/1/299",
+    "source": "official",
+    "outlet": "squash.org.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2025年第23屆亞洲壁球個人錦標賽國家代表隊參賽紀錄",
+    "url": "https://www.squash.org.tw/news_info/12/1/302",
+    "source": "official",
+    "outlet": "squash.org.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "壁球錦標賽國際交流報導",
+    "url": "https://unews.nccu.edu.tw/unews/%EF%BC%88%EF%BD%86%EF%BC%89%E5%A3%81%E7%90%83%E9%8C%A6%E6%A8%99%E8%B3%BD%E5%9C%8B%E9%9A%9B%E4%BA%A4%E6%B5%81%E3%80%80%E9%99%B3%E7%8E%9F%E9%9C%96%E6%94%BE%E7%9C%BC%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%A5%A7/",
+    "source": "official",
+    "outlet": "unews.nccu.edu.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "【壁球國手】陳玟霖：壁球和比賽，讓我真實地活在這世界",
+    "url": "https://sport-islander.com/squash_interview_chen/",
+    "source": "official",
+    "outlet": "sport-islander.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "僅此一則，且為間接提及（姊姊陳玟卉奪奧運銅牌的報導）"
+  "notes": "僅此一則，且為間接提及（姊姊陳玟卉奪奧運銅牌的報導） ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3611,
   "name": "張晉魁",
   "links": [],
-  "notes": "搜尋未找到可確認的相關連結"
+  "notes": "搜尋未找到可確認的相關連結 ｜第二輪（2026-10-12）以Bing搜尋僅見同名個人IG／YouTube帳號，無法確認為該12歲冰球選手，故不收錄。"
  },
  {
   "id": 3696,
   "name": "陳姿憓",
-  "links": [],
-  "notes": "搜尋未找到可確認的相關連結"
+  "links": [
+   {
+    "title": "IG網址",
+    "url": "https://instagram.com/uptoyou_spin",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "楊怡強醫師 Instagram：《台灣第一個滑雪運動醫學團隊成型了？》近期很榮幸能夠認識陳姿憓選手",
+    "url": "https://www.instagram.com/p/DZPpgtpE3TU/",
+    "source": "instagram",
+    "outlet": "Instagram（snowdoc_ycy）",
+    "date": "2026-06-06",
+    "summary": "滑雪運動醫學醫師貼文介紹單板滑雪Freeride資格賽選手陳姿憓，為目前台灣排名最高的女子選手。",
+    "http_status": 200
+   },
+   {
+    "title": "John Ycy Facebook：《台灣第一個滑雪運動醫學團隊成型了？》陳姿憓選手",
+    "url": "https://www.facebook.com/yichiang.yang/posts/27553868650866273/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "醫師楊怡強分享為單板滑雪選手陳姿憓組成運動醫學團隊的經過。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋未找到可確認的相關連結 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3412,
@@ -96,21 +243,67 @@
     "date": "2024-08-13",
     "summary": "校長談話列出中信金融管理學院代表隊包含棒球、男籃、女籃、女壘、女排、女足、跆拳道等，確認設有女子壘球隊（未列戰績細節）。",
     "http_status": 200
+   },
+   {
+    "title": "中信金融管理學院女壘隊",
+    "url": "https://www.facebook.com/p/%E4%B8%AD%E4%BF%A1%E9%87%91%E8%9E%8D%E7%AE%A1%E7%90%86%E5%AD%B8%E9%99%A2%E5%A5%B3%E5%A3%98%E9%9A%8A-61561565610477/",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
    }
   ],
-  "notes": "僅確認校方設有女壘代表隊，未找到該隊專屬報導"
+  "notes": "僅確認校方設有女壘代表隊，未找到該隊專屬報導 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3374,
   "name": "黃意晴",
-  "links": [],
-  "notes": "搜尋未找到可確認的相關連結"
+  "links": [
+   {
+    "title": "[FINAL] 黃意晴 VS 彭昱瑄 | TPE Breaking Stage | 青少年女子組 | 霹靂舞國手選拔積分賽 2026 新竹站",
+    "url": "https://www.youtube.com/watch?v=OGiajrcfh0w",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "",
+    "summary": "2026霹靂舞國手選拔積分賽新竹站青少年女子組決賽影片，黃意晴對彭昱瑄。",
+    "http_status": 200
+   },
+   {
+    "title": "青少年女子 8-2 黃意晴 vs 彭昱瑄 20260418霹靂舞國手選拔積分賽台北一站",
+    "url": "https://www.youtube.com/watch?v=jgLqrYxqI1s",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "2026-04-18",
+    "summary": "2026中華民國霹靂舞國手選拔積分賽台北站青少年女子組八強賽影片。",
+    "http_status": 200
+   },
+   {
+    "title": "中華民國體育運動舞蹈總會 選手資料：黃意晴（霹靂舞）",
+    "url": "https://www.ctdsf.org.tw/members/detail.php?mid=6285",
+    "source": "other",
+    "outlet": "中華民國體育運動舞蹈總會",
+    "date": "",
+    "summary": "舞蹈總會官網的黃意晴（HUANG ALYCE）霹靂舞選手資料頁。",
+    "http_status": 200
+   },
+   {
+    "title": "黃意晴（@yiching0809）Instagram",
+    "url": "https://www.instagram.com/yiching0809/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "霹靂舞選手黃意晴的Instagram帳號。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋未找到可確認的相關連結 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3411,
   "name": "中信金融管理學院木球隊",
   "links": [],
-  "notes": "搜尋未找到中信金融管理學院木球隊的報導（校方代表隊名單亦未列木球）"
+  "notes": "搜尋未找到中信金融管理學院木球隊的報導（校方代表隊名單亦未列木球） ｜第二輪（2026-10-12）搜尋「中信金融管理學院 木球隊」「中金院 木球」僅得校方棒壘球隊與他校木球資料，仍無木球隊專屬內容。"
  },
  {
   "id": 3456,
@@ -140,9 +333,18 @@
     "date": "2026-08-01",
     "summary": "土庫商工教師林汶峰以木球培育出多位國手並協助弱勢學生升學，獲教育部師鐸獎。",
     "http_status": 200
+   },
+   {
+    "title": "國立土庫商工木球隊臉書",
+    "url": "https://www.facebook.com/tkvs.Woodball",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
    }
   ],
-  "notes": "報導未直接使用「木球隊」字樣，但內容為該校以木球培育選手"
+  "notes": "報導未直接使用「木球隊」字樣，但內容為該校以木球培育選手 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3230,
@@ -165,33 +367,190 @@
     "date": "",
     "summary": "報導劉君眉在國際機車競速賽事的挑戰與資金困難（搜尋摘要註明為劉君眉專題；網頁因403無法開啟全文驗證，標題為自擬）。",
     "http_status": 200
+   },
+   {
+    "title": "活動介紹",
+    "url": "https://www.zeczec.com/projects/WSBK33",
+    "source": "official",
+    "outlet": "zeczec.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 403
+   },
+   {
+    "title": "網路報導",
+    "url": "https://youtu.be/69ZT5tuySzA",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "台灣女車神闖世錦賽 體育署助一臂之力！/愛爾達電視20240523",
+    "url": "https://youtu.be/rc_PoYgauBk?si=cS1TsT8wPUiLgKgF",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "第二則連結未能開啟全文驗證；資料多為舊聞"
+  "notes": "第二則連結未能開啟全文驗證；資料多為舊聞 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3404,
   "name": "錢品圻",
-  "links": [],
-  "notes": "搜尋未找到可確認的相關連結"
+  "links": [
+   {
+    "title": "品圻的粉專",
+    "url": "https://www.facebook.com/profile.php?id=100091795764034",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "品圻的IG",
+    "url": "http://www.instagram.com/lucas_.chien?igsh=MXRuN3NqZjZpbDZ3eQ==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "CTMSA 中華賽車會：FIM國際賽事新聞【台灣小將錢品圻強勢奪冠，前進FIM MiniGP世界盃！】",
+    "url": "https://www.facebook.com/CTMSA.tw/posts/1361068812044550/",
+    "source": "facebook",
+    "outlet": "Facebook（中華賽車會）",
+    "date": "2025-08-30",
+    "summary": "12歲錢品圻在2025年FIM MiniGP東南亞系列賽澳門站奪冠，取得前進西班牙世界盃資格。",
+    "http_status": 400
+   },
+   {
+    "title": "豪威賽車學院 Instagram：13歲學生 錢品圻｜MiniGP 韓國站選拔賽傳回好成績！",
+    "url": "https://www.instagram.com/p/Da0R0TVk92N/",
+    "source": "instagram",
+    "outlet": "Instagram（豪威賽車學院）",
+    "date": "2026-07-15",
+    "summary": "錢品圻參加MiniGP韓國站選拔賽190級別四場比賽穩定發揮。",
+    "http_status": 200
+   },
+   {
+    "title": "MiniGP東南亞賽落幕 錢品圻張恩榤分獲兩冠",
+    "url": "https://macausports.com.mo/news/show_4r3cbzqee5wj5t9ayxgmdngf5p.html",
+    "source": "news",
+    "outlet": "澳門體育",
+    "date": "2025-09-01",
+    "summary": "FIM MiniGP東南亞系列賽在澳門路環收官，中華台北錢品圻奪第五場兩回合冠軍。",
+    "http_status": 200
+   },
+   {
+    "title": "MINI GP東南亞賽 中國香港張恩傑四回合奪三冠",
+    "url": "https://macausports.com.mo/news/show_4p1ytvfthanbw09s1m91bznydc.html",
+    "source": "news",
+    "outlet": "澳門體育",
+    "date": "2025-08-11",
+    "summary": "FIM MiniGP東南亞系列賽澳門站，中華台北錢品圻在週日首回合奪冠。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋未找到可確認的相關連結 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3581,
   "name": "呂廣志",
-  "links": [],
-  "notes": "搜尋未找到可確認的相關連結"
+  "links": [
+   {
+    "title": "呂廣志 - ESRacing 成績頁",
+    "url": "https://www.esracing.tw/jsprt_achv_player/%e5%91%82%e5%bb%a3%e5%bf%97/",
+    "source": "other",
+    "outlet": "ESRacing",
+    "date": "",
+    "summary": "ESRacing網站的呂廣志卡丁車成績頁，列出2024至2025年TKC台灣卡丁車錦標賽各站成績。",
+    "http_status": 200
+   },
+   {
+    "title": "2025 TKC 台灣卡丁車錦標賽 – 麗寶站",
+    "url": "https://www.esracing.tw/jsprt_achv_season/2025-taiwan-karting-championship/2025-tkc-%e5%8f%b0%e7%81%a3%e5%8d%a1%e4%b8%81%e8%bb%8a%e9%8c%a6%e6%a8%99%e8%b3%bd-%e9%ba%97%e5%af%b6%e7%ab%99/",
+    "source": "other",
+    "outlet": "ESRacing",
+    "date": "",
+    "summary": "2025年TKC台灣卡丁車錦標賽麗寶站成績，呂廣志在Senior B組排名第2。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋未找到可確認的相關連結 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3356,
   "name": "唐境霆",
-  "links": [],
-  "notes": "搜尋未找到可確認的相關連結"
+  "links": [
+   {
+    "title": "唐境霆 Facebook 粉絲專頁",
+    "url": "https://www.facebook.com/tang.jing.ting.619997/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "撞球選手暨教練唐境霆的粉絲專頁，自介為WNT PRO、中華民國A級教練。",
+    "http_status": 400
+   },
+   {
+    "title": "唐境霆 vs 林宗翰 台塑盃國際撞球公開賽 第三輪",
+    "url": "https://www.youtube.com/watch?v=rVf5QiIqDyY",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "2026-08-16",
+    "summary": "2026台塑盃國際撞球公開賽會外賽第三輪，唐境霆對林宗翰比賽影片。",
+    "http_status": 200
+   },
+   {
+    "title": "教球、打比賽難兩全 昔日台北世大運培訓隊戰友蠟燭兩頭燒",
+    "url": "https://www.taisounds.com/news/content/124/234543",
+    "source": "news",
+    "outlet": "太報",
+    "date": "2026-01-05",
+    "summary": "男子職撞好手唐境霆與許睿安談兼顧撞球教學與自身比賽的兩難。",
+    "http_status": 200
+   },
+   {
+    "title": "教球、打比賽難兩全 昔日台北世大運培訓隊戰友蠟燭兩頭燒（Yahoo運動）",
+    "url": "https://tw.sports.yahoo.com/news/%E6%95%99%E7%90%83-%E6%89%93%E6%AF%94%E8%B3%BD%E9%9B%A3%E5%85%A9%E5%85%A8-%E6%98%94%E6%97%A5%E5%8F%B0%E5%8C%97%E4%B8%96%E5%A4%A7%E9%81%8B%E5%9F%B9%E8%A8%93%E9%9A%8A%E6%88%B0%E5%8F%8B%E8%A0%9F%E7%87%AD%E5%85%A9%E9%A0%AD%E7%87%92-133524776.html",
+    "source": "news",
+    "outlet": "太報（Yahoo奇摩運動）",
+    "date": "2026-01-05",
+    "summary": "太報報導轉載，唐境霆近年活躍於撞球教學，同時兼顧國內外賽事。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋未找到可確認的相關連結 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3572,
   "name": "陳怡臻",
-  "links": [],
-  "notes": "搜尋到的同名「陳怡臻」為雲林義峰高中木球選手，運動項目（木球）與滾球不符，故未採用"
+  "links": [
+   {
+    "title": "陳怡臻個人社群帳號",
+    "url": "https://www.facebook.com/YiChenChen1998",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "克服肢障 客家妹陳怡臻地板滾球拾回自信",
+    "url": "https://n.yam.com/Article/20260619883833",
+    "source": "news",
+    "outlet": "客家電視台（蕃新聞）",
+    "date": "2026-06-19",
+    "summary": "客家電視台專題報導苗栗銅鑼腦性麻痺選手陳怡臻備戰2026地板滾球國手選拔賽，獲第二名。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋到的同名「陳怡臻」為雲林義峰高中木球選手，運動項目（木球）與滾球不符，故未採用 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3687,
@@ -223,9 +582,72 @@
     "date": "2026-05-31",
     "summary": "介紹陳銘哲為台灣首位在國際地板滾球單人與雙人賽奪金的選手，並擔任教育部生命教育人才庫講師。",
     "http_status": 200
+   },
+   {
+    "title": "第 28 屆身心障礙楷模金鷹獎得獎者－ 陳銘哲：為了夢想，不管多難，都要努力往前衝",
+    "url": "https://youtu.be/Djrv7smlj_M",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "我和我的博士弟弟",
+    "url": "https://youtu.be/QUHZOIg1FWU?t=41",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "人生第一次! 重度腦麻博士生站起來領獎 感動師生",
+    "url": "https://reurl.cc/DKagb6",
+    "source": "official",
+    "outlet": "reurl.cc（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "【聽聽看】第 895 集 為夢想全力以赴－陳銘哲",
+    "url": "https://www.youtube.com/watch?v=65SpTIHHVvE",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "老姊代母培養出腦麻博士《這位台客》",
+    "url": "https://youtu.be/oDJykwEC2ps",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "【圓夢心舞臺】學霸運動員 - 范榮玉、陳銘哲",
+    "url": "https://www.youtube.com/watch?v=6uKU9hPoSnc",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "首位地板滾球世界公開賽國手 陳銘哲做自己主人",
+    "url": "https://youtu.be/9XqX4OO_rsg",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "運動項目「滾球」對應地板滾球；姓名與地板滾球均吻合"
+  "notes": "運動項目「滾球」對應地板滾球；姓名與地板滾球均吻合 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3489,
@@ -239,45 +661,447 @@
     "date": "",
     "summary": "介紹台灣健身圈「超級熱狗王」本名林敬傑，稱其為台灣首位取得Mr. Olympia傳統健美212組參賽資格的職業選手。",
     "http_status": 200
+   },
+   {
+    "title": "連2年奪得Mr. Olympia的參賽資格",
+    "url": "https://tw.sports.yahoo.com/news/%E5%81%A5%E7%BE%8E%E4%BA%9E%E9%8C%A6%E8%B3%BD-%E9%80%A32%E5%B9%B4%E5%86%A0%E8%BB%8D%E7%95%99%E5%8F%B0%E7%81%A3-%E7%86%B1%E5%A4%A0%E7%8E%8B-%E6%9E%97%E6%95%AC%E5%82%91212%E5%B0%81%E7%8E%8B-%E5%86%8D%E7%8D%B2%E5%A5%A7%E8%B3%BD%E8%B3%87%E6%A0%BC-134900264.html",
+    "source": "official",
+    "outlet": "tw.sports.yahoo.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "熱狗王前進奧賽淚灑舞台",
+    "url": "https://www.ftvnews.com.tw/video/detail/aMA6CQ5bBgA",
+    "source": "official",
+    "outlet": "ftvnews.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "僅單一來源（網頁403無法直接開啟，依搜尋摘要）；若該站說法為實，姓名與健美項目相符，但無法獨立交叉驗證，請人工確認"
+  "notes": "僅單一來源（網頁403無法直接開啟，依搜尋摘要）；若該站說法為實，姓名與健美項目相符，但無法獨立交叉驗證，請人工確認 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3520,
   "name": "紀閔中",
-  "links": [],
-  "notes": "搜尋未找到可確認的相關連結"
+  "links": [
+   {
+    "title": "中華自由潛水代表隊在2024年CMAS自由潛水深度世錦賽",
+    "url": "https://etenews.net/?p=75581&fbclid=IwZXh0bgNhZW0CMTEAAR0CneO3BbXDlOeuPihkDnga7eCn25aCcbHnnPe7rkRIGA8yiiPKr0Ny_dY_aem_Tu7g7WiffaS3ZIP4FRn2CQ",
+    "source": "official",
+    "outlet": "etenews.net（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "紀閔中（小紀） - 女子的海Ms.Ocean 教練介紹",
+    "url": "https://msocean.com.tw/archives/69073",
+    "source": "other",
+    "outlet": "女子的海 Ms.Ocean",
+    "date": "2020-12-01",
+    "summary": "自由潛水教練紀閔中的介紹頁，來自南投車埕、定居恆春，持AIDA與Molchanovs教練證。",
+    "http_status": 200
+   },
+   {
+    "title": "紀閔中 Instagram：2024 CMAS 8th World Championship Freediving Depth 希臘",
+    "url": "https://www.instagram.com/p/DD1kyBZTANu/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "2024-12-20",
+    "summary": "紀閔中分享參加2024年CMAS自由潛水深度世界錦標賽的心得與檢討。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋未找到可確認的相關連結 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3321,
   "name": "侯一明",
-  "links": [],
-  "notes": "同一選手四筆申請共用結果；搜尋未找到可確認為該選手（水中運動）的公開連結"
+  "links": [
+   {
+    "title": "【2021年度風雲人物1】拿國旗的人　侯一明",
+    "url": "https://www.mirrormedia.mg/story/amp/20211228pol002",
+    "source": "official",
+    "outlet": "mirrormedia.mg（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "侯一明破台灣兩紀錄──AIDA 深度世界錦標賽前半場小結",
+    "url": "https://msocean.com.tw/archives/43322",
+    "source": "official",
+    "outlet": "msocean.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2024 台灣盃深度賽 ─詹凱翔、侯一明拿下公開組男女總冠軍",
+    "url": "https://msocean.com.tw/archives/49698",
+    "source": "official",
+    "outlet": "msocean.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "一口氣潛向百米深藍：侯一明的自由潛水人生",
+    "url": "https://www.verymulan.com/story/%e4%b8%80%e5%8f%a3%e6%b0%a3%e6%bd%9b%e5%90%91%e7%99%be%e7%b1%b3%e6%b7%b1%e8%97%8d%ef%bc%9a%e4%be%af%e4%b8%80%e6%98%8e%e7%9a%84%e8%87%aa%e7%94%b1%e6%bd%9b%e6%b0%b4%e4%ba%ba%e7%94%9f-15272.html?maintag_id=1",
+    "source": "news",
+    "outlet": "非常木蘭",
+    "date": "2025-09-30",
+    "summary": "專訪自由潛水選手侯一明，從2017年接觸自潛到以百米深度為目標的歷程與安全觀。",
+    "http_status": 200
+   },
+   {
+    "title": "潛水》自由潛水深度賽小琉球海域落幕 「國旗女孩」侯一明封后",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/4614510",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2024-03-21",
+    "summary": "第四屆台灣盃自由潛水深度賽在小琉球落幕，女子組由「國旗女孩」侯一明封后。",
+    "http_status": 200
+   },
+   {
+    "title": "體壇／自由潛水台灣盃 侯一明克服海象破全國",
+    "url": "https://www.merit-times.com.tw/NewsPage.aspx?unid=834877",
+    "source": "news",
+    "outlet": "人間福報",
+    "date": "2023-03-17",
+    "summary": "2023台灣盃深度賽最後一天，侯一明在雙蹼恆重項目以72公尺打破全國紀錄。",
+    "http_status": 200
+   },
+   {
+    "title": "自由潛水第三屆台灣盃深度賽 侯一明突破女子國家紀錄",
+    "url": "https://sports.ettoday.net/news/2461555",
+    "source": "news",
+    "outlet": "ETtoday運動雲",
+    "date": "2023-03-17",
+    "summary": "報導侯一明在第三屆台灣盃深度賽以雙蹼恆重下潛72公尺突破女子國家紀錄。",
+    "http_status": 200
+   },
+   {
+    "title": "台灣盃深度賽｜眾人力抗海流，侯一明、Mark Cheung破CWTB紀錄",
+    "url": "https://msocean.com.tw/archives/45404",
+    "source": "news",
+    "outlet": "女子的海 Ms.Ocean",
+    "date": "2023-03-20",
+    "summary": "女子的海賽事報導，記錄2023台灣盃深度賽中侯一明破雙蹼恆重紀錄的過程。",
+    "http_status": 200
+   },
+   {
+    "title": "侯一明(Mia) - 女子的海Ms.Ocean 教練介紹",
+    "url": "https://msocean.com.tw/archives/6953",
+    "source": "other",
+    "outlet": "女子的海 Ms.Ocean",
+    "date": "2019-07-05",
+    "summary": "女子的海網站的自由潛水教練介紹頁，侯一明自述被自由潛水改變人生。",
+    "http_status": 200
+   }
+  ],
+  "notes": "同一選手四筆申請共用結果；搜尋未找到可確認為該選手（水中運動）的公開連結 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3656,
   "name": "侯一明",
-  "links": [],
-  "notes": "同一選手四筆申請共用結果；搜尋未找到可確認為該選手（水中運動）的公開連結"
+  "links": [
+   {
+    "title": "【2021年度風雲人物1】拿國旗的人　侯一明",
+    "url": "https://www.mirrormedia.mg/story/amp/20211228pol002",
+    "source": "official",
+    "outlet": "mirrormedia.mg（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "侯一明破台灣兩紀錄──AIDA 深度世界錦標賽前半場小結",
+    "url": "https://msocean.com.tw/archives/43322",
+    "source": "official",
+    "outlet": "msocean.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2024 台灣盃深度賽 ─詹凱翔、侯一明拿下公開組男女總冠軍",
+    "url": "https://msocean.com.tw/archives/49698",
+    "source": "official",
+    "outlet": "msocean.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "一口氣潛向百米深藍：侯一明的自由潛水人生",
+    "url": "https://www.verymulan.com/story/%e4%b8%80%e5%8f%a3%e6%b0%a3%e6%bd%9b%e5%90%91%e7%99%be%e7%b1%b3%e6%b7%b1%e8%97%8d%ef%bc%9a%e4%be%af%e4%b8%80%e6%98%8e%e7%9a%84%e8%87%aa%e7%94%b1%e6%bd%9b%e6%b0%b4%e4%ba%ba%e7%94%9f-15272.html?maintag_id=1",
+    "source": "news",
+    "outlet": "非常木蘭",
+    "date": "2025-09-30",
+    "summary": "專訪自由潛水選手侯一明，從2017年接觸自潛到以百米深度為目標的歷程與安全觀。",
+    "http_status": 200
+   },
+   {
+    "title": "潛水》自由潛水深度賽小琉球海域落幕 「國旗女孩」侯一明封后",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/4614510",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2024-03-21",
+    "summary": "第四屆台灣盃自由潛水深度賽在小琉球落幕，女子組由「國旗女孩」侯一明封后。",
+    "http_status": 200
+   },
+   {
+    "title": "體壇／自由潛水台灣盃 侯一明克服海象破全國",
+    "url": "https://www.merit-times.com.tw/NewsPage.aspx?unid=834877",
+    "source": "news",
+    "outlet": "人間福報",
+    "date": "2023-03-17",
+    "summary": "2023台灣盃深度賽最後一天，侯一明在雙蹼恆重項目以72公尺打破全國紀錄。",
+    "http_status": 200
+   },
+   {
+    "title": "自由潛水第三屆台灣盃深度賽 侯一明突破女子國家紀錄",
+    "url": "https://sports.ettoday.net/news/2461555",
+    "source": "news",
+    "outlet": "ETtoday運動雲",
+    "date": "2023-03-17",
+    "summary": "報導侯一明在第三屆台灣盃深度賽以雙蹼恆重下潛72公尺突破女子國家紀錄。",
+    "http_status": 200
+   },
+   {
+    "title": "台灣盃深度賽｜眾人力抗海流，侯一明、Mark Cheung破CWTB紀錄",
+    "url": "https://msocean.com.tw/archives/45404",
+    "source": "news",
+    "outlet": "女子的海 Ms.Ocean",
+    "date": "2023-03-20",
+    "summary": "女子的海賽事報導，記錄2023台灣盃深度賽中侯一明破雙蹼恆重紀錄的過程。",
+    "http_status": 200
+   },
+   {
+    "title": "侯一明(Mia) - 女子的海Ms.Ocean 教練介紹",
+    "url": "https://msocean.com.tw/archives/6953",
+    "source": "other",
+    "outlet": "女子的海 Ms.Ocean",
+    "date": "2019-07-05",
+    "summary": "女子的海網站的自由潛水教練介紹頁，侯一明自述被自由潛水改變人生。",
+    "http_status": 200
+   }
+  ],
+  "notes": "同一選手四筆申請共用結果；搜尋未找到可確認為該選手（水中運動）的公開連結 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3657,
   "name": "侯一明",
-  "links": [],
-  "notes": "同一選手四筆申請共用結果；搜尋未找到可確認為該選手（水中運動）的公開連結"
+  "links": [
+   {
+    "title": "【2021年度風雲人物1】拿國旗的人　侯一明",
+    "url": "https://www.mirrormedia.mg/story/amp/20211228pol002",
+    "source": "official",
+    "outlet": "mirrormedia.mg（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "侯一明破台灣兩紀錄──AIDA 深度世界錦標賽前半場小結",
+    "url": "https://msocean.com.tw/archives/43322",
+    "source": "official",
+    "outlet": "msocean.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2024 台灣盃深度賽 ─詹凱翔、侯一明拿下公開組男女總冠軍",
+    "url": "https://msocean.com.tw/archives/49698",
+    "source": "official",
+    "outlet": "msocean.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "一口氣潛向百米深藍：侯一明的自由潛水人生",
+    "url": "https://www.verymulan.com/story/%e4%b8%80%e5%8f%a3%e6%b0%a3%e6%bd%9b%e5%90%91%e7%99%be%e7%b1%b3%e6%b7%b1%e8%97%8d%ef%bc%9a%e4%be%af%e4%b8%80%e6%98%8e%e7%9a%84%e8%87%aa%e7%94%b1%e6%bd%9b%e6%b0%b4%e4%ba%ba%e7%94%9f-15272.html?maintag_id=1",
+    "source": "news",
+    "outlet": "非常木蘭",
+    "date": "2025-09-30",
+    "summary": "專訪自由潛水選手侯一明，從2017年接觸自潛到以百米深度為目標的歷程與安全觀。",
+    "http_status": 200
+   },
+   {
+    "title": "潛水》自由潛水深度賽小琉球海域落幕 「國旗女孩」侯一明封后",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/4614510",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2024-03-21",
+    "summary": "第四屆台灣盃自由潛水深度賽在小琉球落幕，女子組由「國旗女孩」侯一明封后。",
+    "http_status": 200
+   },
+   {
+    "title": "體壇／自由潛水台灣盃 侯一明克服海象破全國",
+    "url": "https://www.merit-times.com.tw/NewsPage.aspx?unid=834877",
+    "source": "news",
+    "outlet": "人間福報",
+    "date": "2023-03-17",
+    "summary": "2023台灣盃深度賽最後一天，侯一明在雙蹼恆重項目以72公尺打破全國紀錄。",
+    "http_status": 200
+   },
+   {
+    "title": "自由潛水第三屆台灣盃深度賽 侯一明突破女子國家紀錄",
+    "url": "https://sports.ettoday.net/news/2461555",
+    "source": "news",
+    "outlet": "ETtoday運動雲",
+    "date": "2023-03-17",
+    "summary": "報導侯一明在第三屆台灣盃深度賽以雙蹼恆重下潛72公尺突破女子國家紀錄。",
+    "http_status": 200
+   },
+   {
+    "title": "台灣盃深度賽｜眾人力抗海流，侯一明、Mark Cheung破CWTB紀錄",
+    "url": "https://msocean.com.tw/archives/45404",
+    "source": "news",
+    "outlet": "女子的海 Ms.Ocean",
+    "date": "2023-03-20",
+    "summary": "女子的海賽事報導，記錄2023台灣盃深度賽中侯一明破雙蹼恆重紀錄的過程。",
+    "http_status": 200
+   },
+   {
+    "title": "侯一明(Mia) - 女子的海Ms.Ocean 教練介紹",
+    "url": "https://msocean.com.tw/archives/6953",
+    "source": "other",
+    "outlet": "女子的海 Ms.Ocean",
+    "date": "2019-07-05",
+    "summary": "女子的海網站的自由潛水教練介紹頁，侯一明自述被自由潛水改變人生。",
+    "http_status": 200
+   }
+  ],
+  "notes": "同一選手四筆申請共用結果；搜尋未找到可確認為該選手（水中運動）的公開連結 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3660,
   "name": "侯一明",
-  "links": [],
-  "notes": "同一選手四筆申請共用結果；搜尋未找到可確認為該選手（水中運動）的公開連結"
+  "links": [
+   {
+    "title": "【2021年度風雲人物1】拿國旗的人　侯一明",
+    "url": "https://www.mirrormedia.mg/story/amp/20211228pol002",
+    "source": "official",
+    "outlet": "mirrormedia.mg（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "侯一明破台灣兩紀錄──AIDA 深度世界錦標賽前半場小結",
+    "url": "https://msocean.com.tw/archives/43322",
+    "source": "official",
+    "outlet": "msocean.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2024 台灣盃深度賽 ─詹凱翔、侯一明拿下公開組男女總冠軍",
+    "url": "https://msocean.com.tw/archives/49698",
+    "source": "official",
+    "outlet": "msocean.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "一口氣潛向百米深藍：侯一明的自由潛水人生",
+    "url": "https://www.verymulan.com/story/%e4%b8%80%e5%8f%a3%e6%b0%a3%e6%bd%9b%e5%90%91%e7%99%be%e7%b1%b3%e6%b7%b1%e8%97%8d%ef%bc%9a%e4%be%af%e4%b8%80%e6%98%8e%e7%9a%84%e8%87%aa%e7%94%b1%e6%bd%9b%e6%b0%b4%e4%ba%ba%e7%94%9f-15272.html?maintag_id=1",
+    "source": "news",
+    "outlet": "非常木蘭",
+    "date": "2025-09-30",
+    "summary": "專訪自由潛水選手侯一明，從2017年接觸自潛到以百米深度為目標的歷程與安全觀。",
+    "http_status": 200
+   },
+   {
+    "title": "潛水》自由潛水深度賽小琉球海域落幕 「國旗女孩」侯一明封后",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/4614510",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2024-03-21",
+    "summary": "第四屆台灣盃自由潛水深度賽在小琉球落幕，女子組由「國旗女孩」侯一明封后。",
+    "http_status": 200
+   },
+   {
+    "title": "體壇／自由潛水台灣盃 侯一明克服海象破全國",
+    "url": "https://www.merit-times.com.tw/NewsPage.aspx?unid=834877",
+    "source": "news",
+    "outlet": "人間福報",
+    "date": "2023-03-17",
+    "summary": "2023台灣盃深度賽最後一天，侯一明在雙蹼恆重項目以72公尺打破全國紀錄。",
+    "http_status": 200
+   },
+   {
+    "title": "自由潛水第三屆台灣盃深度賽 侯一明突破女子國家紀錄",
+    "url": "https://sports.ettoday.net/news/2461555",
+    "source": "news",
+    "outlet": "ETtoday運動雲",
+    "date": "2023-03-17",
+    "summary": "報導侯一明在第三屆台灣盃深度賽以雙蹼恆重下潛72公尺突破女子國家紀錄。",
+    "http_status": 200
+   },
+   {
+    "title": "台灣盃深度賽｜眾人力抗海流，侯一明、Mark Cheung破CWTB紀錄",
+    "url": "https://msocean.com.tw/archives/45404",
+    "source": "news",
+    "outlet": "女子的海 Ms.Ocean",
+    "date": "2023-03-20",
+    "summary": "女子的海賽事報導，記錄2023台灣盃深度賽中侯一明破雙蹼恆重紀錄的過程。",
+    "http_status": 200
+   },
+   {
+    "title": "侯一明(Mia) - 女子的海Ms.Ocean 教練介紹",
+    "url": "https://msocean.com.tw/archives/6953",
+    "source": "other",
+    "outlet": "女子的海 Ms.Ocean",
+    "date": "2019-07-05",
+    "summary": "女子的海網站的自由潛水教練介紹頁，侯一明自述被自由潛水改變人生。",
+    "http_status": 200
+   }
+  ],
+  "notes": "同一選手四筆申請共用結果；搜尋未找到可確認為該選手（水中運動）的公開連結 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3181,
   "name": "林昕儒",
-  "links": [],
-  "notes": "搜尋未找到可確認的相關連結（結果多為同音字「林昀儒」桌球選手，已排除）"
+  "links": [
+   {
+    "title": "I運動人物誌 [林昕儒開啟第二人生 三十五歲成為運動員代表臺灣出賽]",
+    "url": "https://www.facebook.com/photo/?fbid=831076668375533&set=pcb.831085555041311",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "台灣自由潛水發展協會：【2022 AIDA 泳池世錦賽 - 台灣隊選手介紹】林昕儒",
+    "url": "https://www.facebook.com/tfda.freediving/posts/129277459781607/",
+    "source": "facebook",
+    "outlet": "Facebook（台灣自由潛水發展協會）",
+    "date": "2022-06-18",
+    "summary": "協會介紹2022 AIDA泳池世錦賽台灣隊選手林昕儒，2018年開始學習自由潛水。",
+    "http_status": 400
+   },
+   {
+    "title": "教練介紹｜OCEAN KEEP DIVING",
+    "url": "https://oceankeepdiving.com/coaches",
+    "source": "other",
+    "outlet": "Ocean Keep Diving",
+    "date": "",
+    "summary": "潛店教練介紹頁，林昕儒身兼水肺潛水與自由潛水教練。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋未找到可確認的相關連結（結果多為同音字「林昀儒」桌球選手，已排除） ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3504,
@@ -300,13 +1124,96 @@
     "date": "2026-09-27",
     "summary": "賽程表列出陳宛榆在名古屋亞運衝浪女子第2、3輪的出賽安排。",
     "http_status": 200
+   },
+   {
+    "title": "Instagram @amberchen_11",
+    "url": "https://www.instagram.com/amberchen_11/",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "中華民國衝浪運動協會 CTSA_2025 WJSC 世界青少年衝浪錦標賽",
+    "url": "https://www.ctsasurf.org.tw/single-post/2025-isa-wjsc-%E4%B8%96%E7%95%8C%E9%9D%92%E5%B0%91%E5%B9%B4%E8%A1%9D%E6%B5%AA%E9%8C%A6%E6%A8%99%E8%B3%BD-%E6%88%90%E7%B8%BE%E7%B5%90%E7%AE%97",
+    "source": "official",
+    "outlet": "ctsasurf.org.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
-  ]
+  ],
+  "notes": " ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3508,
   "name": "陳柏榆",
-  "links": [],
-  "notes": "搜尋未找到陳柏榆衝浪相關連結（僅出現字形相近的陳宛榆，不同人，未採用）"
+  "links": [
+   {
+    "title": "Instagram @bubu_140315",
+    "url": "https://www.instagram.com/bubu_140315/#",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "中華民國衝浪運動協會_2025 ISA WJSC 世界青少年衝浪錦標賽",
+    "url": "https://www.ctsasurf.org.tw/single-post/2025-isa-wjsc-%E4%B8%96%E7%95%8C%E9%9D%92%E5%B0%91%E5%B9%B4%E8%A1%9D%E6%B5%AA%E9%8C%A6%E6%A8%99%E8%B3%BD-%E6%88%90%E7%B8%BE%E7%B5%90%E7%AE%97",
+    "source": "official",
+    "outlet": "ctsasurf.org.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "陳宛榆。陳柏榆｜東華附小衝浪入選國手",
+    "url": "https://etaiwan.news/2024/04/12/%e9%99%b3%e5%ae%9b%e6%a6%86%e3%80%82%e9%99%b3%e6%9f%8f%e6%a6%86%ef%bd%9c%e6%9d%b1%e8%8f%af%e9%99%84%e5%b0%8f%e8%a1%9d%e6%b5%aa%e5%85%a5%e9%81%b8%e5%9c%8b%e6%89%8b/",
+    "source": "news",
+    "outlet": "東台灣新聞網",
+    "date": "2024-04-12",
+    "summary": "東華附小姊弟陳宛榆、陳柏榆雙雙入選衝浪國手，陳柏榆獲青少年男子U16季軍。",
+    "http_status": 429
+   },
+   {
+    "title": "不畏寒暑海上搏鬥！ 東華附小姊弟檔入選衝浪國手",
+    "url": "https://www.ettoday.net/news/20240413/2718880.htm",
+    "source": "news",
+    "outlet": "ETtoday新聞雲",
+    "date": "2024-04-13",
+    "summary": "陳柏榆六歲跟著姊姊學衝浪，在全國分齡衝浪錦標賽暨國家代表隊選拔賽入選國手。",
+    "http_status": 200
+   },
+   {
+    "title": "東華附小衝浪入選國手 魏嘉彥親自頒獎鼓勵",
+    "url": "https://www.hualien-news.com/news.php?id=811",
+    "source": "news",
+    "outlet": "花蓮新聞",
+    "date": "2024-04-12",
+    "summary": "花蓮市長魏嘉彥頒獎鼓勵入選衝浪國手的東華附小姊弟陳宛榆與陳柏榆。",
+    "http_status": 200
+   },
+   {
+    "title": "國巨衝浪 YAGEO SURF：選手特輯 年紀最小的布布哥「陳柏榆」生日快樂",
+    "url": "https://www.facebook.com/yageosurf/posts/792814832863796/",
+    "source": "facebook",
+    "outlet": "Facebook（國巨衝浪）",
+    "date": "",
+    "summary": "國巨衝浪選手特輯介紹陳柏榆，8歲就在大浪中斷板、跟著姊姊到國外訓練。",
+    "http_status": 400
+   },
+   {
+    "title": "國巨衝浪 YAGEO SURF：賽事紀錄 112年明日之星衝浪比賽「陳柏榆」U12歲組第四名",
+    "url": "https://www.facebook.com/yageosurf/posts/672570721554875/",
+    "source": "facebook",
+    "outlet": "Facebook（國巨衝浪）",
+    "date": "",
+    "summary": "陳柏榆（綽號布布）9歲時在112年明日之星衝浪比賽U12組獲第四名。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋未找到陳柏榆衝浪相關連結（僅出現字形相近的陳宛榆，不同人，未採用） ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  }
 ]

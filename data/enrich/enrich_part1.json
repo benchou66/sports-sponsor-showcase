@@ -11,9 +11,18 @@
     "date": "2024-08-13",
     "summary": "中金院2023-24學年各運動代表隊成績報導，跆拳道隊在全大運奪2金2銀2銅並拿下對打團體一般男生組冠軍。",
     "http_status": 200
+   },
+   {
+    "title": "成軍未滿1年 中金院跆拳道首戰全大運 奪1金1銅",
+    "url": "https://www.cna.com.tw/postwrite/chi/343022",
+    "source": "official",
+    "outlet": "cna.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "僅此一則能明確對應該校跆拳道對打隊；其餘中金院報導多為籃球隊，或僅在助學金、職涯報導中順帶提及跆拳道，故未收錄。另有全大運品勢報導（聯合報 2026-04-26，蔡和軒），屬品勢而非對打，未收錄。未取得該隊Facebook/Instagram連結。"
+  "notes": "僅此一則能明確對應該校跆拳道對打隊；其餘中金院報導多為籃球隊，或僅在助學金、職涯報導中順帶提及跆拳道，故未收錄。另有全大運品勢報導（聯合報 2026-04-26，蔡和軒），屬品勢而非對打，未收錄。未取得該隊Facebook/Instagram連結。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3433,
@@ -56,43 +65,265 @@
     "http_status": 200
    }
   ],
-  "notes": "搜尋結果另有苗栗縣府表揚其奪2025亞洲帕拉青年運動會T71女子100公尺金牌之報導，但僅取得中時搜尋列表頁（非單篇網址），未收錄；Instagram搜尋結果（@yaomi_fairy）無法確認為本人，未收錄。"
+  "notes": "搜尋結果另有苗栗縣府表揚其奪2025亞洲帕拉青年運動會T71女子100公尺金牌之報導，但僅取得中時搜尋列表頁（非單篇網址），未收錄；Instagram搜尋結果（@yaomi_fairy）無法確認為本人，未收錄。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3366,
   "name": "追風少年-國風田徑隊",
-  "links": [],
-  "notes": "搜尋僅得同名影集/歌曲/無關粉專，無法對應該田徑隊，不收錄任何連結。"
+  "links": [
+   {
+    "title": "花蓮縣立國風國中：本校國風國中田徑隊參加113年花蓮縣太平洋西岸聯盟邀請賽，成績豐碩",
+    "url": "https://www.facebook.com/permalink.php/?story_fbid=1010767287519860&id=100057597933596",
+    "source": "facebook",
+    "outlet": "Facebook（花蓮縣立國風國中）",
+    "date": "2024-10-19",
+    "summary": "國風國中粉絲專頁貼文，列出田徑隊在113年花蓮縣太平洋西岸聯盟邀請賽各項成績，徐傳運奪國男100公尺第一名。",
+    "http_status": 400
+   },
+   {
+    "title": "花蓮縣立國風國中：115年花蓮縣縣長盃中小學聯運暨全中運及ICG縣代表隊田徑選拔賽 狂賀",
+    "url": "https://www.facebook.com/100057597933596/posts/1377590974170821/",
+    "source": "facebook",
+    "outlet": "Facebook（花蓮縣立國風國中）",
+    "date": "",
+    "summary": "校方貼文恭賀呂承瀚、鄒冠云、張芠寧在縣長盃田徑選拔賽奪第一名並入選ICG國際青少年運動會花蓮縣代表。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋僅得同名影集/歌曲/無關粉專，無法對應該田徑隊，不收錄任何連結。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3395,
   "name": "花蓮縣私立海星中學田徑隊",
-  "links": [],
-  "notes": "搜尋結果僅有海星中學的參訪、選拔賽協辦或卡巴迪相關資訊，無田徑隊專屬報導，不收錄。"
+  "links": [
+   {
+    "title": "海星中學田徑隊粉專",
+    "url": "https://www.facebook.com/smhstaf/?locale=zh_TW",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "海星中學田徑隊相關媒體報導",
+    "url": "https://etaiwan.news/2025/02/19/%E6%91%98%E9%87%91%E5%A5%AA%E9%8A%80%EF%BD%9C%E6%B5%B7%E6%98%9F%E4%B8%AD%E5%AD%B8%E7%94%B0%E5%BE%91%E9%9A%8A%E9%96%8B%E6%98%A5%E5%89%B5%E4%BD%B3%E7%B8%BE%EF%BC%8C%E6%98%A5%E5%AD%A3%E5%85%A8%E5%9C%8B/",
+    "source": "official",
+    "outlet": "etaiwan.news（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 429
+   },
+   {
+    "title": "海星中學田徑隊相關媒體報導",
+    "url": "https://braveathlete.net/tw/article/7213",
+    "source": "official",
+    "outlet": "braveathlete.net（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "海星中學田徑隊相關媒體報導",
+    "url": "https://038.news/archives/170526",
+    "source": "official",
+    "outlet": "038.news（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 429
+   },
+   {
+    "title": "海星中學田徑隊（@smhs_trackandfield）Instagram",
+    "url": "https://www.instagram.com/smhs_trackandfield/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "海星中學田徑隊的Instagram帳號，分享訓練與賽事動態。",
+    "http_status": 200
+   },
+   {
+    "title": "海星中學田徑場上再創歷史新猷——勇奪全國冠軍、刷新大會紀錄，再添4金1銀2銅亮眼佳績！",
+    "url": "https://etaiwan.news/2025/11/16/%e6%b5%b7%e6%98%9f%e4%b8%ad%e5%ad%b8%e7%94%b0%e5%be%91%e5%a0%b4%e4%b8%8a%e5%86%8d%e5%89%b5%e6%ad%b7%e5%8f%b2%e6%96%b0%e7%8c%b7-%e5%8b%87%e5%a5%aa%e5%85%a8%e5%9c%8b%e5%86%a0%e8%bb%8d/",
+    "source": "news",
+    "outlet": "東台灣新聞網",
+    "date": "2025-11-16",
+    "summary": "海星中學田徑隊在114年全國中等學校田徑錦標賽奪4金1銀2銅，混合4×400公尺接力破大會紀錄奪冠。",
+    "http_status": 429
+   },
+   {
+    "title": "勇奪21金12銀8銅｜海星中學田徑隊全國賽屢獲佳績，游淑貞學姊貼紅榜勉勵再創高峰！",
+    "url": "https://etaiwan.news/2025/03/22/%E5%8B%87%E5%A5%AA21%E9%87%9112%E9%8A%808%E9%8A%85%EF%BD%9C%E6%B5%B7%E6%98%9F%E4%B8%AD%E5%AD%B8%E7%94%B0%E5%BE%91%E9%9A%8A%E5%85%A8%E5%9C%8B%E8%B3%BD%E5%B1%A2%E7%8D%B2%E4%BD%B3%E7%B8%BE%EF%BC%8C/",
+    "source": "news",
+    "outlet": "東台灣新聞網",
+    "date": "2025-03-22",
+    "summary": "海星中學田徑隊在114年花蓮縣縣長盃暨全中運選拔賽勇奪21金12銀8銅，校友吉安鄉長游淑貞到校貼紅榜祝賀。",
+    "http_status": 429
+   },
+   {
+    "title": "114學年度招生稱霸！海星中學田徑破紀錄奪4金，錄取UBC展現國際實力",
+    "url": "https://schoolaa.net/2026/02/23/114%e5%ad%b8%e5%b9%b4%e5%ba%a6%e6%8b%9b%e7%94%9f%e7%a8%b1%e9%9c%b8%ef%bc%81%e6%b5%b7%e6%98%9f%e4%b8%ad%e5%ad%b8%e7%94%b0%e5%be%91%e7%a0%b4%e7%b4%80%e9%8c%84%e5%a5%aa4%e9%87%91%ef%bc%8c%e9%8c%84/",
+    "source": "news",
+    "outlet": "schoolaa.net",
+    "date": "2026-02-23",
+    "summary": "校務綜合報導中介紹海星中學田徑隊在全國中等學校田徑錦標賽摘下4金1銀2銅並打破接力大會紀錄。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋結果僅有海星中學的參訪、選拔賽協辦或卡巴迪相關資訊，無田徑隊專屬報導，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3399,
   "name": "國立北門高中田徑隊",
-  "links": [],
-  "notes": "搜尋摘要提及該校田徑隊長李亮頤繁星錄取師大的報導，但未取得該篇的確切網址，其餘結果皆為他校，不收錄。"
+  "links": [
+   {
+    "title": "北門高中田徑隊IG粉絲專頁",
+    "url": "https://instagram.com/bmshtainan.tw",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "田徑隊臉書粉絲專頁",
+    "url": "https://www.facebook.com/BMSH.Athletics?locale=zh_TW",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "台南北門高中繁星錄取71人 體育班學生首度上榜",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/3869298",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2022-03-23",
+    "summary": "北門高中田徑隊隊長李亮頤以繁星推薦錄取臺師大體育與運動科學系，教練月健龍期許她跨越重重障礙。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋摘要提及該校田徑隊長李亮頤繁星錄取師大的報導，但未取得該篇的確切網址，其餘結果皆為他校，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3452,
   "name": "洪琇玟",
-  "links": [],
-  "notes": "同名資料不足，搜尋結果皆為不相關選手，不收錄。"
+  "links": [
+   {
+    "title": "洪琇玟Ｘ110新北全運會Ｘ運動之星",
+    "url": "https://sport110ntpc.com/starid-3",
+    "source": "official",
+    "outlet": "sport110ntpc.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "敢動傳媒Ｘ114秋季盃打破大會紀錄",
+    "url": "https://www.facebook.com/photo.php?fbid=1117471693913289&id=100069514062449&set=a.488839260109872",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "【專訪】突破自我！兼具帥氣與嬌羞的鏈球女將－洪琇玟",
+    "url": "https://running.biji.co/index.php?q=news&act=info&id=103895",
+    "source": "news",
+    "outlet": "跑步筆記",
+    "date": "2020-07-04",
+    "summary": "專訪女子鏈球全國U20紀錄保持人洪琇玟，談從鉛球轉項鏈球、走出低潮與給年輕選手的建議。",
+    "http_status": 200
+   },
+   {
+    "title": "〈亞青田徑賽〉洪琇玟鏈球擲金 破全國青年紀錄",
+    "url": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%9D%92%E7%94%B0%E5%BE%91%E8%B3%BD-%E6%B4%AA%E7%90%87%E7%8E%9F%E9%8F%88%E7%90%83%E6%93%B2%E9%87%91-%E7%A0%B4%E5%85%A8%E5%9C%8B%E9%9D%92%E5%B9%B4%E7%B4%80%E9%8C%84-124423083.html",
+    "source": "news",
+    "outlet": "Yahoo奇摩運動",
+    "date": "2014-06-14",
+    "summary": "洪琇玟在亞洲青年田徑錦標賽以56公尺81奪女子鏈球金牌並打破全國青年紀錄。",
+    "http_status": 200
+   },
+   {
+    "title": "洪琇玟（@hunghsiuwen）Instagram",
+    "url": "https://www.instagram.com/hunghsiuwen/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "鏈球選手洪琇玟的Instagram帳號。",
+    "http_status": 200
+   },
+   {
+    "title": "海山高中田徑隊：【海山田徑-榮耀時光】我們的校友《洪琇玟》105年全國田徑錦標賽鏈球金牌",
+    "url": "https://www.facebook.com/hs.track88/posts/315779212115782/",
+    "source": "facebook",
+    "outlet": "Facebook（海山高中田徑隊）",
+    "date": "",
+    "summary": "海山高中田徑隊貼文恭賀校友洪琇玟在105年全國田徑錦標賽鏈球項目以53.64公尺為新北市拿下金牌。",
+    "http_status": 400
+   }
+  ],
+  "notes": "同名資料不足，搜尋結果皆為不相關選手，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3558,
   "name": "新北市立佳林國中田徑隊",
-  "links": [],
-  "notes": "搜尋僅有佳林國中借用棒球場的公告，無田徑隊報導，不收錄。"
+  "links": [
+   {
+    "title": "佳林國中運動校隊大家庭",
+    "url": "https://www.facebook.com/groups/423911034462952?locale=zh_TW",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "佳林國中--運動校隊大家庭：狂賀！本校田徑隊許棟樑代表新北市參加2024國際少年運動會勇奪標槍金牌",
+    "url": "https://www.facebook.com/groups/423911034462952/posts/2504525746401460/",
+    "source": "facebook",
+    "outlet": "Facebook（佳林國中運動校隊大家庭）",
+    "date": "2024-07-19",
+    "summary": "佳林國中運動校隊社團貼文，田徑隊許棟樑在2024國際少年運動會奪標槍金牌、鉛球銅牌。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋僅有佳林國中借用棒球場的公告，無田徑隊報導，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3565,
   "name": "跨越海洋的奔跑夢想：蘭嶼鄉朗島國小田徑隊",
-  "links": [],
-  "notes": "僅找到朗島國小重建/紀錄片等一般報導，無田徑隊專屬內容，不收錄。"
+  "links": [
+   {
+    "title": "朗島國小田徑隊日常訓練",
+    "url": "https://youtu.be/2EDUQnrh6a8",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "臺東縣蘭嶼鄉朗島國民小學：請一起幫朗島的孩子加油！跨越海洋的奔跑夢想：蘭嶼鄉朗島國小田徑隊",
+    "url": "https://www.facebook.com/IraraleyElementarySchool/posts/1475060201074882/",
+    "source": "facebook",
+    "outlet": "Facebook（朗島國小）",
+    "date": "2026-04-03",
+    "summary": "朗島國小粉絲專頁介紹自104年成立、由20位達悟族小將組成的田徑隊，並呼籲各界支持。",
+    "http_status": 400
+   },
+   {
+    "title": "臺東縣蘭嶼鄉朗島國民小學：【朗島國小田徑隊｜臺東縣115年中小學聯合運動會榮獲佳績】",
+    "url": "https://www.facebook.com/IraraleyElementarySchool/posts/1457570796157156/",
+    "source": "facebook",
+    "outlet": "Facebook（朗島國小）",
+    "date": "2026-03-13",
+    "summary": "朗島國小田徑隊參加臺東縣115年中小學聯合運動會田徑競賽，多位選手獲獎。",
+    "http_status": 400
+   }
+  ],
+  "notes": "僅找到朗島國小重建/紀錄片等一般報導，無田徑隊專屬內容，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3684,
@@ -133,21 +364,131 @@
     "date": "2026-06-07",
     "summary": "新北國際田徑公開賽彭名揚跑49秒83未達名古屋亞運標準，將轉戰香港賽事再拚達標。",
     "http_status": 200
+   },
+   {
+    "title": "不拿受傷當藉口 彭名揚要跨越生涯最難的欄架",
+    "url": "https://wowsight.tw/2026/03/11/%E3%80%8A%E7%94%B0%E5%BE%91%E3%80%8B%E4%B8%8D%E6%8B%BF%E5%8F%97%E5%82%B7%E7%95%B6%E8%97%89%E5%8F%A3-%E5%BD%AD%E5%90%8D%E6%8F%9A%E8%A6%81%E8%B7%A8%E8%B6%8A%E7%94%9F%E6%B6%AF%E6%9C%80%E9%9B%A3%E7%9A%84/",
+    "source": "official",
+    "outlet": "wowsight.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "破高懸22年全國紀錄 彭名揚成都世大運400跨欄摘金",
+    "url": "https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=5CDD42E04E65915E",
+    "source": "official",
+    "outlet": "edu.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": ""
+  "notes": " ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3437,
   "name": "董宜安",
-  "links": [],
-  "notes": "搜尋無任何對應此選手的結果，不收錄。"
+  "links": [
+   {
+    "title": "董宜安/安安",
+    "url": "https://www.facebook.com/share/19aK3am7R6/",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "董宜安/安安 Facebook 粉絲專頁",
+    "url": "https://www.facebook.com/p/%E8%91%A3%E5%AE%9C%E5%AE%89%E5%AE%89%E5%AE%89-100084364905500/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "帕拉游泳選手董宜安（安安）的粉絲專頁。",
+    "http_status": 400
+   },
+   {
+    "title": "董宜安/安安：115年全國會長盃帕拉游泳錦標賽暨國家代表隊選拔賽 S14／SB14級別女子組 200公尺自由式、100公尺蛙式金牌",
+    "url": "https://www.facebook.com/story.php/?story_fbid=892929660195856&id=100084364905500",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "2026-02-01",
+    "summary": "董宜安在115年全國會長盃帕拉游泳錦標賽S14/SB14級女子組奪200公尺自由式與100公尺蛙式兩面金牌。",
+    "http_status": 400
+   },
+   {
+    "title": "杭州亞帕運》游泳代表隊歷年最大團 目標為臺灣奪牌",
+    "url": "https://tw.sports.yahoo.com/news/%E6%9D%AD%E5%B7%9E%E4%BA%9E%E5%B8%95%E9%81%8B-%E6%B8%B8%E6%B3%B3%E4%BB%A3%E8%A1%A8%E9%9A%8A%E6%AD%B7%E5%B9%B4%E6%9C%80%E5%A4%A7%E5%9C%98-%E7%9B%AE%E6%A8%99%E7%82%BA%E8%87%BA%E7%81%A3%E5%A5%AA%E7%89%8C-113534606.html",
+    "source": "news",
+    "outlet": "Yahoo奇摩運動",
+    "date": "2023-10-14",
+    "summary": "杭州亞帕運游泳代表隊介紹，董宜安為S14級選手，小學三年級接觸游泳、克服怕水後多次在國內賽奪牌。",
+    "http_status": 200
+   },
+   {
+    "title": "特奧游泳 董宜安破表違規",
+    "url": "https://tw.news.yahoo.com/%E7%89%B9%E5%A5%A7%E6%B8%B8%E6%B3%B3-%E8%91%A3%E5%AE%9C%E5%AE%89%E7%A0%B4%E8%A1%A8%E9%81%95%E8%A6%8F-185409685.html",
+    "source": "news",
+    "outlet": "Yahoo奇摩新聞",
+    "date": "2011-06-27",
+    "summary": "2011年雅典特殊奧運，董宜安在女子800公尺自由式游出原可奪牌的成績，卻因超出預報時間規定未能獲牌。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋無任何對應此選手的結果，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3683,
   "name": "陳姿云",
-  "links": [],
-  "notes": "搜尋結果對應的是空手道選手『文姿云』（東京奧運銅牌），姓氏不同，無法確認為同一人，不收錄。"
+  "links": [
+   {
+    "title": "挺過復健低潮 摘金重返榮耀",
+    "url": "https://pr.ntnu.edu.tw/ntnunews/index.php?mode=data&id=21548",
+    "source": "official",
+    "outlet": "pr.ntnu.edu.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "跨量級險勝奪冠",
+    "url": "https://unews.nccu.edu.tw/unews/%EF%BC%88f%EF%BC%89%E4%B8%AD%E6%AD%A3%E7%9B%83%E7%A9%BA%E6%89%8B%E9%81%93%E9%AB%98%E6%89%8B%E9%9B%B2%E9%9B%86-%E9%99%B3%E5%A7%BF%E4%BA%91%E9%82%B1%E7%AD%B1%E9%9B%AF%E8%B7%A8%E9%87%8F%E7%B4%9A%E7%88%AD",
+    "source": "official",
+    "outlet": "unews.nccu.edu.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "【恭賀】112全大運》陳姿云挺過復健低潮 摘金重返榮耀",
+    "url": "https://www.csr.ntnu.edu.tw/index.php/2023/05/08/2023-05-08-13/",
+    "source": "news",
+    "outlet": "臺灣師範大學",
+    "date": "2023-05-08",
+    "summary": "臺師大體育系陳姿云從膝傷復健低潮中回歸，在112年全大運公開女生組空手道第二量級奪金。",
+    "http_status": 200
+   },
+   {
+    "title": "空手道》台灣女團對打抗日逆轉勝 陳姿云、趙柔、余彥儀奪銅",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/4373219",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2023-07-23",
+    "summary": "亞洲空手道錦標賽女子團體對打，陳姿云、趙柔、余彥儀以2比1逆轉日本奪銅。",
+    "http_status": 200
+   },
+   {
+    "title": "敢動傳媒 Instagram：陳姿云勇奪2026頂級國際空手道巡迴賽（KARATE 1 SERIES A）墨西哥站對打銅牌",
+    "url": "https://www.instagram.com/p/DbCYfrMCcwl/",
+    "source": "instagram",
+    "outlet": "Instagram（敢動傳媒）",
+    "date": "2026-07-20",
+    "summary": "敢動傳媒貼文報導陳姿云在2026 Karate 1 Series A墨西哥瓜達拉哈拉站奪個人對打銅牌。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋結果對應的是空手道選手『文姿云』（東京奧運銅牌），姓氏不同，無法確認為同一人，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3323,
@@ -188,15 +529,88 @@
     "date": "",
     "summary": "台北出生的中華台北羽球女單選手白馭珀的維基百科條目，含生涯戰績與排名。",
     "http_status": 200
+   },
+   {
+    "title": "世界最高排名女單20強白馭珀：累積失敗的經驗值，讓我更接近成功",
+    "url": "https://www.sportsv.net/articles/77825",
+    "source": "official",
+    "outlet": "sportsv.net（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "佩服戴資穎「一打五」　白馭珀拚最後一次奧運資格",
+    "url": "https://news.videoland.com.tw/article/e9867203-dd8d-45c2-aca7-f167a2a0d40f.html",
+    "source": "official",
+    "outlet": "news.videoland.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "「有在規劃退休的事宜！」　白馭珀打敗年紀小她一輪的學妹晉16強",
+    "url": "https://www.ltsports.com.tw/article/172858",
+    "source": "official",
+    "outlet": "ltsports.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "未取得其Facebook/Instagram連結。"
+  "notes": "未取得其Facebook/Instagram連結。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3182,
   "name": "鄭育沛",
-  "links": [],
-  "notes": "搜尋結果僅有姓鄭的其他羽球選手，無法對應，不收錄。"
+  "links": [
+   {
+    "title": "BWF世界羽聯個人頁面",
+    "url": "https://bwfbadminton.com/player/67789/cheng-yu-pei",
+    "source": "official",
+    "outlet": "bwfbadminton.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "戴資穎、王齊麟領軍！日本公開賽開打　台灣派20組雙打比地主還多",
+    "url": "https://www.nownews.com/news/6500022?srsltid=AfmBOoqiqLMn7ZhIaUg2f9fp1zJA2J9t_u3vFogGLGUXA_LJdT0DZiyO",
+    "source": "official",
+    "outlet": "nownews.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "鄭育沛 - 維基百科",
+    "url": "https://zh.wikipedia.org/zh-tw/%E9%84%AD%E8%82%B2%E6%B2%9B",
+    "source": "other",
+    "outlet": "維基百科",
+    "date": "",
+    "summary": "鄭育沛為臺灣羽球選手，以女雙、混雙為主，曾代表臺南市在全運會女雙奪銅。",
+    "http_status": 200
+   },
+   {
+    "title": "鄭育沛（@cheng_yu_pei）Instagram",
+    "url": "https://www.instagram.com/cheng_yu_pei/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "羽球選手鄭育沛的Instagram帳號。",
+    "http_status": 200
+   },
+   {
+    "title": "2026年第二次全國羽球排名賽【女甲雙會外64強】彤星羽球 鄭育沛/孫昱瑆 vs 中租大同 詹博媗/廖品蓁",
+    "url": "https://www.youtube.com/watch?v=tOWLIDYFG-8",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "",
+    "summary": "2026年第二次全國羽球排名賽女子甲組雙打會外賽影片，鄭育沛與孫昱瑆搭檔出賽。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋結果僅有姓鄭的其他羽球選手，無法對應，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3669,
@@ -228,45 +642,258 @@
     "date": "2025-10-14",
     "summary": "楊博涵與劉廣珩搭檔在丹麥公開賽首輪擊敗印度組合，晉級男雙16強。",
     "http_status": 200
+   },
+   {
+    "title": "2023 BWF｜楊博涵／盧敬堯 國際賽事精彩表現",
+    "url": "https://youtu.be/s0DIW8nAGHE?si=fhgGKb2znAYSX2C1",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2025 BWF｜楊博涵／劉廣衍 國際賽事精彩表現",
+    "url": "https://youtu.be/J7nQdthVGpo?si=ERTMY0Qa4e9KlxMh",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "楊博涵/劉廣𧗠擊敗巴黎奧運雙金麟洋配",
+    "url": "https://tsna.com/article/94371?utm_source=chatgpt.com",
+    "source": "official",
+    "outlet": "tsna.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "未取得其Facebook/Instagram連結。"
+  "notes": "未取得其Facebook/Instagram連結。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3353,
   "name": "黃鈺",
-  "links": [],
-  "notes": "同名者多，搜尋結果中無可確認的羽球選手『黃鈺』，不收錄。"
+  "links": [
+   {
+    "title": "羽球排名賽》黃鈺從會外殺進冠軍賽成黑馬 王子維怎麼看這名學弟？",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5541599",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2026-08-16",
+    "summary": "22歲合庫好手黃鈺從會外賽一路打進2026年第2次全國羽球排名賽男單決賽，激戰三局不敵王子維。",
+    "http_status": 200
+   },
+   {
+    "title": "全國羽球排名賽／王子維擊敗學弟黃鈺奪男單冠軍 睽違十年再度登頂",
+    "url": "https://tw.sports.yahoo.com/news/%E5%85%A8%E5%9C%8B%E7%BE%BD%E7%90%83%E6%8E%92%E5%90%8D%E8%B3%BD-%E7%8E%8B%E5%AD%90%E7%B6%AD%E6%93%8A%E6%95%97%E5%AD%B8%E5%BC%9F%E9%BB%83%E9%88%BA%E5%A5%AA%E7%94%B7%E5%96%AE%E5%86%A0%E8%BB%8D-%E7%9D%BD%E9%81%95%E5%8D%81%E5%B9%B4%E5%86%8D%E5%BA%A6%E7%99%BB%E9%A0%82-064000417.html",
+    "source": "news",
+    "outlet": "Yahoo奇摩運動",
+    "date": "2026-08-16",
+    "summary": "全國羽球排名賽男單決賽合庫內戰，王子維以21：17、13：21、21：16擊敗學弟黃鈺。",
+    "http_status": 200
+   },
+   {
+    "title": "羽球》黃鈺從合庫內戰勝出首晉決賽 明與戚又仁爭奪全排男單王者",
+    "url": "https://www.ltsports.com.tw/article/175142",
+    "source": "news",
+    "outlet": "麗台運動報",
+    "date": "2025-01-04",
+    "summary": "黃鈺擊敗師弟蘇偉誠，生涯首度闖進全國羽球排名賽男單決賽。",
+    "http_status": 200
+   },
+   {
+    "title": "20180814FINAL U15MS 黃鈺(TWN) VS 李彥劭(TWN)（鄂爾多斯華人盃青少年錦標賽）",
+    "url": "https://www.youtube.com/watch?v=3INQ9LAthjI",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "",
+    "summary": "2018年鄂爾多斯華人盃青少年錦標賽U15男單決賽影片，黃鈺對李彥劭。",
+    "http_status": 200
+   }
+  ],
+  "notes": "同名者多，搜尋結果中無可確認的羽球選手『黃鈺』，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3591,
   "name": "柯泊爾",
-  "links": [],
-  "notes": "搜尋無任何對應此柔道選手的結果，不收錄。"
+  "links": [
+   {
+    "title": "團隊苦練為了115年全中運，我們得三金。我也是其中之一",
+    "url": "https://www.facebook.com/share/r/1PK5dpZPg3/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "全柔錦》福誠柯泊爾橫掃5連霸 海青工商轉學團狂捲7金",
+    "url": "https://tw.sports.yahoo.com/news/%E5%85%A8%E6%9F%94%E9%8C%A6-%E7%A6%8F%E8%AA%A0%E6%9F%AF%E6%B3%8A%E7%88%BE%E6%A9%AB%E6%8E%835%E9%80%A3%E9%9C%B8-%E6%B5%B7%E9%9D%92%E5%B7%A5%E5%95%86%E8%BD%89%E5%AD%B8%E5%9C%98%E7%8B%82%E6%8D%B27%E9%87%91-144500157.html",
+    "source": "news",
+    "outlet": "Yahoo奇摩運動",
+    "date": "2026-05-21",
+    "summary": "115年全國柔道錦標賽，福誠高中柯泊爾在高男第三級（-66kg）奪金，完成全柔錦五連霸。",
+    "http_status": 200
+   },
+   {
+    "title": "柔道》福誠柯泊爾、瑪家莊帥均奪金 媽媽、教練感動又驕傲",
+    "url": "https://www.ltsports.com.tw/article/162570",
+    "source": "news",
+    "outlet": "麗台運動報",
+    "date": "2023-05-25",
+    "summary": "全國柔道錦標賽，福誠高中柯泊爾在國男第五級（-55kg）開賽不到兩分鐘壓制對手奪金。",
+    "http_status": 200
+   },
+   {
+    "title": "柯泊爾 Facebook 影片：115年彰化柔道錦標賽精彩時刻 #福誠高中柔道隊",
+    "url": "https://www.facebook.com/ke.po.er.2025/videos/2163007837894865/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "2026-09-25",
+    "summary": "柯泊爾個人Facebook分享115年彰化柔道錦標賽比賽精彩片段。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋無任何對應此柔道選手的結果，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3567,
   "name": "彰化縣和群國中柔道隊",
-  "links": [],
-  "notes": "搜尋僅有招生簡章、縣長盃承辦及活動中心啟用等資料，無柔道隊專屬報導，不收錄。"
+  "links": [
+   {
+    "title": "和群柔道 Facebook 社團",
+    "url": "https://www.facebook.com/groups/738815469897039/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "彰化縣和群國中柔道隊的Facebook社團，分享訓練與比賽成績。",
+    "http_status": 400
+   },
+   {
+    "title": "和群柔道：狂賀 全國中等學校運動會柔道第一天賽程 胡恩舒國女組第一級第二名",
+    "url": "https://www.facebook.com/groups/738815469897039/posts/1660437071068203/",
+    "source": "facebook",
+    "outlet": "Facebook（和群柔道）",
+    "date": "2023-04-22",
+    "summary": "和群國中柔道隊社團貼文，胡恩舒在全中運國女組第一級奪銀、許嘉修獲國男組第二級第五名。",
+    "http_status": 400
+   },
+   {
+    "title": "1150430 和群戰將柔道角力雙棲 全中運強勢奪下一銀二銅",
+    "url": "https://www.youtube.com/watch?v=hBo1EDS6l4M",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "2026-04-30",
+    "summary": "影片報導和群國中柔道隊在115年全中運柔道項目奪下一銀二銅。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋僅有招生簡章、縣長盃承辦及活動中心啟用等資料，無柔道隊專屬報導，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3241,
   "name": "國立台東高商柔道隊",
-  "links": [],
-  "notes": "搜尋結果僅涉及台東高商管樂團、競賽等，無柔道隊資料，不收錄。"
+  "links": [
+   {
+    "title": "國立台東高商網站",
+    "url": "https://www.tscvs.ttct.edu.tw/home",
+    "source": "official",
+    "outlet": "tscvs.ttct.edu.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋結果僅涉及台東高商管樂團、競賽等，無柔道隊資料，不收錄。 ｜第二輪（2026-10-12）僅找到教練國德綱個人IG貼文與學校官網，無柔道隊專屬報導或社群；保留申請者自填的學校網站。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3413,
   "name": "中信金融管理學院柔道隊",
-  "links": [],
-  "notes": "搜尋結果皆為中金院籃球隊或跆拳道隊報導，無柔道隊專屬內容，不收錄。"
+  "links": [
+   {
+    "title": "中信金融管理學院柔道隊 CTBC IPPON JUDO Facebook",
+    "url": "https://www.facebook.com/p/%E4%B8%AD%E4%BF%A1%E9%87%91%E8%9E%8D%E7%AE%A1%E7%90%86%E5%AD%B8%E9%99%A2%E6%9F%94%E9%81%93%E9%9A%8A-CTBC-IPPON-JUDO-61581027537050/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "中金院柔道隊的Facebook粉絲專頁，自介「山裡的道館，夢想的擂台」。",
+    "http_status": 400
+   },
+   {
+    "title": "中信金融管理學院柔道隊（@ctbc_ippon_judo）Instagram",
+    "url": "https://www.instagram.com/ctbc_ippon_judo/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "中金院柔道隊的Instagram帳號。",
+    "http_status": 200
+   },
+   {
+    "title": "柔道運動｜中信金融管理學院 運動競技學士學位學程",
+    "url": "https://upsc.ctbc.edu.tw/p/412-1049-3548.php?Lang=zh-tw",
+    "source": "official",
+    "outlet": "中信金融管理學院",
+    "date": "",
+    "summary": "校方學程網頁介紹柔道隊並列出近年獲獎紀錄。",
+    "http_status": 200
+   },
+   {
+    "title": "中金院運動代表隊征戰114年全大運 斬獲2金4銀4銅",
+    "url": "https://pr.ctbc.edu.tw/p/404-1011-42619.php?Lang=zh-tw",
+    "source": "official",
+    "outlet": "中信金融管理學院 校園新聞",
+    "date": "2025-06-18",
+    "summary": "首戰全大運的中金院柔道代表隊，楊宇潔在柔道公開女生組第三量級奪金。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋結果皆為中金院籃球隊或跆拳道隊報導，無柔道隊專屬內容，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3339,
   "name": "呂瑀恩",
-  "links": [],
-  "notes": "搜尋無任何對應此桌球選手的結果，不收錄。"
+  "links": [
+   {
+    "title": "體報導 2024 WTT香港青少年桌球挑戰賽 臺灣抱回 5 金、2 銀、8 銅 → TBO Taiwan | 紀路臺灣",
+    "url": "https://tbotaiwan.com/pride-of-taiwan-wtt-youth-contender-hong-kong-2024/",
+    "source": "official",
+    "outlet": "tbotaiwan.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "【香港青少年乒賽】中華台北包辦女子U13及U17冠軍",
+    "url": "https://hk.sports.yahoo.com/news/%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B0%91%E5%B9%B4%E4%B9%92%E8%B3%BD-%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E5%8C%85%E8%BE%A6%E5%A5%B3%E5%AD%90u13%E5%8F%8Au17%E5%86%A0%E8%BB%8D-140254979.html?guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAKjO7M24_1h1-3_2fIuy_BoSsv-x-2vc6vpFxCPg43BM16sMmULvez4n8UEqKXwqm0h-IoXG4oCxX02SG70HdXYW9FVO0fulM12HwfRC85rl_x2WGlTL-fPbtY-jwA2PVnmoihgUZzhPYOP8clRKTrQWuHC-_Lj8im0-GUAJ6cP4&guccounter=2",
+    "source": "official",
+    "outlet": "hk.sports.yahoo.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "冠屏乒乓練習場：恭喜呂瑀恩參加2025年世界中學生U15運動會桌球代表隊選拔賽榮獲女子組單打第一名入選國家代表隊",
+    "url": "https://www.facebook.com/100057602642845/posts/1082799103650168/",
+    "source": "facebook",
+    "outlet": "Facebook（冠屏乒乓練習場）",
+    "date": "",
+    "summary": "球館貼文恭賀呂瑀恩在2025年世界中學生U15運動會桌球代表隊選拔賽女單奪冠入選國家隊。",
+    "http_status": 400
+   },
+   {
+    "title": "台灣桌球情報誌：恭喜！呂瑀恩(高雄市五福國中)/施佳宏(松山家商)榮獲2023年WTT寮國永珍青少年挑戰賽U15混雙冠軍",
+    "url": "https://www.facebook.com/groups/199390740226801/posts/2526568304175688/",
+    "source": "facebook",
+    "outlet": "Facebook（台灣桌球情報誌）",
+    "date": "2023-09-22",
+    "summary": "呂瑀恩與施佳宏搭檔奪得2023年WTT寮國永珍青少年挑戰賽U15混雙冠軍。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋無任何對應此桌球選手的結果，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3204,
@@ -289,21 +916,158 @@
     "date": "2026-02-10",
     "summary": "高承睿因傷影響名古屋亞運國手資格，表示目前優先專注養傷。",
     "http_status": 200
+   },
+   {
+    "title": "高承睿擊退奧運銀牌 勇闖WTT澳門冠軍賽4強",
+    "url": "https://www.cna.com.tw/news/aspt/202409130341.aspx",
+    "source": "official",
+    "outlet": "cna.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "【巴黎奧運】桌球男團止步八強，追平東京奧運紀錄",
+    "url": "https://www.thenewslens.com/feature/paris-olympics/206253",
+    "source": "official",
+    "outlet": "thenewslens.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "未取得其Facebook/Instagram連結。"
+  "notes": "未取得其Facebook/Instagram連結。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3621,
   "name": "吳沅鍇",
-  "links": [],
-  "notes": "搜尋無任何對應此桌球選手的結果，不收錄。"
+  "links": [
+   {
+    "title": "576人中殺出重圍 新北中信吳沅鍇奪10歲男單冠軍",
+    "url": "https://tw.sports.yahoo.com/news/%E6%A1%8C%E7%90%83%E8%87%AA%E7%94%B1%E7%9B%83-576%E4%BA%BA%E4%B8%AD%E6%AE%BA%E5%87%BA%E9%87%8D%E5%9C%8D-%E6%96%B0%E5%8C%97%E4%B8%AD%E4%BF%A1%E5%90%B3%E6%B2%85%E9%8D%87%E5%A5%AA10%E6%AD%B2%E7%94%B7%E5%96%AE%E5%86%A0%E8%BB%8D-201044909.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEZDywJ2rlK0lVnknwKPEnOw10w7RQmJZ_h064_eXopcu-wxc85-tOfA1oSd_IBCGkQuPdjAmdDjUm9LRQKLJgu1ZkOhaz9YPF7Y4aHaldoAzWGiExq4MMFTTs4N8ZGLvLxVeSshVurDV4E8JVHyaRfgE8z4p4ZLets3ABUdxaDK",
+    "source": "official",
+    "outlet": "tw.sports.yahoo.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "激戰4局力退西班牙新秀 12歲小將吳沅鍇連兩站摘下U13男單冠軍",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5165902",
+    "source": "official",
+    "outlet": "sports.ltn.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "全國桌球少年新科國手風雲榜（四之一） 賽場上切磋球技 彼此砥礪精進",
+    "url": "https://www.mdnkids.com/content.asp?Link_String_=22AR00000QPALXA",
+    "source": "news",
+    "outlet": "國語日報",
+    "date": "2024-10-27",
+    "summary": "國語日報專題介紹少年桌球國手，新北市中信國小吳沅鍇與陳宥辰常在賽場交手、彼此切磋。",
+    "http_status": 200
+   },
+   {
+    "title": "少年桌球國手選拔 新北包辦四組第一",
+    "url": "https://www.mdnkids.com/content.asp?sn=11598",
+    "source": "news",
+    "outlet": "國語日報",
+    "date": "2023-05-31",
+    "summary": "2023年少年桌球國手選拔，10歲小四的吳沅鍇跨級打11歲組奪第一名。",
+    "http_status": 200
+   },
+   {
+    "title": "桌球》吳沅鍇、翁妤蕎江凌青少挑戰賽奪冠 張睿儀初試啼聲摘銀",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5575757",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2026-09-16",
+    "summary": "2026年WTT江凌青少年挑戰賽，吳沅鍇連兩站勇奪U13男單冠軍。",
+    "http_status": 200
+   },
+   {
+    "title": "桌球自由盃》576人中殺出重圍 新北中信吳沅鍇奪10歲男單冠軍",
+    "url": "https://today.line.me/tw/v3/article/l2annKv",
+    "source": "news",
+    "outlet": "麗台運動報（LINE TODAY）",
+    "date": "2023-04-08",
+    "summary": "新北市中信國小四年級吳沅鍇在576名參賽者中連勝9場，奪自由盃10歲男單冠軍。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋無任何對應此桌球選手的結果，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3552,
   "name": "陳芷妍",
-  "links": [],
-  "notes": "搜尋摘要顯示自由時報2026-07-18報導『桌球》直落三擊退香港削球手 14歲陳芷妍越級奪下U19女單冠軍』（合庫小將，南門國中畢業、即將就讀華江高中），但未取得單篇網址，故不收錄；另有中金院跆拳道女子49公斤級同名者，非本項目。"
+  "links": [
+   {
+    "title": "桌球》直落三擊退香港削球手 14歲陳芷妍越級奪下U19女單冠軍",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5509794",
+    "source": "official",
+    "outlet": "sports.ltn.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "《ICG快訊 桌球單打戰報！北市洪秉裕、陳芷妍強勢包辦男女單雙金",
+    "url": "https://www.seenews.com.tw/news_data.php?news_id=2652&k_code=D",
+    "source": "official",
+    "outlet": "seenews.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "[女桌英雌]南門之光！15歲陳芷妍跨級榮登17歲組桌球國手！！",
+    "url": "https://www.nmjh.tp.edu.tw/sticky_glory/%e5%a5%b3%e6%a1%8c%e8%8b%b1%e9%9b%8c%e5%8d%97%e9%96%80%e4%b9%8b%e5%85%89%ef%bc%8115%e6%ad%b2%e9%99%b3%e8%8a%b7%e5%a6%8d%e8%b7%a8%e7%b4%9a%e6%a6%ae%e7%99%bb17%e6%ad%b2%e7%b5%84%e6%a1%8c%e7%90%83/",
+    "source": "official",
+    "outlet": "臺北市立南門國中",
+    "date": "",
+    "summary": "南門國中榮譽榜：15歲陳芷妍跨級在17歲組選拔脫穎而出，榮登桌球國手。",
+    "http_status": 200
+   },
+   {
+    "title": "[技冠群芳]桌壇新星！915陳芷妍全中運女桌單打封后，勇奪全國金牌，為校爭光！！",
+    "url": "https://www.nmjh.tp.edu.tw/sticky_glory/%e6%8a%80%e5%86%a0%e7%be%a4%e8%8a%b3%e6%a1%8c%e5%a3%87%e6%96%b0%e6%98%9f%ef%bc%81915%e9%99%b3%e8%8a%b7%e5%a6%8d%e5%85%a8%e4%b8%ad%e9%81%8b%e5%a5%b3%e6%a1%8c%e5%96%ae%e6%89%93%e5%b0%81%e5%90%8e/",
+    "source": "official",
+    "outlet": "臺北市立南門國中",
+    "date": "",
+    "summary": "南門國中榮譽榜：915班陳芷妍在115年全中運桌球女單勇奪全國冠軍。",
+    "http_status": 200
+   },
+   {
+    "title": "臺北市南門華江桌球團隊：狂賀 陳芷妍參加2026第30屆亞洲青少年桌球錦標賽榮獲U15女子團體組第三名",
+    "url": "https://www.facebook.com/100063291210122/posts/1356591469793881/",
+    "source": "facebook",
+    "outlet": "Facebook（臺北市南門華江桌球團隊）",
+    "date": "2026-07-05",
+    "summary": "陳芷妍披上國家隊戰袍，在2026亞洲青少年桌球錦標賽U15女子團體奪銅。",
+    "http_status": 400
+   },
+   {
+    "title": "臺北市南門華江桌球團隊：狂賀 陳芷妍代表臺北市隊參加2026年國際少年運動會（ICG）榮獲女子單打金牌",
+    "url": "https://www.facebook.com/100063291210122/posts/1382111117241916/",
+    "source": "facebook",
+    "outlet": "Facebook（臺北市南門華江桌球團隊）",
+    "date": "",
+    "summary": "陳芷妍代表中華台北臺北市隊在2026年國際少年運動會桌球女單奪金。",
+    "http_status": 400
+   },
+   {
+    "title": "TAIN 台灣體育資訊網 桌球站：陳芷妍 選手頁",
+    "url": "https://tain.tw/players/10577",
+    "source": "other",
+    "outlet": "TAIN 台灣體育資訊網",
+    "date": "",
+    "summary": "台灣體育資訊網桌球站的陳芷妍選手資料頁，記錄打法（反手長顆）與參賽紀錄。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋摘要顯示自由時報2026-07-18報導『桌球》直落三擊退香港削球手 14歲陳芷妍越級奪下U19女單冠軍』（合庫小將，南門國中畢業、即將就讀華江高中），但未取得單篇網址，故不收錄；另有中金院跆拳道女子49公斤級同名者，非本項目。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3681,
@@ -335,20 +1099,184 @@
     "date": "2026-09-26",
     "summary": "名古屋亞運桌球男雙8強，郭冠宏與馮翊新直落三不敵中國組合。",
     "http_status": 200
+   },
+   {
+    "title": "很角色／只要是對手都想贏 郭冠宏向上衝擊的鬥志",
+    "url": "https://www.rti.org.tw/news?uid=3&pid=227444",
+    "source": "official",
+    "outlet": "rti.org.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "未取得其Facebook/Instagram連結。"
+  "notes": "未取得其Facebook/Instagram連結。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3674,
   "name": "羅允呈",
-  "links": [],
-  "notes": "搜尋無任何對應此桌球選手的結果，不收錄。"
+  "links": [
+   {
+    "title": "彰化新一代球王！「桌球小王子」羅允呈澳洲13小時激戰勇奪5金",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5265571",
+    "source": "official",
+    "outlet": "sports.ltn.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "彰德國中羅允呈勇奪雙冠　WTT澳洲青少年桌球挑戰賽雙料稱王",
+    "url": "https://newstaiwan.net/2024/06/21/194745/",
+    "source": "official",
+    "outlet": "newstaiwan.net（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "羅允呈桌球實力超齡 昆士蘭公開賽五冠王",
+    "url": "https://www.mdnkids.com/content.asp?Link_String_=241C00000BGIPAB",
+    "source": "news",
+    "outlet": "國語日報",
+    "date": "2026-01-12",
+    "summary": "彰化彰德國中羅允呈遠赴澳洲參加2025昆士蘭公開賽，在13小時高強度賽程中奪五冠。",
+    "http_status": 200
+   },
+   {
+    "title": "彰德國中羅允呈勇奪昆士蘭公開賽桌球5冠王 彰化之光閃耀國際",
+    "url": "https://www.cna.com.tw/postwrite/chi/420389",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2025-12-02",
+    "summary": "彰化縣政府新聞稿報導彰德國中羅允呈在2025昆士蘭公開賽奪得五項冠軍。",
+    "http_status": 200
+   },
+   {
+    "title": "彰化之光閃耀國際！彰德國中羅允呈勇奪昆士蘭公開賽桌球5冠王",
+    "url": "https://www.changhuanews.com/2025/12/news-0209.html",
+    "source": "news",
+    "outlet": "彰化新聞",
+    "date": "2025-12-02",
+    "summary": "羅允呈在2025昆士蘭公開賽包辦單打、雙打與公開組等五項冠軍。",
+    "http_status": 200
+   },
+   {
+    "title": "WTT青年挑戰賽》彰化囝仔國際稱霸！國二生羅允呈澳洲奪雙冠",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/4834609",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2024-10-18",
+    "summary": "彰德國中二年級羅允呈在2024年WTT澳洲青少年挑戰賽勇奪U13與U15雙料冠軍。",
+    "http_status": 200
+   },
+   {
+    "title": "羅允呈球技超群 國際桌球賽奪雙冠",
+    "url": "https://www.mdnkids.com/content.asp?Link_String_=22B400000HGRCOR",
+    "source": "news",
+    "outlet": "國語日報",
+    "date": "2024-11-04",
+    "summary": "國語日報報導彰德國中羅允呈在WTT澳洲青少年桌球挑戰賽奪U13、U15兩組冠軍。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋無任何對應此桌球選手的結果，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3679,
   "name": "劉苡硯",
-  "links": [],
-  "notes": "搜尋無任何對應此網球選手的結果，不收錄。"
+  "links": [
+   {
+    "title": "instagram",
+    "url": "https://www.instagram.com/1an.tw/",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2025 Roland Garros Junior Series by Renault Qualifying - Dreams Take Shape in Hainan: A step closer to Roland Garros for the Asian stars",
+    "url": "https://www.asiantennis.com/news/dreams-take-shape-in-hainan-a-step-closer-to-roland-garros-for-the-asian-stars/",
+    "source": "official",
+    "outlet": "asiantennis.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2024 GSPDP Asian 14&U Junior Championships 2024 (Phnom Penh, Cambodia)",
+    "url": "https://www.asiantennis.com/photo-gallery/",
+    "source": "official",
+    "outlet": "asiantennis.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2024 ATF High Performance Training Camp (Phnom Penh, Cambodia)",
+    "url": "https://www.asiantennis.com/image-gallery/?id=10345",
+    "source": "official",
+    "outlet": "asiantennis.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2024 ATF High-Performance Training Camp to Prepare Young Players for Asian Championships",
+    "url": "https://www.asiantennis.com/atf-high-performance-training-camp-to-prepare-young-players-for-asian-championships/",
+    "source": "official",
+    "outlet": "asiantennis.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2024 ITF ATF 14&U Regional Training Camp Set to Ignite Young Talent in Kuala Lumpur.",
+    "url": "https://www.asiantennis.com/itf-atf-14u-regional-training-camp-set-to-ignite-young-talent-in-kuala-lumpur/",
+    "source": "official",
+    "outlet": "asiantennis.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "Asian 14&U Grade A Tournament in Kunming, China",
+    "url": "https://www.asiantennis.com/unseeded-jiarui-sun-yuxuan-li-triumph-at-asian-14u-grade-a-tournament-in-kunming-china/",
+    "source": "official",
+    "outlet": "asiantennis.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "北市至善國中網球隊文武雙全 畢業生上明星高中",
+    "url": "https://www.mdnkids.com/content.asp?Link_String_=237800000JHBLHC",
+    "source": "news",
+    "outlet": "國語日報",
+    "date": "2025-07-08",
+    "summary": "至善國中網球隊畢業生升學佳績，劉苡硯考上建國中學。",
+    "http_status": 200
+   },
+   {
+    "title": "NorthWest Sports 選手頁：IAN, LIU 劉苡硯",
+    "url": "https://northwest-sports.com/95174660/IAN_LIU",
+    "source": "other",
+    "outlet": "NorthWest Sports",
+    "date": "",
+    "summary": "NorthWest Sports網站的劉苡硯選手頁，記錄2021至2023年國內青少年網球賽事成績。",
+    "http_status": 200
+   },
+   {
+    "title": "DE SPORTS PERFORMANCE 應諾吉運動訓練中心：狂賀 應諾吉年紀最小的選手劉苡硯在四維膠帶盃學童網球錦標賽拿到亞軍",
+    "url": "https://www.facebook.com/DE.SportsPerformance/posts/1739087526167860/",
+    "source": "facebook",
+    "outlet": "Facebook（應諾吉運動訓練中心）",
+    "date": "",
+    "summary": "訓練中心貼文恭賀劉苡硯在四維膠帶盃學童網球錦標賽奪亞軍，個人首次打進決賽。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋無任何對應此網球選手的結果，不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  }
 ]

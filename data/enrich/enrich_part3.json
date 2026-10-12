@@ -11,9 +11,36 @@
     "date": "",
     "summary": "臺南市白河區國立白河商工的學校粉絲專頁，可追蹤校內活動；頁面未特別標示排球隊內容。",
     "http_status": 400
+   },
+   {
+    "title": "白河商工排球隊（@phvs_volley）Instagram",
+    "url": "https://www.instagram.com/phvs_volley/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "白河商工排球隊的Instagram帳號。",
+    "http_status": 200
+   },
+   {
+    "title": "白河商工體育組 Facebook",
+    "url": "https://www.facebook.com/phvspe/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "白河商工體育組粉絲專頁，發布校隊訊息與競賽資訊。",
+    "http_status": 400
+   },
+   {
+    "title": "113學年度高中男子甲組HVL聯賽-白河商工排球隊",
+    "url": "https://www.youtube.com/watch?v=vUk3QNh0ORs",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "",
+    "summary": "白河商工排球隊113學年度高中男子甲組HVL聯賽影片。",
+    "http_status": 200
    }
   ],
-  "notes": "未搜尋到專屬排球隊報導或粉專；僅保留學校官方粉絲頁。搜尋額度用盡，未能進一步補查。"
+  "notes": "未搜尋到專屬排球隊報導或粉專；僅保留學校官方粉絲頁。搜尋額度用盡，未能進一步補查。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3422,
@@ -70,15 +97,61 @@
     "date": "",
     "summary": "臺中家商學務處的Facebook粉專（學校行政單位），頁面未特別標示女排內容，僅作為學校官方資訊入口。",
     "http_status": 400
+   },
+   {
+    "title": "臺中家商排球隊",
+    "url": "https://www.instagram.com/tchcvs_volleyball?igsh=MW8wZDB6MHh1ZGNwaQ==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "臺中家商活力讚：本校女排校隊參加114年全國第十四屆「北港媽祖盃」排球錦標賽",
+    "url": "https://www.facebook.com/TCHCVS.TW/posts/1317173673757161/",
+    "source": "facebook",
+    "outlet": "Facebook（臺中家商）",
+    "date": "",
+    "summary": "臺中家商女排校隊出發參加114年北港媽祖盃排球錦標賽，獲廟方捐贈旅費。",
+    "http_status": 400
+   },
+   {
+    "title": "賀! 本校女子排球隊參加教育部高中女子乙組排球聯賽榮獲台中區預賽第二名晉級北區複賽",
+    "url": "https://tchcvs.tc.edu.tw/p/406-1087-330908,r67.php",
+    "source": "official",
+    "outlet": "臺中家商",
+    "date": "",
+    "summary": "臺中家商公告女子排球隊在高中女子乙組排球聯賽台中區預賽獲第二名晉級北區複賽。",
+    "http_status": 200
    }
   ],
-  "notes": "搜尋結果中的臺中市高中排球新聞多為東山高中、豐原高商，與臺中家商無關，已排除。"
+  "notes": "搜尋結果中的臺中市高中排球新聞多為東山高中、豐原高商，與臺中家商無關，已排除。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3346,
   "name": "台灣同志運動發展協會-女子排球隊",
-  "links": [],
-  "notes": "多次搜尋僅找到協會本身及同志運動會的一般報導，未見女子排球隊的專屬內容，故不收錄。"
+  "links": [
+   {
+    "title": "台灣同志運動發展協會 Facebook",
+    "url": "https://www.facebook.com/TGSMA/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "社團法人台灣同志運動發展協會的Facebook粉絲專頁。",
+    "http_status": 400
+   },
+   {
+    "title": "台灣同志運動發展協會：2025台灣同志運動會-女子排球組 報名開跑！",
+    "url": "https://www.facebook.com/100064617492298/posts/1094266056070634/",
+    "source": "facebook",
+    "outlet": "Facebook（台灣同志運動發展協會）",
+    "date": "2025-05-22",
+    "summary": "協會公告2025台灣同志運動會女子排球組賽事，6月28至29日於臺師大綜合體育館舉行。",
+    "http_status": 400
+   }
+  ],
+  "notes": "多次搜尋僅找到協會本身及同志運動會的一般報導，未見女子排球隊的專屬內容，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3545,
@@ -101,9 +174,45 @@
     "date": "",
     "summary": "國立東石高級中學的學校Facebook粉專，可追蹤校內活動；頁面未特別標示排球隊內容。",
     "http_status": 400
+   },
+   {
+    "title": "東石高中排球隊ig",
+    "url": "https://www.instagram.com/tssh.volleyball?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "東石高中：2026優質東高｜排球傳承・青春接力・感恩相遇 歡迎台灣體大女排排球發展列車蒞臨",
+    "url": "https://www.facebook.com/tssh.cyc/posts/1464585962353876/",
+    "source": "facebook",
+    "outlet": "Facebook（國立東石高中）",
+    "date": "2026-08-07",
+    "summary": "台灣體大女排團隊到東石高中指導排球訓練，貼文並記錄東高女排永信盃闖進八強。",
+    "http_status": 400
+   },
+   {
+    "title": "東石高中：狂賀！本校女子排球隊參加114年諸羅山盃全國排球錦標賽勇奪高中女子組冠軍",
+    "url": "https://www.facebook.com/tssh.cyc/posts/1235504835261991/",
+    "source": "facebook",
+    "outlet": "Facebook（國立東石高中）",
+    "date": "",
+    "summary": "東石高中女子排球隊在114年諸羅山盃全國排球錦標賽奪高中女子組冠軍。",
+    "http_status": 400
+   },
+   {
+    "title": "嘉縣東石高中女排勇奪諸羅山盃全國冠軍堅毅熱血再創榮耀",
+    "url": "https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-277089f2-a168-4411-a0eb-84003d72474d&currentCategory=101",
+    "source": "news",
+    "outlet": "台灣時報",
+    "date": "",
+    "summary": "台灣時報報導東石高中女排在諸羅山盃全國排球錦標賽奪冠。",
+    "http_status": 200
    }
   ],
-  "notes": "未找到排球隊專屬報導；搜尋到的新聞多為該校棒球隊，已排除。"
+  "notes": "未找到排球隊專屬報導；搜尋到的新聞多為該校棒球隊，已排除。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3553,
@@ -126,15 +235,70 @@
     "date": "2023-10-27",
     "summary": "2023年高雄公開賽第三回合，何勁宏打出68桿，與呂偉智等人並列領先。",
     "http_status": 200
+   },
+   {
+    "title": "Chin Hung He 何勁宏 ホー ジンホン",
+    "url": "https://www.facebook.com/ChinHungHankHo",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "ChinHungHe",
+    "url": "https://www.instagram.com/chinhunghe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": ""
+  "notes": " ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3439,
   "name": "林緯",
-  "links": [],
-  "notes": "同名者多，搜尋「林緯 高爾夫」未見明確對應的高爾夫選手報導，故不收錄。"
+  "links": [
+   {
+    "title": "台灣職業高爾夫協會 球員介紹：林緯",
+    "url": "https://www.tpga.org.tw/Common/PlayerProfile/39109",
+    "source": "other",
+    "outlet": "台灣職業高爾夫協會 TPGA",
+    "date": "",
+    "summary": "TPGA官網的林緯職業球員資料頁，列出台巡賽成績。",
+    "http_status": 200
+   },
+   {
+    "title": "林緯（@linweigolfer）Instagram",
+    "url": "https://www.instagram.com/linweigolfer/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "高爾夫選手林緯的Instagram帳號。",
+    "http_status": 200
+   },
+   {
+    "title": "林緯（@linweigolfer）Threads",
+    "url": "https://www.threads.com/@linweigolfer",
+    "source": "threads",
+    "outlet": "Threads",
+    "date": "",
+    "summary": "高爾夫選手林緯的Threads帳號。",
+    "http_status": 200
+   },
+   {
+    "title": "三人並列首位！許氏父子與林緯同以68桿領跑ThreeBond挑戰賽",
+    "url": "https://today.line.me/tw/v3/article/YaY2m9Q",
+    "source": "news",
+    "outlet": "TPGA台灣職業高爾夫（LINE TODAY）",
+    "date": "2024-09-19",
+    "summary": "ThreeBond TPGA挑戰賽首回合，林緯打出68桿（-4）與許孟男、許育承並列領先。",
+    "http_status": 200
+   }
+  ],
+  "notes": "同名者多，搜尋「林緯 高爾夫」未見明確對應的高爾夫選手報導，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3441,
@@ -148,15 +312,88 @@
     "date": "2026-04-19",
     "summary": "報導新北市達觀國中的花式滑輪新秀蔡子琦在2026臺灣國際花式滑輪溜冰公開賽青年女子組名列第4。",
     "http_status": 200
+   },
+   {
+    "title": "2025 亞錦賽賽後感言",
+    "url": "https://www.instagram.com/p/DM41xxQypLeqP8l6H7L2tVzFXwN4Ez4eCyLR6o0/?igsh=eXE3azY5b3JlNnVx",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "2025 Pacific Cup賽後感言",
+    "url": "https://www.instagram.com/p/DOSsuaRkjqBltIf3qLSsxNM9XMrx0QzGHBCKNI0/?igsh=MThmanpjd3NhZG12ZQ==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": ""
+  "notes": " ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3347,
   "name": "臺東縣康樂國小競速滑輪溜冰隊",
-  "links": [],
-  "notes": "搜尋結果僅有其他縣市的競賽規程與賽事文件，未見康樂國小溜冰隊專屬內容，故不收錄。"
+  "links": [
+   {
+    "title": "台東康樂國小FB",
+    "url": "https://www.facebook.com/52klps?ref=embed_page",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "東縣康樂國小滑輪溜冰場啟用溜冰聯賽同時登場",
+    "url": "https://www.cdns.com.tw/articles/232970",
+    "source": "news",
+    "outlet": "中華日報",
+    "date": "2020-08-01",
+    "summary": "台東康樂國小滑輪溜冰場啟用，溜冰隊同學結合舞龍開場演出，縣內溜冰聯賽同日開打。",
+    "http_status": 200
+   },
+   {
+    "title": "台東康樂國小溜冰場耗資千餘萬改建 今首辦聯賽",
+    "url": "https://news.ltn.com.tw/news/Taitung/breakingnews/3246675",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2020-08-01",
+    "summary": "康樂國小滑輪溜冰場自1997年興建、為台東培訓滑輪溜冰重要場地，獲體育署補助改建後啟用。",
+    "http_status": 200
+   },
+   {
+    "title": "臺東縣康樂國小溜冰場啟用 溜冰聯賽正式登場",
+    "url": "https://tw.news.yahoo.com/%E8%87%BA%E6%9D%B1%E7%B8%A3%E5%BA%B7%E6%A8%82%E5%9C%8B%E5%B0%8F%E6%BA%9C%E5%86%B0%E5%A0%B4%E5%95%9F%E7%94%A8-%E6%BA%9C%E5%86%B0%E8%81%AF%E8%B3%BD%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%A0%B4-093019410.html",
+    "source": "news",
+    "outlet": "國立教育廣播電台（Yahoo奇摩新聞）",
+    "date": "2020-08-01",
+    "summary": "康樂國小溜冰隊以「祥龍獻瑞」結合舞龍與滑輪溜冰，為溜冰場啟用及聯賽揭幕演出。",
+    "http_status": 200
+   },
+   {
+    "title": "台東縣政府教育處：【狂賀！臺東康樂國小稱霸全國 勇奪總統盃團體總錦標冠軍】",
+    "url": "https://www.facebook.com/TTeducation.gov/posts/1400057585494566/",
+    "source": "facebook",
+    "outlet": "Facebook（台東縣政府教育處）",
+    "date": "",
+    "summary": "康樂國小溜冰隊23位小將在全國總統盃滑輪溜冰錦標賽勇奪團體總錦標冠軍。",
+    "http_status": 400
+   },
+   {
+    "title": "台東康樂國小：康樂國小溜冰場改建啟用典禮",
+    "url": "https://www.facebook.com/52klps/posts/3158948717507972/",
+    "source": "facebook",
+    "outlet": "Facebook（台東康樂國小）",
+    "date": "",
+    "summary": "康樂國小粉絲專頁記錄溜冰場改建啟用典禮與溜冰隊開場演出。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋結果僅有其他縣市的競賽規程與賽事文件，未見康樂國小溜冰隊專屬內容，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3263,
@@ -197,9 +434,99 @@
     "date": "",
     "summary": "林宜學在臺灣花式滑輪公開賽Solo Dance成年男子組自由舞奪金的比賽影片。",
     "http_status": 200
+   },
+   {
+    "title": "臺北市花滑選手林宜學 努力遠比天賦重要",
+    "url": "https://sport112.tainan.gov.tw/Module/News/Detail.php?ID=330",
+    "source": "official",
+    "outlet": "sport112.tainan.gov.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "選擇與追尋— 專訪清大的體育特殊選才生",
+    "url": "https://nthulemonnews.com/de-ti-yu-te-shu-xuan-cai-sheng/",
+    "source": "official",
+    "outlet": "nthulemonnews.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "運動一瞬間",
+    "url": "https://www.ssu.org.tw/News/Detail/01b3db1a-dd4b-4816-bc85-b961a3a0e75a",
+    "source": "official",
+    "outlet": "ssu.org.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "溜冰在比什麼？",
+    "url": "https://youtube.com/shorts/7ytOsr2dpSI?si=plcyjbnRKNAmkGny",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "入選2024 World Skate Games國家代表隊報導",
+    "url": "https://www.facebook.com/100064388243802/posts/pfbid02aesTmjsmhZichB46XXDSvHoZ22LXajhQhagWBXt9g7KP5PW6QLkn4vUs1y9WGsk4l/?mibextid=cr9u03",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "2023亞洲盃滑輪溜冰錦標賽與112年全國運動會獲獎報導",
+    "url": "https://www.facebook.com/100064388243802/posts/pfbid0ukvBBEKJNHaYNGH1HTr79ue1ns5XatukQC6aD3aEHFR7yZH93KmzYhe3xvY1f7v3l/?mibextid=cr9u03",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "花式溜冰與World Skate Games賽事介紹",
+    "url": "https://www.instagram.com/reel/C_IeSGxOvl0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "臺灣國際花式滑輪溜冰公開賽 林宜學生涯首度挑戰冰舞",
+    "url": "https://www.ltsports.com.tw/article/176488",
+    "source": "official",
+    "outlet": "ltsports.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "花滑男子組臺北市林宜學奪金，女子組臺北市金包銀",
+    "url": "https://sport114.yunlin.gov.tw/Module/News/Detail.php?ID=894",
+    "source": "official",
+    "outlet": "sport114.yunlin.gov.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "與悲慘世界共舞 林宜學希望突破自我",
+    "url": "https://sport114.yunlin.gov.tw/Module/News/Detail.php?ID=893",
+    "source": "official",
+    "outlet": "sport114.yunlin.gov.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": ""
+  "notes": " ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3213,
@@ -213,9 +540,108 @@
     "date": "2026-04-20",
     "summary": "報導「琍琍姊妹」在2026臺灣國際花式滑輪溜冰公開賽的表現，姊姊黃海琍青年女子組第4並取得世錦賽國手選拔資格。",
     "http_status": 200
+   },
+   {
+    "title": "[中時新聞網]台灣國際花式溜冰公開賽 學霸姊妹花再創佳績",
+    "url": "https://www.chinatimes.com/realtimenews/20260420002794-260403?chdtv",
+    "source": "official",
+    "outlet": "chinatimes.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "[自由時報]滑輪溜冰/琍琍姊妹花亞洲盃勇奪金銀銅 北一女黃海琍文武全能",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5124990",
+    "source": "official",
+    "outlet": "sports.ltn.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "[運動少年]EP2 不放棄 才是勝利方程式-學霸運動員系列三 | 沒有人天生就擁有兩種天賦",
+    "url": "https://youtu.be/rLJke_33nSY?si=lvABEoVWZRINOsK6",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "[運動少年]EP3 在普通中成就不平凡-學霸運動員系列三 | 沒有人天生就擁有兩種天賦",
+    "url": "https://youtu.be/84rxY4KbZdk?si=DWkeDG10oSKbc-EI",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "[運動少年]預告-智勇雙全的花式滑輪溜冰選手、學霸運動員-琍琍姊妹 7月4日起上映",
+    "url": "https://youtu.be/zbiCZ5XAsTA?si=QUKNz_D2_QkDngQJ",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "EP1 溜出夢想的軌跡 陷入花式溜冰的魅力 | 運動少年",
+    "url": "https://youtu.be/HPl717Mmnu8?si=1GwDtmFPzODsoqsN",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "EP2 學業運動一把罩 學霸運動員的平衡之道 | 運動少年",
+    "url": "https://youtu.be/qAgfG-Wmbq0?si=hDDLRsPKuWdt2YJF",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "EP3 姊妹共舞 砥礪前行 堅持與成長的主旋律 | 運動少年",
+    "url": "https://youtu.be/3xGka-MtqFE?si=GK7HmI9AEo1Fuy-1",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "EP4 花式溜冰最終曲-未來之路 尊重與自由 忠於自我的抉擇 | 運動少年",
+    "url": "https://youtu.be/iQDlycLfDGk?si=V1XuEgw-75yNzMi2",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "[運動島人]花式滑輪溜冰學生運動員：黃海琍與黃敏琍兩姐妹",
+    "url": "https://sport-islander.com/artistic-roller-skating/",
+    "source": "official",
+    "outlet": "sport-islander.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "[新頭條]影音∕《愛玩耍》花式滑輪姊妹雙嬌　一起滑出耀眼成績",
+    "url": "https://www.thehubnews.net/archives/238071",
+    "source": "official",
+    "outlet": "thehubnews.net（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "另有一則 udn 8903844（琍琍姊妹花亞洲盃奪牌）在搜尋結果中出現，但開啟時回傳 404，故不收錄。"
+  "notes": "另有一則 udn 8903844（琍琍姊妹花亞洲盃奪牌）在搜尋結果中出現，但開啟時回傳 404，故不收錄。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3214,
@@ -229,9 +655,81 @@
     "date": "2026-04-20",
     "summary": "報導「琍琍姊妹」在2026臺灣國際花式滑輪溜冰公開賽的表現，妹妹黃敏琍在少女組獲得第2名。",
     "http_status": 200
+   },
+   {
+    "title": "[中時新聞網]台灣國際花式溜冰公開賽 學霸姊妹花再創佳績",
+    "url": "https://www.chinatimes.com/realtimenews/20260420002794-260403?chdtv",
+    "source": "official",
+    "outlet": "chinatimes.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "[自由時報]滑輪溜冰/琍琍姊妹花亞洲盃勇奪金銀銅",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5124990",
+    "source": "official",
+    "outlet": "sports.ltn.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "運動少年預告-智勇雙全的花式滑輪溜冰選手、學霸運動員-琍琍姊妹 7月4日起上映",
+    "url": "https://youtu.be/zbiCZ5XAsTA?si=1OU9E9lCt2kUsZ-8",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "EP1 溜出夢想的軌跡 陷入花式溜冰的魅力 | 運動少年",
+    "url": "https://youtu.be/HPl717Mmnu8?si=eYi-K-MBCt7az-br",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "EP2 學業運動一把罩 學霸運動員的平衡之道 | 運動少年",
+    "url": "https://youtu.be/qAgfG-Wmbq0?si=fbWYkbsDeF82sIjy",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "EP3 姊妹共舞 砥礪前行 堅持與成長的主旋律 | 運動少年",
+    "url": "https://youtu.be/3xGka-MtqFE?si=MoLYYLJNL_NiQ4BR",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "EP4 花式溜冰最終曲-未來之路 尊重與自由 忠於自我的抉擇 | 運動少年",
+    "url": "https://youtu.be/iQDlycLfDGk?si=Q_fAvraClz8DvV1-",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "[運動島人]花式滑輪溜冰學生運動員：黃海琍與黃敏琍兩姐妹",
+    "url": "https://sport-islander.com/artistic-roller-skating/",
+    "source": "official",
+    "outlet": "sport-islander.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "另有一則 udn 8903844（琍琍姊妹花亞洲盃奪牌）在搜尋結果中出現，但開啟時回傳 404，故不收錄。"
+  "notes": "另有一則 udn 8903844（琍琍姊妹花亞洲盃奪牌）在搜尋結果中出現，但開啟時回傳 404，故不收錄。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3550,
@@ -263,15 +761,88 @@
     "date": "2026-04-17",
     "summary": "2026臺灣國際花式滑輪溜冰公開賽賽事報導，內文提到吳若瑄為近年國際賽成績亮眼的好手。",
     "http_status": 200
+   },
+   {
+    "title": "Facebook",
+    "url": "https://www.facebook.com/share/1BoLmyEgJM/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "Instagram",
+    "url": "https://www.instagram.com/ellaguinevere",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "天下雜誌連結無法直接開啟（403），標題取自搜尋結果內容，日期未能確認。"
+  "notes": "天下雜誌連結無法直接開啟（403），標題取自搜尋結果內容，日期未能確認。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3500,
   "name": "涂舒婷",
-  "links": [],
-  "notes": "多次搜尋未見與該選手相符的報導，故不收錄。"
+  "links": [
+   {
+    "title": "滑輪溜冰場上的汗水時刻-訓練紀錄",
+    "url": "https://youtube.com/shorts/bGHFAvpKaGg?feature=share",
+    "source": "official",
+    "outlet": "YouTube（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "苗栗之光表揚大會 優秀運動員張宣霈、涂舒婷、鍾侑庭入選國家代表隊",
+    "url": "https://www.epochtimes.com/b5/24/5/27/n14258379.htm",
+    "source": "news",
+    "outlet": "大紀元",
+    "date": "2024-05-27",
+    "summary": "苗栗縣滑輪溜冰選手涂舒婷等三人入選國家代表隊，將赴義大利參加世界盃。",
+    "http_status": 200
+   },
+   {
+    "title": "滑輪溜冰教練選手入選國家代表隊 苗栗表揚",
+    "url": "https://taiwanreports.com/archives/830253",
+    "source": "news",
+    "outlet": "臺灣導報",
+    "date": "2024-05-27",
+    "summary": "苗栗高中涂舒婷與鍾侑庭、興華高中張宣霈入選滑輪溜冰國家代表隊，縣府表揚。",
+    "http_status": 200
+   },
+   {
+    "title": "苗栗表揚滑輪溜冰國手",
+    "url": "https://www.cdns.com.tw/articles/1019204",
+    "source": "news",
+    "outlet": "中華日報",
+    "date": "2024-05-27",
+    "summary": "苗栗縣表揚入選國家代表隊的三位滑輪溜冰選手，涂舒婷為苗栗高中學生。",
+    "http_status": 200
+   },
+   {
+    "title": "苗栗縣體育會-滑輪溜冰委員會：滑輪溜冰自由式速度過樁 即將登上世界舞台 涂舒婷披上中華台北戰衣挑戰世錦賽",
+    "url": "https://www.facebook.com/61556482324791/posts/122267818280216077/",
+    "source": "facebook",
+    "outlet": "Facebook（苗栗縣體育會滑輪溜冰委員會）",
+    "date": "2025-11-29",
+    "summary": "苗栗子弟兵涂舒婷代表中華台北出戰2025世界輪滑溜冰錦標賽自由式速度過樁項目。",
+    "http_status": 400
+   },
+   {
+    "title": "中華民國滑輪溜冰協會-自由式專門委員會：2025 新加坡 世界輪滑溜冰錦標賽(自由式) 中華台北所有選手成績",
+    "url": "https://www.facebook.com/ctrsfslalom/posts/1389110093006890/",
+    "source": "facebook",
+    "outlet": "Facebook（中華民國滑輪溜冰協會自由式專門委員會）",
+    "date": "2025-12-04",
+    "summary": "2025新加坡世界輪滑溜冰錦標賽自由式速度過樁成年女子組，涂舒婷獲第12名。",
+    "http_status": 400
+   }
+  ],
+  "notes": "多次搜尋未見與該選手相符的報導，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3637,
@@ -292,14 +863,115 @@
  {
   "id": 3689,
   "name": "林家慶",
-  "links": [],
-  "notes": "搜尋未見與滑輪溜冰相符的林家慶報導，故不收錄。"
+  "links": [
+   {
+    "title": "金牌獻亡父",
+    "url": "https://news.ltn.com.tw/news/local/paper/1202491",
+    "source": "official",
+    "outlet": "news.ltn.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "J.C. Lin 林家慶（@lin_101892）Instagram",
+    "url": "https://www.instagram.com/lin_101892/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "競速滑輪溜冰選手林家慶的Instagram帳號。",
+    "http_status": 200
+   },
+   {
+    "title": "林家慶 Instagram：【入選 2026 競速滑輪國家代表隊】",
+    "url": "https://www.instagram.com/p/DdlTNUsEecH/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "2026-09-22",
+    "summary": "林家慶宣布入選2026競速滑輪國家代表隊，10月將赴巴拉圭參加世界錦標賽。",
+    "http_status": 200
+   },
+   {
+    "title": "林家慶 Instagram：115年全民有氧盃全國溜冰錦標賽",
+    "url": "https://www.instagram.com/p/DdOHgi1mt1Q/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "2026-09-13",
+    "summary": "林家慶分享在桃園舉辦的115年全民有氧盃全國溜冰錦標賽參賽心得。",
+    "http_status": 200
+   },
+   {
+    "title": "高雄市旗山區嶺口國小：恭喜嶺口國小直排輪社團林家慶教練榮獲2024全民運動會滑輪溜冰男子組10000公尺計點淘汰賽第一名",
+    "url": "https://www.facebook.com/lkp30842/posts/1068502555069573/",
+    "source": "facebook",
+    "outlet": "Facebook（嶺口國小）",
+    "date": "",
+    "summary": "嶺口國小貼文恭賀直排輪社團教練林家慶在2024全民運動會滑輪溜冰10000公尺計點淘汰賽蟬聯第一。",
+    "http_status": 400
+   },
+   {
+    "title": "天狼運動聯盟：恭喜林家慶為桃園拿下一面銅牌",
+    "url": "https://www.facebook.com/SiriusInlineSkates/posts/362225186139251/",
+    "source": "facebook",
+    "outlet": "Facebook（天狼運動聯盟）",
+    "date": "",
+    "summary": "直排輪團體貼文恭賀林家慶為桃園奪得獎牌。",
+    "http_status": 400
+   },
+   {
+    "title": "榮耀獻給亡父 他拚戰滑輪奪金獲總統教育獎",
+    "url": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/2433141",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2018-05-21",
+    "summary": "中壢國中林家慶出身原住民單親家庭，將滑輪金牌與總統教育獎獻給病逝的父親。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋未見與滑輪溜冰相符的林家慶報導，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3498,
   "name": "莊凱勝",
-  "links": [],
-  "notes": "搜尋未見與帆船相符的莊凱勝報導，故不收錄。"
+  "links": [
+   {
+    "title": "《帆船》17歲莊凱勝獨自遠赴澳洲移訓 目標2032布里斯本奧運",
+    "url": "https://wowsight.tw/2026/01/13/%E3%80%8A%E5%B8%86%E8%88%B9%E3%80%8B17%E6%AD%B2%E8%8E%8A%E5%87%B1%E5%8B%9D%E7%8D%A8%E8%87%AA%E9%81%A0%E8%B5%B4%E6%BE%B3%E6%B4%B2%E7%A7%BB%E8%A8%93-%E7%9B%AE%E6%A8%992032%E5%B8%83%E9%87%8C%E6%96%AF/",
+    "source": "official",
+    "outlet": "wowsight.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "《帆船》17歲莊凱勝獨自遠赴澳洲移訓 目標2032布里斯本奧運",
+    "url": "https://tw.sports.yahoo.com/news/%E5%B8%86%E8%88%B9-17%E6%AD%B2%E8%8E%8A%E5%87%B1%E5%8B%9D%E7%8D%A8%E8%87%AA%E9%81%A0%E8%B5%B4%E6%BE%B3%E6%B4%B2%E7%A7%BB%E8%A8%93-%E7%9B%AE%E6%A8%992032%E5%B8%83%E9%87%8C%E6%96%AF%E6%9C%AC%E5%A5%A7%E9%81%8B-072222942.html",
+    "source": "news",
+    "outlet": "WOWSight（Yahoo奇摩運動）",
+    "date": "2026-01-13",
+    "summary": "17歲莊凱勝獨自赴澳洲移訓，在ILCA大洋洲暨澳洲公開賽ILCA6級別74人中排名第19、U19組第7。",
+    "http_status": 200
+   },
+   {
+    "title": "wowsightsport Instagram：《帆船》17歲莊凱勝獨自遠赴澳洲移訓 目標2032布里斯本奧運",
+    "url": "https://www.instagram.com/p/DTclzyRDwQo/",
+    "source": "instagram",
+    "outlet": "Instagram（WOWSight）",
+    "date": "2026-01-13",
+    "summary": "WOWSight的Instagram貼文，記錄莊凱勝在澳洲塔斯馬尼亞帆船賽的成績。",
+    "http_status": 200
+   },
+   {
+    "title": "YUSA 宜蘭帆船學校：看到這篇報導，內心充滿感謝，也帶著深深的感動",
+    "url": "https://www.facebook.com/YilanYouthSailingAcademy/posts/1326423699527761/",
+    "source": "facebook",
+    "outlet": "Facebook（YUSA宜蘭帆船學校）",
+    "date": "",
+    "summary": "宜蘭帆船學校分享17歲學員獨自赴海外訓練的報導，肯定其成長歷程。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋未見與帆船相符的莊凱勝報導，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3503,
@@ -322,15 +994,160 @@
     "date": "2025-02-24",
     "summary": "報導台灣男團亞青賽奪金連霸，來自台北市立中正高中的陳秉濬為隊伍主將。",
     "http_status": 200
+   },
+   {
+    "title": "113全國中等學校運動會國中組男子銳劍個人及團體雙冠",
+    "url": "https://113sport.tp.edu.tw/Module/News/Detail.php?ID=84",
+    "source": "official",
+    "outlet": "113sport.tp.edu.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "全中運》被擊劍帥到換跑道 陳秉濬收割金牌",
+    "url": "https://sports.ltn.com.tw/news/paper/1702643",
+    "source": "official",
+    "outlet": "sports.ltn.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "全中運擊劍》明日之星16歲陳秉濬 升高中就奪個人銳劍金牌",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5017184",
+    "source": "official",
+    "outlet": "sports.ltn.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "擊劍》台灣隊亞青團體賽拿銅牌 4強大逆轉南韓後惜敗中國",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/4965693",
+    "source": "official",
+    "outlet": "sports.ltn.com.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "亞洲青少年擊劍巡迴賽　台灣首日男子銳劍金牌開張",
+    "url": "https://www.taisounds.com/news/content/124/141075",
+    "source": "official",
+    "outlet": "taisounds.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "亞青擊劍賽》台灣青年隊史首金入袋 協會深耕基層劍指名古屋亞運",
+    "url": "https://www.chinatimes.com/realtimenews/20260302003547-260403?from=sports&utm_source=facebook&utm_medium=social&utm_campaign=postrss&fbclid=IwZnRzaAQzEVxleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeJq7xH6ablByGWHc88SS64oyp3fjXJwDetbxQW1Cs90d4m8TZphkbLKzx-Oo_aem_dH-VJDmFgKTkhoVHeg_fgQ",
+    "source": "official",
+    "outlet": "chinatimes.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "#陳秉濬 #亞洲青年擊劍錦標賽 男子銳劍銅牌！",
+    "url": "https://www.facebook.com/share/1QCLm4CsRw/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "擊劍亞青賽》北市中正高中勇奪1金1銀 締造隊史新頁",
+    "url": "https://www.chinatimes.com/realtimenews/20260227002963-260403?from=sports&utm_source=facebook&utm_medium=social&utm_campaign=postrss&fbclid=IwZnRzaAQzEQdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEekqzYwu9UjgB09DqDZ26hcbav4BbvBuxGeC7jLn5JEQaXU1J60h55uX2rUZQ_aem_whVl7DYJ1L1WCAB1qXQpAQ",
+    "source": "official",
+    "outlet": "chinatimes.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "臺北市中正高中擊劍好手陳秉濬，上周青年銳劍世界盃-巴林站摘下一面銀牌",
+    "url": "https://www.facebook.com/share/p/1BzMeGNx4t/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "臺北市立中正高中陳秉濬，延續青年世界銳劍錦標賽-香港站奪銅的好手感",
+    "url": "https://www.facebook.com/share/p/1dR4HnT1VY/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "台灣擊劍好手陳秉濬前進2025年銳劍青年世界盃-香港站勇奪銅牌",
+    "url": "https://www.facebook.com/share/p/1LGX5UK716/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
    }
   ],
-  "notes": ""
+  "notes": " ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3671,
   "name": "楊謹蔓",
-  "links": [],
-  "notes": "搜尋未見與擊劍相符的楊謹蔓報導，故不收錄。"
+  "links": [
+   {
+    "title": "Blues and Colours Award Winners 2023",
+    "url": "https://uoesport.ed.ac.uk/news/blues-and-colours-award-winners-2023",
+    "source": "official",
+    "outlet": "uoesport.ed.ac.uk（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "【專訪】鈍劍金牌女將 楊謹蔓：攻讀心理系 幫助同為運動員戰勝自己",
+    "url": "https://sport110ntpc.com/newsdt-84",
+    "source": "official",
+    "outlet": "sport110ntpc.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "亞運擊劍／看書排解壓力 楊謹蔓用心理學突破對手",
+    "url": "https://sports.ettoday.net/news/1239424#ixzz8IS67MIgP",
+    "source": "official",
+    "outlet": "sports.ettoday.net（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "【專訪】鈍劍金牌女將 楊謹蔓：攻讀心理系 幫助同為運動員戰勝自己",
+    "url": "https://running.biji.co/index.php?q=news&act=info&id=105600",
+    "source": "news",
+    "outlet": "跑步筆記",
+    "date": "2021-05-13",
+    "summary": "專訪鈍劍國家隊女將楊謹蔓，談比賽壓力、2019法國世界盃經驗與攻讀心理系的志向。",
+    "http_status": 200
+   },
+   {
+    "title": "中華民國擊劍協會 會員列表：楊謹蔓（選手）",
+    "url": "https://www.fencing.org.tw/member_class_page.php?theLevel=1&infoID=76556",
+    "source": "other",
+    "outlet": "中華民國擊劍協會",
+    "date": "",
+    "summary": "擊劍協會官網的楊謹蔓選手會員頁。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋未見與擊劍相符的楊謹蔓報導，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3295,
@@ -353,21 +1170,140 @@
     "date": "",
     "summary": "Dcard轉載中央社報導，洪莉翔在2026亞青賽女子銳劍再奪銅牌，連續兩年登上頒獎台。",
     "http_status": 403
+   },
+   {
+    "title": "台灣史上首面！洪莉翔奪世青少擊劍錦標賽女子銳劍銅牌",
+    "url": "https://sports.ettoday.net/news/2478667",
+    "source": "official",
+    "outlet": "sports.ettoday.net（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "香港公開賽報導",
+    "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/1078996/%E9%A6%99%E6%B8%AF%E5%8A%8D%E6%93%8A%E5%85%AC%E9%96%8B%E8%B3%BD-%E5%8F%B0%E5%8A%8D%E6%89%8B%E6%AC%A1%E6%97%A5%E5%A5%AA%E5%85%A9%E5%86%A0-%E5%89%8D%E4%B8%96%E5%B0%91%E9%8A%85%E7%89%8C%E6%B1%BA%E8%B3%BD%E6%8C%AB%E6%9C%B1%E5%98%89%E6%9C%9B",
+    "source": "official",
+    "outlet": "hk01.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "國內第一「擊劍女將」洪莉翔 奪世中運冠軍",
+    "url": "https://today.line.me/tw/v3/article/BEWgQnz",
+    "source": "official",
+    "outlet": "today.line.me（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "洪莉翔勇奪2023世界青少年擊劍錦標賽銅牌臺灣第一人",
+    "url": "https://tbotaiwan.com/pride-of-taiwan-hung-li-hsiang-2023-plovdiv-junior-and-cadet-fencing-world-championships/",
+    "source": "official",
+    "outlet": "tbotaiwan.com（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "臺北市16歲小將洪莉翔驚豔全場奪全運會生涯首金",
+    "url": "https://sport112.tainan.gov.tw/Module/News/Detail.php?ID=534",
+    "source": "official",
+    "outlet": "sport112.tainan.gov.tw（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "Dcard 頁面無法直接開啟（403），標題與內容取自搜尋結果；日期未能確認。"
+  "notes": "Dcard 頁面無法直接開啟（403），標題與內容取自搜尋結果；日期未能確認。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3435,
   "name": "丁儒嫙",
-  "links": [],
-  "notes": "搜尋未見與擊劍相符的丁儒嫙報導，故不收錄。"
+  "links": [
+   {
+    "title": "中華民國擊劍協會公告亞洲青年暨青少年擊劍錦標賽 中華女子鈍劍代表隊榮獲青年女子鈍劍團體賽銀牌",
+    "url": "https://www.facebook.com/share/p/1BCreRnxwT/?mibextid=wwXIfr",
+    "source": "official",
+    "outlet": "Facebook（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 400
+   },
+   {
+    "title": "丁儒嫙（@ting.ju.hsuan）Instagram",
+    "url": "https://www.instagram.com/ting.ju.hsuan/",
+    "source": "instagram",
+    "outlet": "Instagram",
+    "date": "",
+    "summary": "擊劍選手丁儒嫙的Instagram帳號。",
+    "http_status": 200
+   },
+   {
+    "title": "starry__agency Instagram：【Match Results】丁儒嫙 115年全國大專校院運動會 公開女子鈍劍 個人金牌",
+    "url": "https://www.instagram.com/p/DX2-XaoDxJm/",
+    "source": "instagram",
+    "outlet": "Instagram（繁星擊劍學院）",
+    "date": "2026-05-02",
+    "summary": "丁儒嫙在115年全大運公開女子鈍劍個人賽奪金，完成二連霸。",
+    "http_status": 200
+   },
+   {
+    "title": "擊劍擊時通 Facebook 影片：個人女鈍｜台北市 丁儒嫙 反敗為勝獲得冠軍 #114全運會在雲林",
+    "url": "https://www.facebook.com/Fencing2022/videos/808585098431407/",
+    "source": "facebook",
+    "outlet": "Facebook（擊劍擊時通）",
+    "date": "",
+    "summary": "114年全運會女子鈍劍個人賽，台北市丁儒嫙在分數被反超後逆轉奪冠。",
+    "http_status": 200
+   },
+   {
+    "title": "【114年雲林全國運動會】恭喜丁儒嫙奪金 #擊劍",
+    "url": "https://www.youtube.com/watch?v=3t8n59hbRFk",
+    "source": "youtube",
+    "outlet": "YouTube（運動部）",
+    "date": "2025-10-18",
+    "summary": "運動部頻道影片，恭賀丁儒嫙在114年雲林全國運動會擊劍項目奪金。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋未見與擊劍相符的丁儒嫙報導，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3436,
   "name": "郭章傑",
-  "links": [],
-  "notes": "搜尋未見與擊劍相符的郭章傑報導（僅出現名字相近的他人），故不收錄。"
+  "links": [
+   {
+    "title": "中華民國擊劍協會 會員列表：郭章傑（選手）",
+    "url": "https://www.fencing.org.tw/member_class_page.php?theLevel=1&infoID=74137",
+    "source": "other",
+    "outlet": "中華民國擊劍協會",
+    "date": "",
+    "summary": "擊劍協會官網的郭章傑選手會員頁。",
+    "http_status": 200
+   },
+   {
+    "title": "運動播客嘶 Facebook 影片：☆選手心路站 專訪報你知☆ 郭章傑選手",
+    "url": "https://www.facebook.com/SportsBroadcastTW/videos/749274360348329/",
+    "source": "facebook",
+    "outlet": "Facebook（運動播客嘶）",
+    "date": "2024-04-23",
+    "summary": "113年全中運擊劍轉播團隊專訪郭章傑，分享結合藝術與擊劍的心路歷程。",
+    "http_status": 200
+   },
+   {
+    "title": "學學實驗教育機構高二郭章傑於全國中等學校運動會，勇奪擊劍（高男鈍劍組）「金牌」！",
+    "url": "https://www.peopo.org/news/632015",
+    "source": "news",
+    "outlet": "PeoPo公民新聞",
+    "date": "2023-04-25",
+    "summary": "學學實驗教育機構高二生郭章傑在112年全中運高男鈍劍奪金。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋未見與擊劍相符的郭章傑報導（僅出現名字相近的他人），故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3677,
@@ -406,20 +1342,130 @@
     "date": "",
     "summary": "國立體育大學武術隊的Facebook官方粉絲專頁，提供表演洽詢與隊伍動態。",
     "http_status": 400
+   },
+   {
+    "title": "如何找到我們",
+    "url": "https://www.instagram.com/ntsu.wushuteam?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "專項體能訓練日",
+    "url": "https://www.instagram.com/reel/DE9CxumTKgB/?igsh=cmVyeXprcWJyZ3Jt",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
    }
   ],
-  "notes": "搜尋結果中的武術隊新聞多為南華大學，已排除。"
+  "notes": "搜尋結果中的武術隊新聞多為南華大學，已排除。 ｜第二輪（2026-10-12）補入申請者自填連結（official）。"
  },
  {
   "id": 3417,
   "name": "莊淨涵",
-  "links": [],
-  "notes": "搜尋未見與體操相符的莊淨涵報導，故不收錄。"
+  "links": [
+   {
+    "title": "2019有氧體操全國錦標賽高雄市中正國中-莊淨涵",
+    "url": "https://www.youtube.com/watch?v=atLolzZByFc",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "",
+    "summary": "2019年有氧體操全國錦標賽莊淨涵（高雄市中正國中）比賽影片。",
+    "http_status": 200
+   },
+   {
+    "title": "2020全國有氧體操錦標賽高雄市中正國中-莊淨涵",
+    "url": "https://www.youtube.com/watch?v=-DjfEQP5hHo",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "2020-12-12",
+    "summary": "2020年全國有氧體操錦標賽莊淨涵比賽影片。",
+    "http_status": 200
+   },
+   {
+    "title": "高雄市有氧體操選手莊淨涵入選2023第十一屆坎坦涅迪國際公開賽暨第八屆世界盃有氧體操錦標賽",
+    "url": "https://n.yam.com/Article/20230225265995",
+    "source": "news",
+    "outlet": "蕃新聞",
+    "date": "2023-02-25",
+    "summary": "莊淨涵入選12至14歲組女子單人台灣代表隊，將赴葡萄牙參賽，團隊募款支應出國費用。",
+    "http_status": 200
+   },
+   {
+    "title": "臺南市體育總會體操委員會：《114年臺南市市長盃有氧體操錦標賽暨邀請賽》高中社會組成績 莊淨涵女單第一名",
+    "url": "https://www.facebook.com/tainangymnastics/posts/1268473568398306/",
+    "source": "facebook",
+    "outlet": "Facebook（臺南市體育總會體操委員會）",
+    "date": "",
+    "summary": "114年臺南市市長盃有氧體操錦標賽高中社會組，莊淨涵獲女單第一名並與程柏諺奪混雙第一。",
+    "http_status": 400
+   },
+   {
+    "title": "高雄市有氧體操：恭喜本隊莊淨涵入選2023第十一屆坎坦涅迪國際公開賽代表隊選手",
+    "url": "https://www.facebook.com/kaohsiung.aerobic.gymnastic/posts/641798907952984/",
+    "source": "facebook",
+    "outlet": "Facebook（高雄市有氧體操）",
+    "date": "",
+    "summary": "高雄市有氧體操隊貼文恭賀莊淨涵入選2023坎坦涅迪國際公開賽代表隊。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋未見與體操相符的莊淨涵報導，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  },
  {
   "id": 3703,
   "name": "周登朋",
-  "links": [],
-  "notes": "搜尋未見與體操相符的周登朋報導，故不收錄。"
+  "links": [
+   {
+    "title": "周登朋-2024年匈牙利世界盃挑戰賽-跳馬項目-第7名",
+    "url": "https://www.instagram.com/reel/DBK7wxqTxd_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "source": "official",
+    "outlet": "Instagram（申請者自填）",
+    "date": "",
+    "summary": "申請者於體育署捐贈媒合平臺自填的相關連結。",
+    "http_status": 200
+   },
+   {
+    "title": "104年周登朋體操全能金牌",
+    "url": "https://www.youtube.com/watch?v=vmJY82mivmA",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "",
+    "summary": "周登朋104年（2015年）競技體操個人全能金牌比賽影片。",
+    "http_status": 200
+   },
+   {
+    "title": "宜蘭大躍進 全中運奪8金6銀10銅",
+    "url": "https://news.ltn.com.tw/news/local/paper/984758",
+    "source": "news",
+    "outlet": "自由時報",
+    "date": "2016-04-30",
+    "summary": "105年全中運宜蘭縣成績報導，周登朋奪國男競技體操個人全能與跳馬雙金。",
+    "http_status": 200
+   },
+   {
+    "title": "【2021新北全國運動會】競技體操 單項決賽 雙槓 個人爭霸戰｜洪源禧｜李智凱｜唐嘉鴻｜周登朋",
+    "url": "https://www.youtube.com/watch?v=gH5C-RBhaQQ",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "",
+    "summary": "2021年新北全國運動會競技體操雙槓個人決賽影片，周登朋與李智凱、唐嘉鴻同場競技。",
+    "http_status": 200
+   },
+   {
+    "title": "NTNU Gymnastics：111全國大專院校運動會 公開單項決賽成績報告",
+    "url": "https://www.facebook.com/ntnugymnasticsteam/posts/1620657841636210/",
+    "source": "facebook",
+    "outlet": "Facebook（臺師大體操隊）",
+    "date": "",
+    "summary": "111年全大運體操單項決賽成績，周登朋獲一般男子組跳馬第四、雙槓第五、地板第六。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋未見與體操相符的周登朋報導，故不收錄。 ｜第二輪（2026-10-12）以Bing搜尋補充並逐一開啟確認。"
  }
 ]
