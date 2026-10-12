@@ -1,0 +1,354 @@
+[
+ {
+  "id": 3419,
+  "name": "中信金融管理學院跆拳道隊對打",
+  "links": [
+   {
+    "title": "中金院運動代表隊年度大豐收 聯賽冠軍與金牌數寫下校史新紀錄",
+    "url": "https://www.cna.com.tw/postwrite/chi/378678",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2024-08-13",
+    "summary": "中金院2023-24學年各運動代表隊成績報導，跆拳道隊在全大運奪2金2銀2銅並拿下對打團體一般男生組冠軍。",
+    "http_status": 200
+   }
+  ],
+  "notes": "僅此一則能明確對應該校跆拳道對打隊；其餘中金院報導多為籃球隊，或僅在助學金、職涯報導中順帶提及跆拳道，故未收錄。另有全大運品勢報導（聯合報 2026-04-26，蔡和軒），屬品勢而非對打，未收錄。未取得該隊Facebook/Instagram連結。"
+ },
+ {
+  "id": 3433,
+  "name": "姚宥米",
+  "links": [
+   {
+    "title": "樂觀勇闖國際賽奪金 腦麻生姚宥米再獲總統教育獎",
+    "url": "https://www.cna.com.tw/news/ahel/202306020292.aspx",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2023-06-02",
+    "summary": "報導苗栗腦性麻痺學生姚宥米在丹麥國際腦麻競速車賽奪三金並再度獲總統教育獎。",
+    "http_status": 200
+   },
+   {
+    "title": "競速甜心-姚宥米 YuMi Yao",
+    "url": "https://www.facebook.com/yumigo598/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "姚宥米個人粉絲專頁，自介為帕拉田徑、腦麻競速車T71級運動員。",
+    "http_status": 400
+   },
+   {
+    "title": "2024-12-31《POP最正點》林書煒 專訪 競速甜心 姚宥米 & 宥米爸爸 / 腦麻競速車 國際教練 姚宗元",
+    "url": "https://www.youtube.com/watch?v=xg3uqbOXHUo",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "2024-12-31",
+    "summary": "電台專訪姚宥米與父親（腦麻競速車國際教練姚宗元），談她以競速車跑向世界的歷程。",
+    "http_status": 200
+   },
+   {
+    "title": "我不能走卻跑出“金牌路”｜競速甜心-姚宥米｜【台灣真善美】2025.06.01",
+    "url": "https://www.youtube.com/watch?v=GMANxtzQoMA",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "2025-06-01",
+    "summary": "《台灣真善美》節目介紹競速甜心姚宥米從不能走路到跑出金牌的故事。",
+    "http_status": 200
+   }
+  ],
+  "notes": "搜尋結果另有苗栗縣府表揚其奪2025亞洲帕拉青年運動會T71女子100公尺金牌之報導，但僅取得中時搜尋列表頁（非單篇網址），未收錄；Instagram搜尋結果（@yaomi_fairy）無法確認為本人，未收錄。"
+ },
+ {
+  "id": 3366,
+  "name": "追風少年-國風田徑隊",
+  "links": [],
+  "notes": "搜尋僅得同名影集/歌曲/無關粉專，無法對應該田徑隊，不收錄任何連結。"
+ },
+ {
+  "id": 3395,
+  "name": "花蓮縣私立海星中學田徑隊",
+  "links": [],
+  "notes": "搜尋結果僅有海星中學的參訪、選拔賽協辦或卡巴迪相關資訊，無田徑隊專屬報導，不收錄。"
+ },
+ {
+  "id": 3399,
+  "name": "國立北門高中田徑隊",
+  "links": [],
+  "notes": "搜尋摘要提及該校田徑隊長李亮頤繁星錄取師大的報導，但未取得該篇的確切網址，其餘結果皆為他校，不收錄。"
+ },
+ {
+  "id": 3452,
+  "name": "洪琇玟",
+  "links": [],
+  "notes": "同名資料不足，搜尋結果皆為不相關選手，不收錄。"
+ },
+ {
+  "id": 3558,
+  "name": "新北市立佳林國中田徑隊",
+  "links": [],
+  "notes": "搜尋僅有佳林國中借用棒球場的公告，無田徑隊報導，不收錄。"
+ },
+ {
+  "id": 3565,
+  "name": "跨越海洋的奔跑夢想：蘭嶼鄉朗島國小田徑隊",
+  "links": [],
+  "notes": "僅找到朗島國小重建/紀錄片等一般報導，無田徑隊專屬內容，不收錄。"
+ },
+ {
+  "id": 3684,
+  "name": "彭名揚",
+  "links": [
+   {
+    "title": "好快！彭名揚400公尺跨欄飆出台灣史上第三快",
+    "url": "https://news.tvbs.com.tw/sports/2198717",
+    "source": "news",
+    "outlet": "TVBS新聞網",
+    "date": "2023-08-04",
+    "summary": "成都世大運400公尺跨欄準決賽，彭名揚跑出48秒97，為台灣史上第三快。",
+    "http_status": 200
+   },
+   {
+    "title": "世大運／彭名揚男子400跨欄摘金破全國 吳諺明200公尺排名第6",
+    "url": "https://news.pts.org.tw/article/649871",
+    "source": "news",
+    "outlet": "公視新聞網",
+    "date": "2023-08-05",
+    "summary": "彭名揚在成都世大運以48秒62奪男子400公尺跨欄金牌並刷新全國紀錄，取得巴黎奧運資格。",
+    "http_status": 200
+   },
+   {
+    "title": "彭名揚首登奧運400公尺跨欄 髕骨傷勢影響遺憾選擇退賽",
+    "url": "https://news.pts.org.tw/article/708429",
+    "source": "news",
+    "outlet": "公視新聞網",
+    "date": "2024-08-05",
+    "summary": "彭名揚首度參加巴黎奧運400公尺跨欄，因髕骨傷勢在第一個欄架前退賽。",
+    "http_status": 200
+   },
+   {
+    "title": "田徑／大雨攪亂達標亞運目標 彭名揚香港拚搭末班車",
+    "url": "https://udn.com/news/story/7005/9551413",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-06-07",
+    "summary": "新北國際田徑公開賽彭名揚跑49秒83未達名古屋亞運標準，將轉戰香港賽事再拚達標。",
+    "http_status": 200
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": 3437,
+  "name": "董宜安",
+  "links": [],
+  "notes": "搜尋無任何對應此選手的結果，不收錄。"
+ },
+ {
+  "id": 3683,
+  "name": "陳姿云",
+  "links": [],
+  "notes": "搜尋結果對應的是空手道選手『文姿云』（東京奧運銅牌），姓氏不同，無法確認為同一人，不收錄。"
+ },
+ {
+  "id": 3323,
+  "name": "白馭珀",
+  "links": [
+   {
+    "title": "羽球／中華女團擊敗大溪地鎖定8強 後天和韓國爭分組1",
+    "url": "https://www.nownews.com/news/5407242",
+    "source": "news",
+    "outlet": "NOWnews今日新聞",
+    "date": "2021-10-11",
+    "summary": "烏伯盃女團賽中白馭珀領軍中華隊5比0擊敗大溪地，確定晉級8強。",
+    "http_status": 200
+   },
+   {
+    "title": "台北羽球賽 戴資穎、周天成、麟洋配晉4強",
+    "url": "https://news.pts.org.tw/article/591666",
+    "source": "news",
+    "outlet": "公視新聞網",
+    "date": "2022-07-23",
+    "summary": "台北羽球公開賽女單8強，白馭珀不敵戴資穎止步。",
+    "http_status": 200
+   },
+   {
+    "title": "丹麥羽球賽 台灣選手力拼4強門票",
+    "url": "https://news.pts.org.tw/article/605745",
+    "source": "news",
+    "outlet": "公視新聞網",
+    "date": "2022-10-21",
+    "summary": "丹麥公開賽白馭珀擊敗日本奧原希望，晉級女單8強。",
+    "http_status": 200
+   },
+   {
+    "title": "Pai Yu-po - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pai_Yu-po",
+    "source": "other",
+    "outlet": "Wikipedia",
+    "date": "",
+    "summary": "台北出生的中華台北羽球女單選手白馭珀的維基百科條目，含生涯戰績與排名。",
+    "http_status": 200
+   }
+  ],
+  "notes": "未取得其Facebook/Instagram連結。"
+ },
+ {
+  "id": 3182,
+  "name": "鄭育沛",
+  "links": [],
+  "notes": "搜尋結果僅有姓鄭的其他羽球選手，無法對應，不收錄。"
+ },
+ {
+  "id": 3669,
+  "name": "楊博涵",
+  "links": [
+   {
+    "title": "楊博涵、盧敬堯不敵世錦賽銅牌組合 印尼公開賽出局",
+    "url": "https://www.cna.com.tw/news/aspt/202206140300.aspx",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2022-06-14",
+    "summary": "男雙選手楊博涵與盧敬堯在印尼公開賽首輪落敗的報導。",
+    "http_status": 200
+   },
+   {
+    "title": "體育週報／德國羽賽男雙台灣內戰 「楊肉盧」睽違6年再奪冠",
+    "url": "https://news.pts.org.tw/article/608056",
+    "source": "news",
+    "outlet": "公視新聞網",
+    "date": "2022-11-07",
+    "summary": "楊博涵與盧敬堯（楊肉盧）在德國公開賽男雙奪冠，睽違6年再獲國際賽冠軍。",
+    "http_status": 200
+   },
+   {
+    "title": "丹麥羽賽／楊博涵、劉廣珩克制喊聲 晉男雙16強",
+    "url": "https://udn.com/news/story/7005/9070008",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2025-10-14",
+    "summary": "楊博涵與劉廣珩搭檔在丹麥公開賽首輪擊敗印度組合，晉級男雙16強。",
+    "http_status": 200
+   }
+  ],
+  "notes": "未取得其Facebook/Instagram連結。"
+ },
+ {
+  "id": 3353,
+  "name": "黃鈺",
+  "links": [],
+  "notes": "同名者多，搜尋結果中無可確認的羽球選手『黃鈺』，不收錄。"
+ },
+ {
+  "id": 3591,
+  "name": "柯泊爾",
+  "links": [],
+  "notes": "搜尋無任何對應此柔道選手的結果，不收錄。"
+ },
+ {
+  "id": 3567,
+  "name": "彰化縣和群國中柔道隊",
+  "links": [],
+  "notes": "搜尋僅有招生簡章、縣長盃承辦及活動中心啟用等資料，無柔道隊專屬報導，不收錄。"
+ },
+ {
+  "id": 3241,
+  "name": "國立台東高商柔道隊",
+  "links": [],
+  "notes": "搜尋結果僅涉及台東高商管樂團、競賽等，無柔道隊資料，不收錄。"
+ },
+ {
+  "id": 3413,
+  "name": "中信金融管理學院柔道隊",
+  "links": [],
+  "notes": "搜尋結果皆為中金院籃球隊或跆拳道隊報導，無柔道隊專屬內容，不收錄。"
+ },
+ {
+  "id": 3339,
+  "name": "呂瑀恩",
+  "links": [],
+  "notes": "搜尋無任何對應此桌球選手的結果，不收錄。"
+ },
+ {
+  "id": 3204,
+  "name": "高承睿",
+  "links": [
+   {
+    "title": "桌球／柚香林萌好威！林昀儒、高承睿勝中國強敵 世錦賽男雙保底銅牌",
+    "url": "https://news.tvbs.com.tw/sports/2879052",
+    "source": "news",
+    "outlet": "TVBS新聞網",
+    "date": "2025-05-23",
+    "summary": "高承睿與林昀儒搭檔於世錦賽男雙8強擊敗中國組合，確定至少奪得銅牌。",
+    "http_status": 200
+   },
+   {
+    "title": "桌球／名古屋亞運恐無緣 高承睿正向看待：現在就專注養傷",
+    "url": "https://udn.com/news/story/7005/9321949",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-02-10",
+    "summary": "高承睿因傷影響名古屋亞運國手資格，表示目前優先專注養傷。",
+    "http_status": 200
+   }
+  ],
+  "notes": "未取得其Facebook/Instagram連結。"
+ },
+ {
+  "id": 3621,
+  "name": "吳沅鍇",
+  "links": [],
+  "notes": "搜尋無任何對應此桌球選手的結果，不收錄。"
+ },
+ {
+  "id": 3552,
+  "name": "陳芷妍",
+  "links": [],
+  "notes": "搜尋摘要顯示自由時報2026-07-18報導『桌球》直落三擊退香港削球手 14歲陳芷妍越級奪下U19女單冠軍』（合庫小將，南門國中畢業、即將就讀華江高中），但未取得單篇網址，故不收錄；另有中金院跆拳道女子49公斤級同名者，非本項目。"
+ },
+ {
+  "id": 3681,
+  "name": "郭冠宏",
+  "links": [
+   {
+    "title": "桌球／郭冠宏橫掃第7種子德國好手 晉WTT球星挑戰賽16強",
+    "url": "https://udn.com/news/story/7005/9271132",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-01-17",
+    "summary": "17歲郭冠宏在WTT杜哈球星挑戰賽直落三擊敗第7種子杜達，晉級男單16強。",
+    "http_status": 200
+   },
+   {
+    "title": "桌球／WTT新加坡男雙賽 馮翊新、郭冠宏首輪落敗",
+    "url": "https://udn.com/news/story/7005/9337672",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-02-22",
+    "summary": "郭冠宏與馮翊新搭檔在WTT新加坡大滿貫男雙首輪落敗。",
+    "http_status": 200
+   },
+   {
+    "title": "馮翊新、郭冠宏不敵中國組合 亞運桌球男雙止步8強",
+    "url": "https://cna.com.tw/news/aspt/202609260117.aspx",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2026-09-26",
+    "summary": "名古屋亞運桌球男雙8強，郭冠宏與馮翊新直落三不敵中國組合。",
+    "http_status": 200
+   }
+  ],
+  "notes": "未取得其Facebook/Instagram連結。"
+ },
+ {
+  "id": 3674,
+  "name": "羅允呈",
+  "links": [],
+  "notes": "搜尋無任何對應此桌球選手的結果，不收錄。"
+ },
+ {
+  "id": 3679,
+  "name": "劉苡硯",
+  "links": [],
+  "notes": "搜尋無任何對應此網球選手的結果，不收錄。"
+ }
+]

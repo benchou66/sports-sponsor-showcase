@@ -1,0 +1,425 @@
+[
+ {
+  "id": 3378,
+  "name": "白河商工排球隊",
+  "links": [
+   {
+    "title": "白河商工粉絲頁",
+    "url": "https://www.facebook.com/p/%E7%99%BD%E6%B2%B3%E5%95%86%E5%B7%A5%E7%B2%89%E7%B5%B2%E9%A0%81-100063910970206/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "臺南市白河區國立白河商工的學校粉絲專頁，可追蹤校內活動；頁面未特別標示排球隊內容。",
+    "http_status": 400
+   }
+  ],
+  "notes": "未搜尋到專屬排球隊報導或粉專；僅保留學校官方粉絲頁。搜尋額度用盡，未能進一步補查。"
+ },
+ {
+  "id": 3422,
+  "name": "中信金融管理學院女子排球隊",
+  "links": [
+   {
+    "title": "義力營造與中金院產學合作 共創女子排球永續發展新典範",
+    "url": "https://www.cna.com.tw/postwrite/chi/436590",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2026-06-17",
+    "summary": "義力營造與中信金融管理學院簽約合作推動女子排球發展，報導中並有中金院女排隊長江昀庭代表球隊致詞。",
+    "http_status": 200
+   },
+   {
+    "title": "UVL／粉碎台師連26季晉決賽美夢 成軍3年中信將和衛冕軍北市大爭冠",
+    "url": "https://udn.com/news/story/7003/9409126",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-03-28",
+    "summary": "成軍三年的中信學院女排在大專排球聯賽(UVL)公開女子組四強賽3比2擊敗台灣師大，首度闖進冠軍戰。",
+    "http_status": 200
+   },
+   {
+    "title": "中金院運動代表隊年度大豐收 聯賽冠軍與金牌數寫下校史新紀錄",
+    "url": "https://www.cna.com.tw/postwrite/chi/378678",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2024-08-13",
+    "summary": "介紹中金院各運動代表隊年度成績，其中提到女子排球隊首次參加大專排球聯賽即奪下UVL冠軍（另含跆拳道等隊伍）。",
+    "http_status": 200
+   },
+   {
+    "title": "中信金融管理學院 排球社",
+    "url": "https://www.facebook.com/ctbcedu.volleyballteam/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "中信金融管理學院排球社的Facebook粉專；頁面為社團性質，無法確認即為女排校隊專頁。",
+    "http_status": 400
+   }
+  ],
+  "notes": "同校另有女籃、女足報導（nownews 6759018 等）已排除。Facebook 排球社粉專僅供參考，未確認是否為女排校隊官方頁。"
+ },
+ {
+  "id": 3447,
+  "name": "臺中家商女排",
+  "links": [
+   {
+    "title": "臺中家商 學務處",
+    "url": "https://www.facebook.com/p/%E8%87%BA%E4%B8%AD%E5%AE%B6%E5%95%86-%E5%AD%B8%E5%8B%99%E8%99%95-100057403513199/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "臺中家商學務處的Facebook粉專（學校行政單位），頁面未特別標示女排內容，僅作為學校官方資訊入口。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋結果中的臺中市高中排球新聞多為東山高中、豐原高商，與臺中家商無關，已排除。"
+ },
+ {
+  "id": 3346,
+  "name": "台灣同志運動發展協會-女子排球隊",
+  "links": [],
+  "notes": "多次搜尋僅找到協會本身及同志運動會的一般報導，未見女子排球隊的專屬內容，故不收錄。"
+ },
+ {
+  "id": 3545,
+  "name": "國立東石高中排球隊",
+  "links": [
+   {
+    "title": "國立東石高中體育組",
+    "url": "https://www.facebook.com/TSSHSPORT/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "國立東石高中體育組的Facebook粉專，為校內體育事務官方頁面；未明確提及排球隊。",
+    "http_status": 400
+   },
+   {
+    "title": "國立東石高級中學",
+    "url": "https://www.facebook.com/p/%E5%9C%8B%E7%AB%8B%E6%9D%B1%E7%9F%B3%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8-100063728365783/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "國立東石高級中學的學校Facebook粉專，可追蹤校內活動；頁面未特別標示排球隊內容。",
+    "http_status": 400
+   }
+  ],
+  "notes": "未找到排球隊專屬報導；搜尋到的新聞多為該校棒球隊，已排除。"
+ },
+ {
+  "id": 3553,
+  "name": "何勁宏",
+  "links": [
+   {
+    "title": "2025 天正長華 TPGA 職業業餘傳承賽 旅美台灣球員林銓泰奪職業首冠",
+    "url": "https://www.ctee.com.tw/news/20251219701999-431207",
+    "source": "news",
+    "outlet": "工商時報",
+    "date": "2025-12-19",
+    "summary": "天正長華TPGA職業業餘傳承賽報導，何勁宏最後一回合打出67桿，總桿204桿（低於標準桿12桿）並列第四。",
+    "http_status": 200
+   },
+   {
+    "title": "高球／高雄公開賽爭冠白熱化 三人並列領先、最終回分勝負",
+    "url": "https://www.nownews.com/news/6289372",
+    "source": "news",
+    "outlet": "NOWnews今日新聞",
+    "date": "2023-10-27",
+    "summary": "2023年高雄公開賽第三回合，何勁宏打出68桿，與呂偉智等人並列領先。",
+    "http_status": 200
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": 3439,
+  "name": "林緯",
+  "links": [],
+  "notes": "同名者多，搜尋「林緯 高爾夫」未見明確對應的高爾夫選手報導，故不收錄。"
+ },
+ {
+  "id": 3441,
+  "name": "蔡子琦",
+  "links": [
+   {
+    "title": "花式滑輪／TASO壓軸落幕 台灣好手全面備戰前進巴拉圭世錦賽",
+    "url": "https://udn.com/news/story/7005/9451538",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-04-19",
+    "summary": "報導新北市達觀國中的花式滑輪新秀蔡子琦在2026臺灣國際花式滑輪溜冰公開賽青年女子組名列第4。",
+    "http_status": 200
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": 3347,
+  "name": "臺東縣康樂國小競速滑輪溜冰隊",
+  "links": [],
+  "notes": "搜尋結果僅有其他縣市的競賽規程與賽事文件，未見康樂國小溜冰隊專屬內容，故不收錄。"
+ },
+ {
+  "id": 3263,
+  "name": "林宜學",
+  "links": [
+   {
+    "title": "花式滑輪／林宜學「運科滑輪」衝第一 王曉晞一圓國手夢",
+    "url": "https://udn.com/news/story/7005/9448746",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-04-17",
+    "summary": "2026臺灣國際花式滑輪溜冰公開賽，男子選手林宜學在短曲預賽排名組別第一，報導稱他為「運科滑輪」好手。",
+    "http_status": 200
+   },
+   {
+    "title": "花式滑輪／杭州亞運金牌洪筱晴短曲輕鬆領先　陳毅帆成年組居第二",
+    "url": "https://www.nownews.com/news/6395014",
+    "source": "news",
+    "outlet": "NOWnews今日新聞",
+    "date": "2024-03-31",
+    "summary": "2024年臺北國際花式滑輪溜冰公開賽，林宜學在男子成年組短曲領先陳毅帆。",
+    "http_status": 200
+   },
+   {
+    "title": "First time style dance in competition | 林宜學 LIN, YI-HSUEH | TARSO 1st place (4K)",
+    "url": "https://www.youtube.com/watch?v=NGWaRpw1ZL0",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "",
+    "summary": "林宜學首次參加Style Dance比賽並在臺灣國際花式滑輪溜冰公開賽奪得第一名的比賽影片。",
+    "http_status": 200
+   },
+   {
+    "title": "Solo Dance Senior Men Free Dance | 林宜學 LIN, YI-HSUEH | Taiwan artistic roller skating open Golden Medal",
+    "url": "https://www.youtube.com/watch?v=a8xZZuUzxm0",
+    "source": "youtube",
+    "outlet": "YouTube",
+    "date": "",
+    "summary": "林宜學在臺灣花式滑輪公開賽Solo Dance成年男子組自由舞奪金的比賽影片。",
+    "http_status": 200
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": 3213,
+  "name": "黃海琍(琍琍姊妹)",
+  "links": [
+   {
+    "title": "台灣體壇美少女學霸姊妹 國際花式滑輪溜冰公開賽再創佳績",
+    "url": "https://udn.com/news/story/7005/9452655",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-04-20",
+    "summary": "報導「琍琍姊妹」在2026臺灣國際花式滑輪溜冰公開賽的表現，姊姊黃海琍青年女子組第4並取得世錦賽國手選拔資格。",
+    "http_status": 200
+   }
+  ],
+  "notes": "另有一則 udn 8903844（琍琍姊妹花亞洲盃奪牌）在搜尋結果中出現，但開啟時回傳 404，故不收錄。"
+ },
+ {
+  "id": 3214,
+  "name": "黃敏琍(琍琍姊妹)",
+  "links": [
+   {
+    "title": "台灣體壇美少女學霸姊妹 國際花式滑輪溜冰公開賽再創佳績",
+    "url": "https://udn.com/news/story/7005/9452655",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-04-20",
+    "summary": "報導「琍琍姊妹」在2026臺灣國際花式滑輪溜冰公開賽的表現，妹妹黃敏琍在少女組獲得第2名。",
+    "http_status": 200
+   }
+  ],
+  "notes": "另有一則 udn 8903844（琍琍姊妹花亞洲盃奪牌）在搜尋結果中出現，但開啟時回傳 404，故不收錄。"
+ },
+ {
+  "id": 3550,
+  "name": "吳若瑄",
+  "links": [
+   {
+    "title": "從溜冰、學科、藝術全上網學 自學生吳若瑄:溜冰時媽媽管不到我",
+    "url": "https://www.cw.com.tw/article/5118739",
+    "source": "news",
+    "outlet": "天下雜誌",
+    "date": "",
+    "summary": "天下雜誌專題，介紹自學生吳若瑄的溜冰訓練（西班牙教練視訊指導）與服裝設計興趣。",
+    "http_status": 200
+   },
+   {
+    "title": "花式滑輪／義大利雙人金牌揭序幕 台灣公開賽上演亞洲新星對決",
+    "url": "https://udn.com/news/story/7005/9450190",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-04-18",
+    "summary": "報導2026臺灣國際花式滑輪溜冰公開賽開幕表演，吳若瑄與林宜學等國內好手登場演出。",
+    "http_status": 200
+   },
+   {
+    "title": "花式滑輪／林宜學「運科滑輪」衝第一 王曉晞一圓國手夢",
+    "url": "https://udn.com/news/story/7005/9448746",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-04-17",
+    "summary": "2026臺灣國際花式滑輪溜冰公開賽賽事報導，內文提到吳若瑄為近年國際賽成績亮眼的好手。",
+    "http_status": 200
+   }
+  ],
+  "notes": "天下雜誌連結無法直接開啟（403），標題取自搜尋結果內容，日期未能確認。"
+ },
+ {
+  "id": 3500,
+  "name": "涂舒婷",
+  "links": [],
+  "notes": "多次搜尋未見與該選手相符的報導，故不收錄。"
+ },
+ {
+  "id": 3637,
+  "name": "龎式晴",
+  "links": [
+   {
+    "title": "滑輪溜冰》世錦賽速度過樁奪5金 黃詩庭3度落選國手不放棄終摘金牌",
+    "url": "https://www.peoplenews.tw/?p=60102",
+    "source": "news",
+    "outlet": "人間福報",
+    "date": "2026-10-08",
+    "summary": "2026世界滑輪錦標賽速度過樁項目報導，龎式晴拿下青年女子組銀牌。",
+    "http_status": 200
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": 3689,
+  "name": "林家慶",
+  "links": [],
+  "notes": "搜尋未見與滑輪溜冰相符的林家慶報導，故不收錄。"
+ },
+ {
+  "id": 3498,
+  "name": "莊凱勝",
+  "links": [],
+  "notes": "搜尋未見與帆船相符的莊凱勝報導，故不收錄。"
+ },
+ {
+  "id": 3503,
+  "name": "陳秉濬",
+  "links": [
+   {
+    "title": "亞洲青少年擊劍錦標賽 台灣銳劍男團斬韓完成衛冕",
+    "url": "https://www.cna.com.tw/news/aspt/202502240006.aspx",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2025-02-24",
+    "summary": "2025亞洲青少年擊劍錦標賽，台灣男團擊敗中、韓衛冕，陳秉濬在金牌戰扛下關鍵對決。",
+    "http_status": 200
+   },
+   {
+    "title": "亞青擊劍賽台灣銳劍男團奪金 擊退中、韓強敵完成連霸寫歷史",
+    "url": "https://news.pts.org.tw/article/739162",
+    "source": "news",
+    "outlet": "公視新聞網",
+    "date": "2025-02-24",
+    "summary": "報導台灣男團亞青賽奪金連霸，來自台北市立中正高中的陳秉濬為隊伍主將。",
+    "http_status": 200
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": 3671,
+  "name": "楊謹蔓",
+  "links": [],
+  "notes": "搜尋未見與擊劍相符的楊謹蔓報導，故不收錄。"
+ },
+ {
+  "id": 3295,
+  "name": "洪莉翔",
+  "links": [
+   {
+    "title": "洪莉翔突破心理障礙 首摘亞青女子銳劍銅牌",
+    "url": "https://www.cna.com.tw/news/aspt/202502270209.aspx",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2025-02-27",
+    "summary": "洪莉翔在2025亞洲青少年擊劍錦標賽女子銳劍奪銅，為個人首次站上亞青賽頒獎台。",
+    "http_status": 200
+   },
+   {
+    "title": "洪莉翔擊劍亞青賽奪銅 連兩年登上頒獎台",
+    "url": "https://www.dcard.tw/f/sportsevents/p/260950971",
+    "source": "other",
+    "outlet": "Dcard",
+    "date": "",
+    "summary": "Dcard轉載中央社報導，洪莉翔在2026亞青賽女子銳劍再奪銅牌，連續兩年登上頒獎台。",
+    "http_status": 403
+   }
+  ],
+  "notes": "Dcard 頁面無法直接開啟（403），標題與內容取自搜尋結果；日期未能確認。"
+ },
+ {
+  "id": 3435,
+  "name": "丁儒嫙",
+  "links": [],
+  "notes": "搜尋未見與擊劍相符的丁儒嫙報導，故不收錄。"
+ },
+ {
+  "id": 3436,
+  "name": "郭章傑",
+  "links": [],
+  "notes": "搜尋未見與擊劍相符的郭章傑報導（僅出現名字相近的他人），故不收錄。"
+ },
+ {
+  "id": 3677,
+  "name": "林雨潔",
+  "links": [
+   {
+    "title": "擊劍／小將林雨潔U17世界第一 7歲起鍾情擊劍專注感",
+    "url": "https://udn.com/news/story/7005/9301617",
+    "source": "news",
+    "outlet": "聯合新聞網",
+    "date": "2026-02-01",
+    "summary": "15歲銳劍選手林雨潔在埃及青少年銳劍世界盃奪冠，躍升U17世界排名第一。",
+    "http_status": 200
+   },
+   {
+    "title": "林雨潔U17世界排名登頂 7歲愛上擊劍享受專注【專訪】",
+    "url": "https://www.cna.com.tw/news/aspt/202602010033.aspx",
+    "source": "news",
+    "outlet": "中央社",
+    "date": "2026-02-01",
+    "summary": "中央社專訪銳劍選手林雨潔，談她7歲接觸擊劍、返台訓練並登上U17世界第一的歷程。",
+    "http_status": 200
+   }
+  ],
+  "notes": "同名者多（另有同名鋼琴家），僅保留有銳劍佐證的連結。"
+ },
+ {
+  "id": 3361,
+  "name": "國立體育大學武術隊",
+  "links": [
+   {
+    "title": "NTSU 國立體育大學 武術隊",
+    "url": "https://www.facebook.com/ntsuwushu/",
+    "source": "facebook",
+    "outlet": "Facebook",
+    "date": "",
+    "summary": "國立體育大學武術隊的Facebook官方粉絲專頁，提供表演洽詢與隊伍動態。",
+    "http_status": 400
+   }
+  ],
+  "notes": "搜尋結果中的武術隊新聞多為南華大學，已排除。"
+ },
+ {
+  "id": 3417,
+  "name": "莊淨涵",
+  "links": [],
+  "notes": "搜尋未見與體操相符的莊淨涵報導，故不收錄。"
+ },
+ {
+  "id": 3703,
+  "name": "周登朋",
+  "links": [],
+  "notes": "搜尋未見與體操相符的周登朋報導，故不收錄。"
+ }
+]
