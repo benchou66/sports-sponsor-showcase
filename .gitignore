@@ -5,3 +5,5 @@ Thumbs.db
 desktop.ini
 # 原始解析度圖檔（1.6 GB）只存本機，不進 git；網站用的壓縮版在 site/img/
 data/images_original/
+# 內部 staging 後台截圖、操作手冊與填寫範例，不公開到 GitHub
+需填資料/
